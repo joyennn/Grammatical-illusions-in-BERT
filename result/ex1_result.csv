@@ -1,0 +1,801 @@
+Ex,No,Item,Filler,Grammaticality,Attractor,Surprisal
+1A,1,The slogan on the poster [MASK] designed.,was,Grammatical,SG,0.127793302
+1A,1,The slogan on the posters [MASK] designed.,was,Grammatical,PL,0.299971664
+1A,1,The slogan on the poster [MASK] designed.,were,Ungrammatical,SG,4.457130977
+1A,1,The slogan on the posters [MASK] designed.,were,Ungrammatical,PL,2.242640634
+1A,2,The picture on the flier [MASK] rosy.,was,Grammatical,SG,0.161591585
+1A,2,The picture on the fliers [MASK] rosy.,was,Grammatical,PL,0.168993257
+1A,2,The picture on the flier [MASK] rosy.,were,Ungrammatical,SG,7.338855789
+1A,2,The picture on the fliers [MASK] rosy.,were,Ungrammatical,PL,5.818133616
+1A,3,The mistake in the program [MASK] disastrous.,was,Grammatical,SG,0.253282073
+1A,3,The mistake in the programs [MASK] disastrous.,was,Grammatical,PL,0.181435269
+1A,3,The mistake in the program [MASK] disastrous.,were,Ungrammatical,SG,7.069434647
+1A,3,The mistake in the programs [MASK] disastrous.,were,Ungrammatical,PL,4.949770667
+1A,4,The label on the container [MASK] vague.,was,Grammatical,SG,0.161835326
+1A,4,The label on the containers [MASK] vague.,was,Grammatical,PL,0.1355631
+1A,4,The label on the container [MASK] vague.,were,Ungrammatical,SG,7.820611531
+1A,4,The label on the containers [MASK] vague.,were,Ungrammatical,PL,6.735761864
+1A,5,The problem in the store [MASK] solved.,was,Grammatical,SG,0.965733302
+1A,5,The problem in the stores [MASK] solved.,was,Grammatical,PL,0.539694196
+1A,5,The problem in the store [MASK] solved.,were,Ungrammatical,SG,5.686945769
+1A,5,The problem in the stores [MASK] solved.,were,Ungrammatical,PL,3.361721388
+1A,6,The name on the billboard [MASK] incorrect.,was,Grammatical,SG,0.632392951
+1A,6,The name on the billboards [MASK] incorrect.,was,Grammatical,PL,0.531542146
+1A,6,The name on the billboard [MASK] incorrect.,were,Ungrammatical,SG,8.008495443
+1A,6,The name on the billboards [MASK] incorrect.,were,Ungrammatical,PL,6.444859329
+1A,7,The crime in the suburb [MASK] violent.,was,Grammatical,SG,1.890179233
+1A,7,The crime in the suburbs [MASK] violent.,was,Grammatical,PL,1.150971674
+1A,7,The crime in the suburb [MASK] violent.,were,Ungrammatical,SG,7.148902379
+1A,7,The crime in the suburbs [MASK] violent.,were,Ungrammatical,PL,6.616545041
+1A,8,The defect in the appliance [MASK] unknown.,was,Grammatical,SG,1.648683201
+1A,8,The defect in the appliances [MASK] unknown.,was,Grammatical,PL,1.555115187
+1A,8,The defect in the appliance [MASK] unknown.,were,Ungrammatical,SG,8.177469377
+1A,8,The defect in the appliances [MASK] unknown.,were,Ungrammatical,PL,6.489458459
+1A,9,The citation on the notecard [MASK] available.,was,Grammatical,SG,2.755022561
+1A,9,The citation on the notecards [MASK] available.,was,Grammatical,PL,3.261361308
+1A,9,The citation on the notecard [MASK] available.,were,Ungrammatical,SG,4.205076682
+1A,9,The citation on the notecards [MASK] available.,were,Ungrammatical,PL,4.201848123
+1A,10,The advertisement on the skyscraper [MASK] unreadable.,was,Grammatical,SG,0.120314776
+1A,10,The advertisement on the skyscrapers [MASK] unreadable.,was,Grammatical,PL,0.142588869
+1A,10,The advertisement on the skyscraper [MASK] unreadable.,were,Ungrammatical,SG,5.669263012
+1A,10,The advertisement on the skyscrapers [MASK] unreadable.,were,Ungrammatical,PL,3.373635499
+1A,11,The traitor in the camp [MASK] dead.,was,Grammatical,SG,0.153960075
+1A,11,The traitor in the camps [MASK] dead.,was,Grammatical,PL,0.240443433
+1A,11,The traitor in the camp [MASK] dead.,were,Ungrammatical,SG,6.864482198
+1A,11,The traitor in the camps [MASK] dead.,were,Ungrammatical,PL,5.026572046
+1A,12,The flaw in the argument [MASK] clear.,was,Grammatical,SG,0.247931733
+1A,12,The flaw in the arguments [MASK] clear.,was,Grammatical,PL,0.317682244
+1A,12,The flaw in the argument [MASK] clear.,were,Ungrammatical,SG,6.434201529
+1A,12,The flaw in the arguments [MASK] clear.,were,Ungrammatical,PL,4.835305313
+1A,13,The door to the laboratory [MASK] unlocked.,was,Grammatical,SG,0.046874884
+1A,13,The door to the laboratories [MASK] unlocked.,was,Grammatical,PL,0.058138305
+1A,13,The door to the laboratory [MASK] unlocked.,were,Ungrammatical,SG,8.42408638
+1A,13,The door to the laboratories [MASK] unlocked.,were,Ungrammatical,PL,6.789270855
+1A,14,The memo from the supervisor [MASK] misunderstood.,was,Grammatical,SG,0.114555676
+1A,14,The memo from the supervisors [MASK] misunderstood.,was,Grammatical,PL,0.08964381
+1A,14,The memo from the supervisor [MASK] misunderstood.,were,Ungrammatical,SG,6.705837577
+1A,14,The memo from the supervisors [MASK] misunderstood.,were,Ungrammatical,PL,5.140436557
+1A,15,The check from the stockbroker [MASK] signed.,was,Grammatical,SG,0.117549374
+1A,15,The check from the stockbrokers [MASK] signed.,was,Grammatical,PL,0.134880174
+1A,15,The check from the stockbroker [MASK] signed.,were,Ungrammatical,SG,7.904765305
+1A,15,The check from the stockbrokers [MASK] signed.,were,Ungrammatical,PL,5.868700189
+1A,16,The key to the cell [MASK] rusty.,was,Grammatical,SG,0.205947252
+1A,16,The key to the cells [MASK] rusty.,was,Grammatical,PL,0.276326493
+1A,16,The key to the cell [MASK] rusty.,were,Ungrammatical,SG,9.080500939
+1A,16,The key to the cells [MASK] rusty.,were,Ungrammatical,PL,7.481600031
+1A,17,The letter from the investigator [MASK] received.,was,Grammatical,SG,0.149672906
+1A,17,The letter from the investigators [MASK] received.,was,Grammatical,PL,0.128281784
+1A,17,The letter from the investigator [MASK] received.,were,Ungrammatical,SG,6.483344524
+1A,17,The letter from the investigators [MASK] received.,were,Ungrammatical,PL,5.196662556
+1A,18,The entrance to the exhibit [MASK] closed.,was,Grammatical,SG,0.581464056
+1A,18,The entrance to the exhibits [MASK] closed.,was,Grammatical,PL,1.607639167
+1A,18,The entrance to the exhibit [MASK] closed.,were,Ungrammatical,SG,7.644836163
+1A,18,The entrance to the exhibits [MASK] closed.,were,Ungrammatical,PL,5.427702777
+1A,19,The warning from the expert [MASK] unnecessary.,was,Grammatical,SG,0.153852191
+1A,19,The warning from the experts [MASK] unnecessary.,was,Grammatical,PL,0.190088339
+1A,19,The warning from the expert [MASK] unnecessary.,were,Ungrammatical,SG,7.134419026
+1A,19,The warning from the experts [MASK] unnecessary.,were,Ungrammatical,PL,6.290135393
+1A,20,The bridge to the island [MASK] burned.,was,Grammatical,SG,0.172672138
+1A,20,The bridge to the islands [MASK] burned.,was,Grammatical,PL,0.167154838
+1A,20,The bridge to the island [MASK] burned.,were,Ungrammatical,SG,5.961954338
+1A,20,The bridge to the islands [MASK] burned.,were,Ungrammatical,PL,3.048724549
+1A,21,The gift from the visitor [MASK] unexpected.,was,Grammatical,SG,0.023073529
+1A,21,The gift from the visitors [MASK] unexpected.,was,Grammatical,PL,0.028357226
+1A,21,The gift from the visitor [MASK] unexpected.,were,Ungrammatical,SG,8.975622525
+1A,21,The gift from the visitors [MASK] unexpected.,were,Ungrammatical,PL,7.654411938
+1A,22,The path to the monument [MASK] straight.,was,Grammatical,SG,0.074330512
+1A,22,The path to the monuments [MASK] straight.,was,Grammatical,PL,0.07414368
+1A,22,The path to the monument [MASK] straight.,were,Ungrammatical,SG,7.58141586
+1A,22,The path to the monuments [MASK] straight.,were,Ungrammatical,PL,7.344282899
+1A,23,The message from the engineer [MASK] simple.,was,Grammatical,SG,0.036740324
+1A,23,The message from the engineers [MASK] simple.,was,Grammatical,PL,0.062663231
+1A,23,The message from the engineer [MASK] simple.,were,Ungrammatical,SG,7.62745193
+1A,23,The message from the engineers [MASK] simple.,were,Ungrammatical,PL,6.053222769
+1A,24,The gate to the pasture [MASK] repaired.,was,Grammatical,SG,0.044446964
+1A,24,The gate to the pastures [MASK] repaired.,was,Grammatical,PL,0.071156914
+1A,24,The gate to the pasture [MASK] repaired.,were,Ungrammatical,SG,6.345813624
+1A,24,The gate to the pastures [MASK] repaired.,were,Ungrammatical,PL,4.14279608
+1A,25,The advertisement from the club [MASK] colorful.,was,Grammatical,SG,0.098652185
+1A,25,The advertisement from the clubs [MASK] colorful.,was,Grammatical,PL,0.1227464
+1A,25,The advertisement from the club [MASK] colorful.,were,Ungrammatical,SG,5.593549004
+1A,25,The advertisement from the clubs [MASK] colorful.,were,Ungrammatical,PL,3.183682418
+1A,26,The announcement by the director [MASK] important.,was,Grammatical,SG,0.157837235
+1A,26,The announcement by the directors [MASK] important.,was,Grammatical,PL,0.163530165
+1A,26,The announcement by the director [MASK] important.,were,Ungrammatical,SG,7.753290594
+1A,26,The announcement by the directors [MASK] important.,were,Ungrammatical,PL,6.922403064
+1A,27,The article by the writer [MASK] confusing.,was,Grammatical,SG,0.706841191
+1A,27,The article by the writers [MASK] confusing.,was,Grammatical,PL,0.79330366
+1A,27,The article by the writer [MASK] confusing.,were,Ungrammatical,SG,8.325917452
+1A,27,The article by the writers [MASK] confusing.,were,Ungrammatical,PL,7.030795204
+1A,28,The author of the speech [MASK] young.,was,Grammatical,SG,0.657344085
+1A,28,The author of the speeches [MASK] young.,was,Grammatical,PL,0.931648427
+1A,28,The author of the speech [MASK] young.,were,Ungrammatical,SG,6.085479005
+1A,28,The author of the speeches [MASK] young.,were,Ungrammatical,PL,5.877473292
+1A,29,The bill from the accountant [MASK] reasonable.,was,Grammatical,SG,0.265429847
+1A,29,The bill from the accountants [MASK] reasonable.,was,Grammatical,PL,0.246217253
+1A,29,The bill from the accountant [MASK] reasonable.,were,Ungrammatical,SG,7.196957909
+1A,29,The bill from the accountants [MASK] reasonable.,were,Ungrammatical,PL,6.711151595
+1A,30,The computer with the program [MASK] unavailable.,was,Grammatical,SG,0.454692576
+1A,30,The computer with the programs [MASK] unavailable.,was,Grammatical,PL,0.479403464
+1A,30,The computer with the program [MASK] unavailable.,were,Ungrammatical,SG,6.127505981
+1A,30,The computer with the programs [MASK] unavailable.,were,Ungrammatical,PL,5.226949674
+1A,31,The contract for the actor [MASK] acceptable.,was,Grammatical,SG,0.316506039
+1A,31,The contract for the actors [MASK] acceptable.,was,Grammatical,PL,0.253527533
+1A,31,The contract for the actor [MASK] acceptable.,were,Ungrammatical,SG,6.661636042
+1A,31,The contract for the actors [MASK] acceptable.,were,Ungrammatical,PL,6.3637245
+1A,32,The deck of the yacht [MASK] spacious.,was,Grammatical,SG,0.040504173
+1A,32,The deck of the yachts [MASK] spacious.,was,Grammatical,PL,0.050427884
+1A,32,The deck of the yacht [MASK] spacious.,were,Ungrammatical,SG,8.069510043
+1A,32,The deck of the yachts [MASK] spacious.,were,Ungrammatical,PL,5.503180947
+1A,33,The discussion about the topic [MASK] boring.,was,Grammatical,SG,0.308780387
+1A,33,The discussion about the topics [MASK] boring.,was,Grammatical,PL,0.367598488
+1A,33,The discussion about the topic [MASK] boring.,were,Ungrammatical,SG,6.267225514
+1A,33,The discussion about the topics [MASK] boring.,were,Ungrammatical,PL,5.1591872
+1A,34,The friend of the editor [MASK] blonde.,was,Grammatical,SG,3.050192173
+1A,34,The friend of the editors [MASK] blonde.,was,Grammatical,PL,1.409902715
+1A,34,The friend of the editor [MASK] blonde.,were,Ungrammatical,SG,8.210549117
+1A,34,The friend of the editors [MASK] blonde.,were,Ungrammatical,PL,6.678247563
+1A,35,The gift for the baby [MASK] expensive.,was,Grammatical,SG,0.049050889
+1A,35,The gift for the babies [MASK] expensive.,was,Grammatical,PL,0.054345792
+1A,35,The gift for the baby [MASK] expensive.,were,Ungrammatical,SG,8.218039036
+1A,35,The gift for the babies [MASK] expensive.,were,Ungrammatical,PL,7.749920107
+1A,36,The helicopter for the flight [MASK] safe.,was,Grammatical,SG,0.12673803
+1A,36,The helicopter for the flights [MASK] safe.,was,Grammatical,PL,0.212994772
+1A,36,The helicopter for the flight [MASK] safe.,were,Ungrammatical,SG,5.93788095
+1A,36,The helicopter for the flights [MASK] safe.,were,Ungrammatical,PL,5.294480572
+1A,37,The lesson about the government [MASK] interesting.,was,Grammatical,SG,0.284845112
+1A,37,The lesson about the governments [MASK] interesting.,was,Grammatical,PL,0.281223339
+1A,37,The lesson about the government [MASK] interesting.,were,Ungrammatical,SG,5.060735413
+1A,37,The lesson about the governments [MASK] interesting.,were,Ungrammatical,PL,5.155226766
+1A,38,The letter from the friend [MASK] emotional.,was,Grammatical,SG,0.082111223
+1A,38,The letter from the friends [MASK] emotional.,was,Grammatical,PL,0.131843426
+1A,38,The letter from the friend [MASK] emotional.,were,Ungrammatical,SG,7.473819653
+1A,38,The letter from the friends [MASK] emotional.,were,Ungrammatical,PL,5.248802016
+1A,39,The manual for the machine [MASK] comprehensible.,was,Grammatical,SG,0.396879582
+1A,39,The manual for the machines [MASK] comprehensible.,was,Grammatical,PL,0.308070108
+1A,39,The manual for the machine [MASK] comprehensible.,were,Ungrammatical,SG,7.058718046
+1A,39,The manual for the machines [MASK] comprehensible.,were,Ungrammatical,PL,6.487906552
+1A,40,The meal for the guest [MASK] delicious.,was,Grammatical,SG,0.03416607
+1A,40,The meal for the guests [MASK] delicious.,was,Grammatical,PL,0.02191808
+1A,40,The meal for the guest [MASK] delicious.,were,Ungrammatical,SG,8.514464153
+1A,40,The meal for the guests [MASK] delicious.,were,Ungrammatical,PL,8.127161707
+1A,41,The museum with the picture [MASK] open.,was,Grammatical,SG,0.511803654
+1A,41,The museum with the pictures [MASK] open.,was,Grammatical,PL,0.466892973
+1A,41,The museum with the picture [MASK] open.,were,Ungrammatical,SG,6.450855796
+1A,41,The museum with the pictures [MASK] open.,were,Ungrammatical,PL,6.601223745
+1A,42,The new design of the engine [MASK] successful.,was,Grammatical,SG,0.315033665
+1A,42,The new design of the engines [MASK] successful.,was,Grammatical,PL,0.291944847
+1A,42,The new design of the engine [MASK] successful.,were,Ungrammatical,SG,6.453444151
+1A,42,The new design of the engines [MASK] successful.,were,Ungrammatical,PL,4.566213062
+1A,43,The path around the lake [MASK] scenic.,was,Grammatical,SG,0.237614589
+1A,43,The path around the lakes [MASK] scenic.,was,Grammatical,PL,0.320615138
+1A,43,The path around the lake [MASK] scenic.,were,Ungrammatical,SG,8.027435168
+1A,43,The path around the lakes [MASK] scenic.,were,Ungrammatical,PL,6.728693412
+1A,44,The photo of the girl [MASK] blurry.,was,Grammatical,SG,0.125629337
+1A,44,The photo of the girls [MASK] blurry.,was,Grammatical,PL,0.16534901
+1A,44,The photo of the girl [MASK] blurry.,were,Ungrammatical,SG,7.502679318
+1A,44,The photo of the girls [MASK] blurry.,were,Ungrammatical,PL,6.091612923
+1A,45,The prescription from the doctor [MASK] ready.,was,Grammatical,SG,0.04622887
+1A,45,The prescription from the doctors [MASK] ready.,was,Grammatical,PL,0.046891805
+1A,45,The prescription from the doctor [MASK] ready.,were,Ungrammatical,SG,7.17479571
+1A,45,The prescription from the doctors [MASK] ready.,were,Ungrammatical,PL,4.672401058
+1A,46,The producer of the movie [MASK] famous.,was,Grammatical,SG,0.787023065
+1A,46,The producer of the movies [MASK] famous.,was,Grammatical,PL,0.67703602
+1A,46,The producer of the movie [MASK] famous.,were,Ungrammatical,SG,5.339242945
+1A,46,The producer of the movies [MASK] famous.,were,Ungrammatical,PL,4.664575827
+1A,47,The publisher of the book [MASK] wealthy.,was,Grammatical,SG,0.196055012
+1A,47,The publisher of the books [MASK] wealthy.,was,Grammatical,PL,0.162460764
+1A,47,The publisher of the book [MASK] wealthy.,were,Ungrammatical,SG,5.972894266
+1A,47,The publisher of the books [MASK] wealthy.,were,Ungrammatical,PL,5.245213846
+1A,48,The statue in the garden [MASK] impressive.,was,Grammatical,SG,0.335544359
+1A,48,The statue in the gardens [MASK] impressive.,was,Grammatical,PL,0.293350023
+1A,48,The statue in the garden [MASK] impressive.,were,Ungrammatical,SG,7.868602536
+1A,48,The statue in the gardens [MASK] impressive.,were,Ungrammatical,PL,6.739205123
+1A,49,The support for the platform [MASK] solid.,was,Grammatical,SG,2.458257787
+1A,49,The support for the platforms [MASK] solid.,was,Grammatical,PL,2.009915921
+1A,49,The support for the platform [MASK] solid.,were,Ungrammatical,SG,7.384167701
+1A,49,The support for the platforms [MASK] solid.,were,Ungrammatical,PL,5.552501307
+1A,50,The switch for the light [MASK] hidden.,was,Grammatical,SG,0.100066328
+1A,50,The switch for the lights [MASK] hidden.,was,Grammatical,PL,0.111559531
+1A,50,The switch for the light [MASK] hidden.,were,Ungrammatical,SG,6.975619453
+1A,50,The switch for the lights [MASK] hidden.,were,Ungrammatical,PL,6.208315478
+1A,51,The telegram to the soldier [MASK] unexpected.,was,Grammatical,SG,0.041364737
+1A,51,The telegram to the soldiers [MASK] unexpected.,was,Grammatical,PL,0.053584461
+1A,51,The telegram to the soldier [MASK] unexpected.,were,Ungrammatical,SG,7.872597616
+1A,51,The telegram to the soldiers [MASK] unexpected.,were,Ungrammatical,PL,6.709629434
+1A,52,The threat to the president [MASK] serious.,was,Grammatical,SG,0.095351288
+1A,52,The threat to the presidents [MASK] serious.,was,Grammatical,PL,0.119319233
+1A,52,The threat to the president [MASK] serious.,were,Ungrammatical,SG,7.120027075
+1A,52,The threat to the presidents [MASK] serious.,were,Ungrammatical,PL,5.8287843
+1A,53,The tour of the museum [MASK] disappointing.,was,Grammatical,SG,0.054109053
+1A,53,The tour of the museums [MASK] disappointing.,was,Grammatical,PL,0.058270792
+1A,53,The tour of the museum [MASK] disappointing.,were,Ungrammatical,SG,6.630413454
+1A,53,The tour of the museums [MASK] disappointing.,were,Ungrammatical,PL,6.46302834
+1A,54,The train to the city [MASK] crowded.,was,Grammatical,SG,0.05487082
+1A,54,The train to the cities [MASK] crowded.,was,Grammatical,PL,0.092646275
+1A,54,The train to the city [MASK] crowded.,were,Ungrammatical,SG,7.804466466
+1A,54,The train to the cities [MASK] crowded.,were,Ungrammatical,PL,6.018041333
+1A,55,The truck on the bridge [MASK] noisy.,was,Grammatical,SG,0.106340534
+1A,55,The truck on the bridges [MASK] noisy.,was,Grammatical,PL,0.093189622
+1A,55,The truck on the bridge [MASK] noisy.,were,Ungrammatical,SG,6.885109208
+1A,55,The truck on the bridges [MASK] noisy.,were,Ungrammatical,PL,4.808062999
+1A,56,The bookcase with the carving [MASK] gorgeous.,was,Grammatical,SG,0.108541201
+1A,56,The bookcase with the carvings [MASK] gorgeous.,was,Grammatical,PL,0.077461421
+1A,56,The bookcase with the carving [MASK] gorgeous.,were,Ungrammatical,SG,8.387508187
+1A,56,The bookcase with the carvings [MASK] gorgeous.,were,Ungrammatical,PL,7.924247916
+1A,57,The car with the sticker [MASK] ridiculous.,was,Grammatical,SG,0.537556727
+1A,57,The car with the stickers [MASK] ridiculous.,was,Grammatical,PL,0.439473112
+1A,57,The car with the sticker [MASK] ridiculous.,were,Ungrammatical,SG,7.549223079
+1A,57,The car with the stickers [MASK] ridiculous.,were,Ungrammatical,PL,7.100587814
+1A,58,The uniform with the star [MASK] abondoned.,was,Grammatical,SG,0.567086844
+1A,58,The uniform with the stars [MASK] abondoned.,was,Grammatical,PL,1.014560655
+1A,58,The uniform with the star [MASK] abondoned.,were,Ungrammatical,SG,5.150341698
+1A,58,The uniform with the stars [MASK] abondoned.,were,Ungrammatical,PL,3.216001599
+1A,59,The coat with the tag [MASK] hung.,was,Grammatical,SG,1.729735575
+1A,59,The coat with the tags [MASK] hung.,was,Grammatical,PL,1.786072109
+1A,59,The coat with the tag [MASK] hung.,were,Ungrammatical,SG,6.314816745
+1A,59,The coat with the tags [MASK] hung.,were,Ungrammatical,PL,4.773718794
+1A,60,The castle with the torch [MASK] mysterious.,was,Grammatical,SG,1.314942381
+1A,60,The castle with the torches [MASK] mysterious.,was,Grammatical,PL,0.500879409
+1A,60,The castle with the torch [MASK] mysterious.,were,Ungrammatical,SG,6.022387406
+1A,60,The castle with the torches [MASK] mysterious.,were,Ungrammatical,PL,5.423897293
+1A,61,The magazine with the illustration [MASK] sold.,was,Grammatical,SG,0.47218111
+1A,61,The magazine with the illustrations [MASK] sold.,was,Grammatical,PL,0.468666366
+1A,61,The magazine with the illustration [MASK] sold.,were,Ungrammatical,SG,5.09245996
+1A,61,The magazine with the illustrations [MASK] sold.,were,Ungrammatical,PL,4.455012706
+1A,62,The purse with the button [MASK] lost.,was,Grammatical,SG,0.285409574
+1A,62,The purse with the buttons [MASK] lost.,was,Grammatical,PL,0.200589111
+1A,62,The purse with the button [MASK] lost.,were,Ungrammatical,SG,5.63858667
+1A,62,The purse with the buttons [MASK] lost.,were,Ungrammatical,PL,4.816407977
+1A,63,The suit with the rip [MASK] mended.,was,Grammatical,SG,0.893430198
+1A,63,The suit with the rips [MASK] mended.,was,Grammatical,PL,0.308866227
+1A,63,The suit with the rip [MASK] mended.,were,Ungrammatical,SG,6.276222538
+1A,63,The suit with the rips [MASK] mended.,were,Ungrammatical,PL,2.79248295
+1A,64,The bracelet with the bead [MASK] lovely.,was,Grammatical,SG,0.199193842
+1A,64,The bracelet with the beads [MASK] lovely.,was,Grammatical,PL,0.295842659
+1A,64,The bracelet with the bead [MASK] lovely.,were,Ungrammatical,SG,7.64680282
+1A,64,The bracelet with the beads [MASK] lovely.,were,Ungrammatical,PL,6.512855023
+1A,65,The backpack with the buckle [MASK] heavy.,was,Grammatical,SG,0.189303601
+1A,65,The backpack with the buckles [MASK] heavy.,was,Grammatical,PL,0.194939165
+1A,65,The backpack with the buckle [MASK] heavy.,were,Ungrammatical,SG,7.457581251
+1A,65,The backpack with the buckles [MASK] heavy.,were,Ungrammatical,PL,6.151120653
+1A,66,The watch with the jewel [MASK] broken.,was,Grammatical,SG,0.26636956
+1A,66,The watch with the jewels [MASK] broken.,was,Grammatical,PL,0.298841135
+1A,66,The watch with the jewel [MASK] broken.,were,Ungrammatical,SG,5.308778431
+1A,66,The watch with the jewels [MASK] broken.,were,Ungrammatical,PL,3.982210812
+1A,67,The apartment with the closet [MASK] popular.,was,Grammatical,SG,0.177661151
+1A,67,The apartment with the closets [MASK] popular.,was,Grammatical,PL,0.197928122
+1A,67,The apartment with the closet [MASK] popular.,were,Ungrammatical,SG,6.896868328
+1A,67,The apartment with the closets [MASK] popular.,were,Ungrammatical,PL,6.529742933
+1A,68,The catalog for the store [MASK] printed.,was,Grammatical,SG,0.039331161
+1A,68,The catalog for the stores [MASK] printed.,was,Grammatical,PL,0.080339106
+1A,68,The catalog for the store [MASK] printed.,were,Ungrammatical,SG,7.812296104
+1A,68,The catalog for the stores [MASK] printed.,were,Ungrammatical,PL,6.174174011
+1A,69,The fax about the company [MASK] sent.,was,Grammatical,SG,0.109966985
+1A,69,The fax about the companies [MASK] sent.,was,Grammatical,PL,0.131445094
+1A,69,The fax about the company [MASK] sent.,were,Ungrammatical,SG,6.094701551
+1A,69,The fax about the companies [MASK] sent.,were,Ungrammatical,PL,4.276128001
+1A,70,The safe for the necklace [MASK] stolen.,was,Grammatical,SG,0.531678248
+1A,70,The safe for the necklaces [MASK] stolen.,was,Grammatical,PL,0.702477574
+1A,70,The safe for the necklace [MASK] stolen.,were,Ungrammatical,SG,5.608056943
+1A,70,The safe for the necklaces [MASK] stolen.,were,Ungrammatical,PL,5.01031228
+1A,71,The ball for the game [MASK] rolling.,was,Grammatical,SG,1.231566098
+1A,71,The ball for the games [MASK] rolling.,was,Grammatical,PL,0.879332359
+1A,71,The ball for the game [MASK] rolling.,were,Ungrammatical,SG,6.2127167
+1A,71,The ball for the games [MASK] rolling.,were,Ungrammatical,PL,4.775097257
+1A,72,The keyboard for the computer [MASK] tiny.,was,Grammatical,SG,0.080030867
+1A,72,The keyboard for the computers [MASK] tiny.,was,Grammatical,PL,0.052780915
+1A,72,The keyboard for the computer [MASK] tiny.,were,Ungrammatical,SG,8.267954235
+1A,72,The keyboard for the computers [MASK] tiny.,were,Ungrammatical,PL,6.510275675
+1A,73,The cucumber for the salad [MASK] cut.,was,Grammatical,SG,0.916095063
+1A,73,The cucumber for the salads [MASK] cut.,was,Grammatical,PL,0.855329553
+1A,73,The cucumber for the salad [MASK] cut.,were,Ungrammatical,SG,6.670998792
+1A,73,The cucumber for the salads [MASK] cut.,were,Ungrammatical,PL,5.169008322
+1A,74,The tomato for the sandwich [MASK] sliced.,was,Grammatical,SG,0.121442909
+1A,74,The tomato for the sandwiches [MASK] sliced.,was,Grammatical,PL,0.153922121
+1A,74,The tomato for the sandwich [MASK] sliced.,were,Ungrammatical,SG,4.53768935
+1A,74,The tomato for the sandwiches [MASK] sliced.,were,Ungrammatical,PL,2.358782798
+1A,75,The postcard with the stamp [MASK] crumpled.,was,Grammatical,SG,0.893242585
+1A,75,The postcard with the stamps [MASK] crumpled.,was,Grammatical,PL,0.525680859
+1A,75,The postcard with the stamp [MASK] crumpled.,were,Ungrammatical,SG,4.608682735
+1A,75,The postcard with the stamps [MASK] crumpled.,were,Ungrammatical,PL,3.759348265
+1A,76,The diagram of the skyscraper [MASK] overestimated.,was,Grammatical,SG,0.089828186
+1A,76,The diagram of the skyscrapers [MASK] overestimated.,was,Grammatical,PL,0.101924844
+1A,76,The diagram of the skyscraper [MASK] overestimated.,were,Ungrammatical,SG,6.230776423
+1A,76,The diagram of the skyscrapers [MASK] overestimated.,were,Ungrammatical,PL,4.21081144
+1A,77,The hose for the garden [MASK] long.,was,Grammatical,SG,0.291423755
+1A,77,The hose for the gardens [MASK] long.,was,Grammatical,PL,0.302806072
+1A,77,The hose for the garden [MASK] long.,were,Ungrammatical,SG,3.879329576
+1A,77,The hose for the gardens [MASK] long.,were,Ungrammatical,PL,3.772496453
+1A,78,The tunnel through the mountain [MASK] destroyed.,was,Grammatical,SG,0.198539924
+1A,78,The tunnel through the mountains [MASK] destroyed.,was,Grammatical,PL,0.133952316
+1A,78,The tunnel through the mountain [MASK] destroyed.,were,Ungrammatical,SG,6.720459224
+1A,78,The tunnel through the mountains [MASK] destroyed.,were,Ungrammatical,PL,5.21516922
+1A,79,The highway to the suburb [MASK] blocked.,was,Grammatical,SG,0.076341761
+1A,79,The highway to the suburbs [MASK] blocked.,was,Grammatical,PL,0.061371199
+1A,79,The highway to the suburb [MASK] blocked.,were,Ungrammatical,SG,7.105295292
+1A,79,The highway to the suburbs [MASK] blocked.,were,Ungrammatical,PL,6.184427601
+1A,80,The ring with the diamond [MASK] precious.,was,Grammatical,SG,0.381279311
+1A,80,The ring with the diamonds [MASK] precious.,was,Grammatical,PL,0.436183785
+1A,80,The ring with the diamond [MASK] precious.,were,Ungrammatical,SG,5.912293752
+1A,80,The ring with the diamonds [MASK] precious.,were,Ungrammatical,PL,4.326545582
+1A,81,The apple with the bruise [MASK] blamed.,was,Grammatical,SG,0.091716286
+1A,81,The apple with the bruises [MASK] blamed.,was,Grammatical,PL,0.157468921
+1A,81,The apple with the bruise [MASK] blamed.,were,Ungrammatical,SG,5.308287136
+1A,81,The apple with the bruises [MASK] blamed.,were,Ungrammatical,PL,3.700312701
+1A,82,The lamp with the bulb [MASK] dim.,was,Grammatical,SG,0.294525911
+1A,82,The lamp with the bulbs [MASK] dim.,was,Grammatical,PL,0.244600615
+1A,82,The lamp with the bulb [MASK] dim.,were,Ungrammatical,SG,6.87098974
+1A,82,The lamp with the bulbs [MASK] dim.,were,Ungrammatical,PL,5.381749471
+1A,83,The tree with the branch [MASK] planted.,was,Grammatical,SG,0.830728642
+1A,83,The tree with the branches [MASK] planted.,was,Grammatical,PL,0.769409467
+1A,83,The tree with the branch [MASK] planted.,were,Ungrammatical,SG,5.694391849
+1A,83,The tree with the branches [MASK] planted.,were,Ungrammatical,PL,3.743521946
+1A,84,The pizza with the topping [MASK] delivered.,was,Grammatical,SG,0.172190395
+1A,84,The pizza with the toppings [MASK] delivered.,was,Grammatical,PL,0.143150077
+1A,84,The pizza with the topping [MASK] delivered.,were,Ungrammatical,SG,7.458415112
+1A,84,The pizza with the toppings [MASK] delivered.,were,Ungrammatical,PL,6.256316319
+1A,85,The blanket behind the cabinet [MASK] warm.,was,Grammatical,SG,0.220330249
+1A,85,The blanket behind the cabinets [MASK] warm.,was,Grammatical,PL,0.226914622
+1A,85,The blanket behind the cabinet [MASK] warm.,were,Ungrammatical,SG,8.141688919
+1A,85,The blanket behind the cabinets [MASK] warm.,were,Ungrammatical,PL,7.808980658
+1A,86,The bowl with the crack [MASK] unnoticable.,was,Grammatical,SG,0.161489133
+1A,86,The bowl with the cracks [MASK] unnoticable.,was,Grammatical,PL,0.329519595
+1A,86,The bowl with the crack [MASK] unnoticable.,were,Ungrammatical,SG,6.628492028
+1A,86,The bowl with the cracks [MASK] unnoticable.,were,Ungrammatical,PL,4.90990575
+1A,87,The laptop with the camera [MASK] popular.,was,Grammatical,SG,0.980101794
+1A,87,The laptop with the cameras [MASK] popular.,was,Grammatical,PL,0.679813857
+1A,87,The laptop with the camera [MASK] popular.,were,Ungrammatical,SG,5.489252935
+1A,87,The laptop with the cameras [MASK] popular.,were,Ungrammatical,PL,5.213772329
+1A,88,The rose with the thorn [MASK] beautiful.,was,Grammatical,SG,0.183858918
+1A,88,The rose with the thorns [MASK] beautiful.,was,Grammatical,PL,0.230598776
+1A,88,The rose with the thorn [MASK] beautiful.,were,Ungrammatical,SG,7.12224916
+1A,88,The rose with the thorns [MASK] beautiful.,were,Ungrammatical,PL,7.320784333
+1A,89,The candle with the wick [MASK] unextinguished.,was,Grammatical,SG,0.292072887
+1A,89,The candle with the wicks [MASK] unextinguished.,was,Grammatical,PL,0.322671025
+1A,89,The candle with the wick [MASK] unextinguished.,were,Ungrammatical,SG,5.513335811
+1A,89,The candle with the wicks [MASK] unextinguished.,were,Ungrammatical,PL,4.551269762
+1A,90,The church with the steeple [MASK] remarkable.,was,Grammatical,SG,3.104187775
+1A,90,The church with the steeples [MASK] remarkable.,was,Grammatical,PL,3.196017345
+1A,90,The church with the steeple [MASK] remarkable.,were,Ungrammatical,SG,7.871727684
+1A,90,The church with the steeples [MASK] remarkable.,were,Ungrammatical,PL,7.93007854
+1A,91,The skirt with the hem [MASK] tattered.,was,Grammatical,SG,0.228571995
+1A,91,The skirt with the hems [MASK] tattered.,was,Grammatical,PL,0.317166598
+1A,91,The skirt with the hem [MASK] tattered.,were,Ungrammatical,SG,5.01659891
+1A,91,The skirt with the hems [MASK] tattered.,were,Ungrammatical,PL,2.217698422
+1A,92,The printer with the cartridge [MASK] needed.,was,Grammatical,SG,0.275352818
+1A,92,The printer with the cartridges [MASK] needed.,was,Grammatical,PL,0.476704278
+1A,92,The printer with the cartridge [MASK] needed.,were,Ungrammatical,SG,4.83568263
+1A,92,The printer with the cartridges [MASK] needed.,were,Ungrammatical,PL,2.7186476
+1A,93,The drawer with the inlay [MASK] opened.,was,Grammatical,SG,0.342622852
+1A,93,The drawer with the inlays [MASK] opened.,was,Grammatical,PL,0.214090042
+1A,93,The drawer with the inlay [MASK] opened.,were,Ungrammatical,SG,6.916147793
+1A,93,The drawer with the inlays [MASK] opened.,were,Ungrammatical,PL,6.44123853
+1A,94,The radio with the knob [MASK] cracked.,was,Grammatical,SG,0.872479471
+1A,94,The radio with the knobs [MASK] cracked.,was,Grammatical,PL,0.383224487
+1A,94,The radio with the knob [MASK] cracked.,were,Ungrammatical,SG,6.897551024
+1A,94,The radio with the knobs [MASK] cracked.,were,Ungrammatical,PL,3.139118139
+1A,95,The store near the sidewalk[MASK] crowded.,was,Grammatical,SG,0.055241397
+1A,95,The store near the sidewalk[MASK] crowded.,was,Grammatical,PL,0.055241397
+1A,95,The store near the sidewalk[MASK] crowded.,were,Ungrammatical,SG,7.640736323
+1A,95,The store near the sidewalk[MASK] crowded.,were,Ungrammatical,PL,7.640736323
+1A,96,The train beside the lake[MASK] leaving.,was,Grammatical,SG,0.128949501
+1A,96,The train beside the lake[MASK] leaving.,was,Grammatical,PL,0.128949501
+1A,96,The train beside the lake[MASK] leaving.,were,Ungrammatical,SG,6.998222749
+1A,96,The train beside the lake[MASK] leaving.,were,Ungrammatical,PL,6.998222749
+1A,97,The shoe with the lace [MASK] dropped.,was,Grammatical,SG,2.562864582
+1A,97,The shoe with the laces [MASK] dropped.,was,Grammatical,PL,1.009059698
+1A,97,The shoe with the lace [MASK] dropped.,were,Ungrammatical,SG,7.475570761
+1A,97,The shoe with the laces [MASK] dropped.,were,Ungrammatical,PL,4.94080524
+1A,98,The faucet under the fan[MASK] leaky.,was,Grammatical,SG,0.252351229
+1A,98,The faucet under the fans[MASK] leaky.,was,Grammatical,PL,0.592586972
+1A,98,The faucet under the fan[MASK] leaky.,were,Ungrammatical,SG,8.140735598
+1A,98,The faucet under the fans[MASK] leaky.,were,Ungrammatical,PL,6.683317548
+1A,99,The cake near the blender[MASK] missing.,was,Grammatical,SG,0.201375565
+1A,99,The cake near the blenders[MASK] missing.,was,Grammatical,PL,0.185573352
+1A,99,The cake near the blender[MASK] missing.,were,Ungrammatical,SG,8.373722599
+1A,99,The cake near the blenders[MASK] missing.,were,Ungrammatical,PL,7.753417685
+1A,100,The oven beside the shelf[MASK] preheating.,was,Grammatical,SG,0.414768908
+1A,100,The oven beside the shelves [MASK] preheating.,was,Grammatical,PL,0.36178748
+1A,100,The oven beside the shelf[MASK] preheating.,were,Ungrammatical,SG,8.658685962
+1A,100,The oven beside the shelves[MASK] preheating.,were,Ungrammatical,PL,8.035273163
+1B,1,The tape that promoted the singer [MASK] recorded.,was,Grammatical,SG,0.035121348
+1B,1,The tape that promoted the singers [MASK] recorded.,was,Grammatical,PL,0.031766047
+1B,1,The tape that promoted the singer [MASK] recorded.,were,Ungrammatical,SG,6.854371509
+1B,1,The tape that promoted the singers [MASK] recorded.,were,Ungrammatical,PL,6.365486826
+1B,2,The pamphlet that described the government agency [MASK] informative.,was,Grammatical,SG,0.084897542
+1B,2,The pamphlet that described the government agencies [MASK] informative.,was,Grammatical,PL,0.105783092
+1B,2,The pamphlet that described the government agency [MASK] informative.,were,Ungrammatical,SG,5.899788347
+1B,2,The pamphlet that described the government agencies [MASK] informative.,were,Ungrammatical,PL,3.661193492
+1B,3,The fire-eater who enlivened the sideshow [MASK] surprising.,was,Grammatical,SG,0.040203967
+1B,3,The fire-eater who enlivened the sideshows [MASK] surprising.,was,Grammatical,PL,0.0338041
+1B,3,The fire-eater who enlivened the sideshow [MASK] surprising.,were,Ungrammatical,SG,8.030502109
+1B,3,The fire-eater who enlivened the sideshows [MASK] surprising.,were,Ungrammatical,PL,7.138375519
+1B,4,The bright light that lit the examination room [MASK] disturbing.,was,Grammatical,SG,0.040513851
+1B,4,The bright light that lit the examination rooms [MASK] disturbing.,was,Grammatical,PL,0.043702351
+1B,4,The bright light that lit the examination room [MASK] disturbing.,were,Ungrammatical,SG,5.917229566
+1B,4,The bright light that lit the examination rooms [MASK] disturbing.,were,Ungrammatical,PL,4.545353045
+1B,5,The security force that patrolled the manufacturing plant [MASK] divided.,was,Grammatical,SG,0.037175989
+1B,5,The security force that patrolled the manufacturing plants [MASK] divided.,was,Grammatical,PL,0.039539502
+1B,5,The security force that patrolled the manufacturing plant [MASK] divided.,were,Ungrammatical,SG,5.346104581
+1B,5,The security force that patrolled the manufacturing plants [MASK] divided.,were,Ungrammatical,PL,4.527309603
+1B,6,The confession that involved the television preacher [MASK] true.,was,Grammatical,SG,0.928101826
+1B,6,The confession that involved the television preachers [MASK] true.,was,Grammatical,PL,1.048676437
+1B,6,The confession that involved the television preacher [MASK] true.,were,Ungrammatical,SG,5.964233683
+1B,6,The confession that involved the television preachers [MASK] true.,were,Ungrammatical,PL,5.626915834
+1B,7,The charismatic leader who addressed the dissident group [MASK] employed.,was,Grammatical,SG,0.171062904
+1B,7,The charismatic leader who addressed the dissident groups [MASK] employed.,was,Grammatical,PL,0.261606148
+1B,7,The charismatic leader who addressed the dissident group [MASK] employed.,were,Ungrammatical,SG,5.870914862
+1B,7,The charismatic leader who addressed the dissident groups [MASK] employed.,were,Ungrammatical,PL,3.34634687
+1B,8,The advisor who directed the student [MASK] unqualified.,was,Grammatical,SG,0.090997
+1B,8,The advisor who directed the students [MASK] unqualified.,was,Grammatical,PL,0.078551635
+1B,8,The advisor who directed the student [MASK] unqualified.,were,Ungrammatical,SG,5.191130802
+1B,8,The advisor who directed the students [MASK] unqualified.,were,Ungrammatical,PL,4.449295454
+1B,9,The superintendent who inspected the school[MASK] trustworthy.,was,Grammatical,SG,0.113417062
+1B,9,The superintendent who inspected the schools[MASK] trustworthy.,was,Grammatical,PL,0.077441805
+1B,9,The superintendent who inspected the school[MASK] trustworthy.,were,Ungrammatical,SG,7.838011253
+1B,9,The superintendent who inspected the schools[MASK] trustworthy.,were,Ungrammatical,PL,6.550653046
+1B,10,The memo that concerned the executive [MASK] essential.,was,Grammatical,SG,0.122228136
+1B,10,The memo that concerned the executives [MASK] essential.,was,Grammatical,PL,0.105605618
+1B,10,The memo that concerned the executive [MASK] essential.,were,Ungrammatical,SG,6.614381315
+1B,10,The memo that concerned the executives [MASK] essential.,were,Ungrammatical,PL,6.010354471
+1B,11,The traffic jam that obstructed the street [MASK] solved.,was,Grammatical,SG,0.016827256
+1B,11,The traffic jam that obstructed the streets [MASK] solved.,was,Grammatical,PL,0.029092774
+1B,11,The traffic jam that obstructed the street [MASK] solved.,were,Ungrammatical,SG,6.878696656
+1B,11,The traffic jam that obstructed the streets [MASK] solved.,were,Ungrammatical,PL,4.496871008
+1B,12,The office that belonged to the accountant [MASK] organized.,was,Grammatical,SG,0.142777441
+1B,12,The office that belonged to the accountants [MASK] organized.,was,Grammatical,PL,0.825977804
+1B,12,The office that belonged to the accountant [MASK] organized.,were,Ungrammatical,SG,5.495729495
+1B,12,The office that belonged to the accountants [MASK] organized.,were,Ungrammatical,PL,2.813891995
+1B,13,The rebel soldier who deserted the battle [MASK] arrested.,was,Grammatical,SG,0.082326643
+1B,13,The rebel soldier who deserted the battles [MASK] arrested.,was,Grammatical,PL,0.175468517
+1B,13,The rebel soldier who deserted the battle [MASK] arrested.,were,Ungrammatical,SG,4.912848077
+1B,13,The rebel soldier who deserted the battles [MASK] arrested.,were,Ungrammatical,PL,3.579637577
+1B,14,The actor who directed the film [MASK] awarded.,was,Grammatical,SG,0.213482804
+1B,14,The actor who directed the films [MASK] awarded.,was,Grammatical,PL,0.516392163
+1B,14,The actor who directed the film [MASK] awarded.,were,Ungrammatical,SG,6.862979804
+1B,14,The actor who directed the films [MASK] awarded.,were,Ungrammatical,PL,5.632872034
+1B,15,The consultant who advised the firm [MASK] advisorable.,was,Grammatical,SG,0.509834617
+1B,15,The consultant who advised the firms [MASK] advisorable.,was,Grammatical,PL,0.510232177
+1B,15,The consultant who advised the firm [MASK] advisorable.,were,Ungrammatical,SG,6.097408262
+1B,15,The consultant who advised the firms [MASK] advisorable.,were,Ungrammatical,PL,4.911552647
+1B,16,The teaching assistant who prepared the lab [MASK] brilliant.,was,Grammatical,SG,0.048527596
+1B,16,The teaching assistant who prepared the labs [MASK] brilliant.,was,Grammatical,PL,0.033276059
+1B,16,The teaching assistant who prepared the lab [MASK] brilliant.,were,Ungrammatical,SG,7.631729538
+1B,16,The teaching assistant who prepared the labs [MASK] brilliant.,were,Ungrammatical,PL,6.221277657
+1B,17,The courier who delivered the message [MASK] coming.,was,Grammatical,SG,0.227902495
+1B,17,The courier who delivered the messages [MASK] coming.,was,Grammatical,PL,0.18570378
+1B,17,The courier who delivered the message [MASK] coming.,were,Ungrammatical,SG,8.294319735
+1B,17,The courier who delivered the messages [MASK] coming.,were,Ungrammatical,PL,4.965513799
+1B,18,The star who revived the musical [MASK] talented.,was,Grammatical,SG,0.190087022
+1B,18,The star who revived the musicals [MASK] talented.,was,Grammatical,PL,0.180362782
+1B,18,The star who revived the musical [MASK] talented.,were,Ungrammatical,SG,7.4219968
+1B,18,The star who revived the musicals [MASK] talented.,were,Ungrammatical,PL,7.590682577
+1B,19,The corporation that dissolved the monopoly [MASK] bankrupt.,was,Grammatical,SG,4.054280008
+1B,19,The corporation that dissolved the monopolies [MASK] bankrupt.,was,Grammatical,PL,3.583561434
+1B,19,The corporation that dissolved the monopoly [MASK] bankrupt.,were,Ungrammatical,SG,9.216262572
+1B,19,The corporation that dissolved the monopolies [MASK] bankrupt.,were,Ungrammatical,PL,8.02271604
+1B,20,The picture that embarrassed the politician [MASK] damaged.,was,Grammatical,SG,0.0759083
+1B,20,The picture that embarrassed the politicians [MASK] damaged.,was,Grammatical,PL,0.063667276
+1B,20,The picture that embarrassed the politician [MASK] damaged.,were,Ungrammatical,SG,6.830635145
+1B,20,The picture that embarrassed the politicians [MASK] damaged.,were,Ungrammatical,PL,5.532251324
+1B,21,The composer who rewrote the opera [MASK] worshipped.,was,Grammatical,SG,0.423463937
+1B,21,The composer who rewrote the operas [MASK] worshipped.,was,Grammatical,PL,0.550540188
+1B,21,The composer who rewrote the opera [MASK] worshipped.,were,Ungrammatical,SG,4.483730349
+1B,21,The composer who rewrote the operas [MASK] worshipped.,were,Ungrammatical,PL,4.307395209
+1B,22,The teacher who received the education certificate [MASK] preferred.,was,Grammatical,SG,0.218885795
+1B,22,The teacher who received the education certificates [MASK] preferred.,was,Grammatical,PL,0.196555962
+1B,22,The teacher who received the education certificate [MASK] preferred.,were,Ungrammatical,SG,5.801626502
+1B,22,The teacher who received the education certificates [MASK] preferred.,were,Ungrammatical,PL,3.404145179
+1B,23,The speaker who addressed the meeting [MASK] eloquent.,was,Grammatical,SG,0.028986633
+1B,23,The speaker who addressed the meetings [MASK] eloquent.,was,Grammatical,PL,0.051507274
+1B,23,The speaker who addressed the meeting [MASK] eloquent.,were,Ungrammatical,SG,6.693145515
+1B,23,The speaker who addressed the meetings [MASK] eloquent.,were,Ungrammatical,PL,5.047424599
+1B,24,The director who created the motion picture [MASK] amazing.,was,Grammatical,SG,0.263432493
+1B,24,The director who created the motion pictures [MASK] amazing.,was,Grammatical,PL,0.246811779
+1B,24,The director who created the motion picture [MASK] amazing.,were,Ungrammatical,SG,8.407567032
+1B,24,The director who created the motion pictures [MASK] amazing.,were,Ungrammatical,PL,5.824418848
+1B,25,The applicant who accepted the scholarship [MASK] selected.,was,Grammatical,SG,0.147947859
+1B,25,The applicant who accepted the scholarships [MASK] selected.,was,Grammatical,PL,0.133503802
+1B,25,The applicant who accepted the scholarship [MASK] selected.,were,Ungrammatical,SG,7.688091771
+1B,25,The applicant who accepted the scholarships [MASK] selected.,were,Ungrammatical,PL,6.540461421
+1B,26,The editor who rejected the book[MASK] interviewed.,was,Grammatical,SG,0.037360401
+1B,26,The editor who rejected the books[MASK] interviewed.,was,Grammatical,PL,0.063631165
+1B,26,The editor who rejected the book[MASK] interviewed.,were,Ungrammatical,SG,6.559154823
+1B,26,The editor who rejected the books[MASK] interviewed.,were,Ungrammatical,PL,6.119176957
+1B,27,The laboratory that invented the computer [MASK] renovated.,was,Grammatical,SG,0.083628964
+1B,27,The laboratory that invented the computers [MASK] renovated.,was,Grammatical,PL,0.040525033
+1B,27,The laboratory that invented the computer [MASK] renovated.,were,Ungrammatical,SG,6.097807246
+1B,27,The laboratory that invented the computers [MASK] renovated.,were,Ungrammatical,PL,6.019544231
+1B,28,The demonstrator that interrupted the rally [MASK] warned.,was,Grammatical,SG,0.372220601
+1B,28,The demonstrator that interrupted the rallies [MASK] warned.,was,Grammatical,PL,0.304680263
+1B,28,The demonstrator that interrupted the rally [MASK] warned.,were,Ungrammatical,SG,7.171705357
+1B,28,The demonstrator that interrupted the rallies [MASK] warned.,were,Ungrammatical,PL,6.10929523
+1B,29,The student who failed the class [MASK] expelled.,was,Grammatical,SG,0.128697672
+1B,29,The student who failed the classes [MASK] expelled.,was,Grammatical,PL,0.158431999
+1B,29,The student who failed the class [MASK] expelled.,were,Ungrammatical,SG,7.042081267
+1B,29,The student who failed the classes [MASK] expelled.,were,Ungrammatical,PL,5.262032539
+1B,30,The volunteer who assisted the village [MASK] needed.,was,Grammatical,SG,0.53451078
+1B,30,The volunteer who assisted the villages [MASK] needed.,was,Grammatical,PL,0.55868652
+1B,30,The volunteer who assisted the village [MASK] needed.,were,Ungrammatical,SG,3.525889543
+1B,30,The volunteer who assisted the villages [MASK] needed.,were,Ungrammatical,PL,1.763905785
+1B,31,The ruler who enslaved the city-state [MASK] executed.,was,Grammatical,SG,0.049145919
+1B,31,The ruler who enslaved the city-states [MASK] executed.,was,Grammatical,PL,0.048015324
+1B,31,The ruler who enslaved the city-state [MASK] executed.,were,Ungrammatical,SG,6.75307297
+1B,31,The ruler who enslaved the city-states [MASK] executed.,were,Ungrammatical,PL,5.103858596
+1B,32,The advertisement which described the club [MASK] colorful.,was,Grammatical,SG,0.076509358
+1B,32,The advertisement which described the clubs [MASK] colorful.,was,Grammatical,PL,0.090077064
+1B,32,The advertisement which described the club [MASK] colorful.,were,Ungrammatical,SG,6.092152426
+1B,32,The advertisement which described the clubs [MASK] colorful.,were,Ungrammatical,PL,4.376705698
+1B,33,The author who made the speech [MASK] young.,was,Grammatical,SG,1.235503572
+1B,33,The author who made the speeches [MASK] young.,was,Grammatical,PL,0.643232066
+1B,33,The author who made the speech [MASK] young.,were,Ungrammatical,SG,8.900753355
+1B,33,The author who made the speeches [MASK] young.,were,Ungrammatical,PL,7.591190017
+1B,34,The bill that came from the accountant [MASK] reasonable.,was,Grammatical,SG,0.285522075
+1B,34,The bill that came from the accountants [MASK] reasonable.,was,Grammatical,PL,0.289810257
+1B,34,The bill that came from the accountant [MASK] reasonable.,were,Ungrammatical,SG,7.117181357
+1B,34,The bill that came from the accountants [MASK] reasonable.,were,Ungrammatical,PL,6.554813463
+1B,35,The computer that installed the program [MASK] unavailable.,was,Grammatical,SG,0.125892418
+1B,35,The computer that installed the programs [MASK] unavailable.,was,Grammatical,PL,0.144421819
+1B,35,The computer that installed the program [MASK] unavailable.,were,Ungrammatical,SG,7.998285159
+1B,35,The computer that installed the programs [MASK] unavailable.,were,Ungrammatical,PL,7.156488662
+1B,36,The contract that attracted the actor [MASK] acceptable.,was,Grammatical,SG,0.17404529
+1B,36,The contract that attracted the actors [MASK] acceptable.,was,Grammatical,PL,0.148149357
+1B,36,The contract that attracted the actor [MASK] acceptable.,were,Ungrammatical,SG,6.167237039
+1B,36,The contract that attracted the actors [MASK] acceptable.,were,Ungrammatical,PL,6.237314174
+1B,37,The deck that contained the yacht [MASK] spacious.,was,Grammatical,SG,0.022436319
+1B,37,The deck that contained the yachts [MASK] spacious.,was,Grammatical,PL,0.021405644
+1B,37,The deck that contained the yacht [MASK] spacious.,were,Ungrammatical,SG,8.083012668
+1B,37,The deck that contained the yachts [MASK] spacious.,were,Ungrammatical,PL,7.697370023
+1B,38,The discussion that dealt with the topic [MASK] boring.,was,Grammatical,SG,0.07996653
+1B,38,The discussion that dealt with the topics [MASK] boring.,was,Grammatical,PL,0.09083856
+1B,38,The discussion that dealt with the topic [MASK] boring.,were,Ungrammatical,SG,5.633496259
+1B,38,The discussion that dealt with the topics [MASK] boring.,were,Ungrammatical,PL,4.735921074
+1B,39,The friend who liked the editor [MASK] blonde.,was,Grammatical,SG,0.638876811
+1B,39,The friend who liked the editors [MASK] blonde.,was,Grammatical,PL,1.114225126
+1B,39,The friend who liked the editor [MASK] blonde.,were,Ungrammatical,SG,6.11600675
+1B,39,The friend who liked the editors [MASK] blonde.,were,Ungrammatical,PL,4.814459569
+1B,40,The gift that surprised the baby [MASK] expensive.,was,Grammatical,SG,0.022563368
+1B,40,The gift that surprised the babies [MASK] expensive.,was,Grammatical,PL,0.015157762
+1B,40,The gift that surprised the baby [MASK] expensive.,were,Ungrammatical,SG,8.060790903
+1B,40,The gift that surprised the babies [MASK] expensive.,were,Ungrammatical,PL,7.492355475
+1B,41,The letter that received by the friend [MASK] emotional.,was,Grammatical,SG,0.058699805
+1B,41,The letter that received by the friends [MASK] emotional.,was,Grammatical,PL,0.061384115
+1B,41,The letter that received by the friend [MASK] emotional.,were,Ungrammatical,SG,7.111418012
+1B,41,The letter that received by the friends [MASK] emotional.,were,Ungrammatical,PL,5.572308552
+1B,42,The manual that described the machine [MASK] comprehensible.,was,Grammatical,SG,0.111342141
+1B,42,The manual that described the machines [MASK] comprehensible.,was,Grammatical,PL,0.100915262
+1B,42,The manual that described the machine [MASK] comprehensible.,were,Ungrammatical,SG,6.462786389
+1B,42,The manual that described the machines [MASK] comprehensible.,were,Ungrammatical,PL,4.948199542
+1B,43,The museum that included the picture [MASK] open.,was,Grammatical,SG,0.444941138
+1B,43,The museum that included the pictures [MASK] open.,was,Grammatical,PL,0.304139569
+1B,43,The museum that included the picture [MASK] open.,were,Ungrammatical,SG,7.366608671
+1B,43,The museum that included the pictures [MASK] open.,were,Ungrammatical,PL,6.856416108
+1B,44,The new design that innovated the engine [MASK] successful.,was,Grammatical,SG,0.362661268
+1B,44,The new design that innovated the engines [MASK] successful.,was,Grammatical,PL,0.323006826
+1B,44,The new design that innovated the engine [MASK] successful.,were,Ungrammatical,SG,6.394735179
+1B,44,The new design that innovated the engines [MASK] successful.,were,Ungrammatical,PL,4.934474112
+1B,45,The path that surrounded the lake [MASK] scenic.,was,Grammatical,SG,0.041235793
+1B,45,The path that surrounded the lakes [MASK] scenic.,was,Grammatical,PL,0.032967618
+1B,45,The path that surrounded the lake [MASK] scenic.,were,Ungrammatical,SG,7.579455268
+1B,45,The path that surrounded the lakes [MASK] scenic.,were,Ungrammatical,PL,5.965974811
+1B,46,The producer who directed the movie [MASK] famous.,was,Grammatical,SG,0.987390753
+1B,46,The producer who directed the movies [MASK] famous.,was,Grammatical,PL,0.876247608
+1B,46,The producer who directed the movie [MASK] famous.,were,Ungrammatical,SG,6.561946569
+1B,46,The producer who directed the movies [MASK] famous.,were,Ungrammatical,PL,5.696712682
+1B,47,The publisher who published the book [MASK] wealthy.,was,Grammatical,SG,0.050228136
+1B,47,The publisher who published the books [MASK] wealthy.,was,Grammatical,PL,0.052808126
+1B,47,The publisher who published the book [MASK] wealthy.,were,Ungrammatical,SG,6.262159262
+1B,47,The publisher who published the books [MASK] wealthy.,were,Ungrammatical,PL,5.286372307
+1B,48,The statue which decorated the garden [MASK] impressive.,was,Grammatical,SG,0.333934384
+1B,48,The statue which decorated the gardens [MASK] impressive.,was,Grammatical,PL,0.329627388
+1B,48,The statue which decorated the garden [MASK] impressive.,were,Ungrammatical,SG,6.627952133
+1B,48,The statue which decorated the gardens [MASK] impressive.,were,Ungrammatical,PL,5.421563497
+1B,49,The switch that controlled the light [MASK] hidden.,was,Grammatical,SG,0.075021208
+1B,49,The switch that controlled the lights [MASK] hidden.,was,Grammatical,PL,0.077690618
+1B,49,The switch that controlled the light [MASK] hidden.,were,Ungrammatical,SG,7.086780131
+1B,49,The switch that controlled the lights [MASK] hidden.,were,Ungrammatical,PL,6.35098514
+1B,50,The telegram that alerted the soldier [MASK] unexpected.,was,Grammatical,SG,0.018040325
+1B,50,The telegram that alerted the soldiers [MASK] unexpected.,was,Grammatical,PL,0.018886747
+1B,50,The telegram that alerted the soldier [MASK] unexpected.,were,Ungrammatical,SG,8.283806422
+1B,50,The telegram that alerted the soldiers [MASK] unexpected.,were,Ungrammatical,PL,7.888643382
+1B,51,The train that headed to the city [MASK] crowded.,was,Grammatical,SG,0.038174883
+1B,51,The train that headed to the cities [MASK] crowded.,was,Grammatical,PL,0.06651372
+1B,51,The train that headed to the city [MASK] crowded.,were,Ungrammatical,SG,7.549450141
+1B,51,The train that headed to the cities [MASK] crowded.,were,Ungrammatical,PL,5.785506868
+1B,52,The truck that crossed the bridge [MASK] noisy.,was,Grammatical,SG,0.036528047
+1B,52,The truck that crossed the bridges [MASK] noisy.,was,Grammatical,PL,0.025925398
+1B,52,The truck that crossed the bridge [MASK] noisy.,were,Ungrammatical,SG,8.156744372
+1B,52,The truck that crossed the bridges [MASK] noisy.,were,Ungrammatical,PL,7.578089475
+1B,53,The waitress who sat the girl unsurprisingly [MASK] unhappy about all the noise.,was,Grammatical,SG,2.306259588
+1B,53,The waitress who sat the girls unsurprisingly [MASK] unhappy about all the noise.,was,Grammatical,PL,1.94141462
+1B,53,The waitress who sat the girl unsurprisingly [MASK] unhappy about all the noise.,were,Ungrammatical,SG,8.321519353
+1B,53,The waitress who sat the girls unsurprisingly [MASK] unhappy about all the noise.,were,Ungrammatical,PL,7.991223519
+1B,54,The dog that dug the hole unfortunately [MASK] covered in mud all over.,was,Grammatical,SG,0.402763438
+1B,54,The dog that dug the holes unfortunately [MASK] covered in mud all over.,was,Grammatical,PL,0.390970789
+1B,54,The dog that dug the hole unfortunately [MASK] covered in mud all over.,were,Ungrammatical,SG,7.517828058
+1B,54,The dog that dug the holes unfortunately [MASK] covered in mud all over.,were,Ungrammatical,PL,7.026068796
+1B,55,The boy who played the game apparently [MASK] more competitive than ever before. ,was,Grammatical,SG,1.023482559
+1B,55,The boy who played the games apparently [MASK] more competitive than ever before. ,was,Grammatical,PL,0.87444972
+1B,55,The boy who played the game apparently [MASK] more competitive than ever before. ,were,Ungrammatical,SG,7.318228511
+1B,55,The boy who played the games apparently [MASK] more competitive than ever before. ,were,Ungrammatical,PL,6.058673828
+1B,56,The mom who drove the kid unsurprisingly [MASK] tired of the bickering in the car. ,was,Grammatical,SG,2.550826609
+1B,56,The mom who drove the kids unsurprisingly [MASK] tired of the bickering in the car. ,was,Grammatical,PL,2.374739308
+1B,56,The mom who drove the kid unsurprisingly [MASK] tired of the bickering in the car. ,were,Ungrammatical,SG,9.3629223
+1B,56,The mom who drove the kids unsurprisingly [MASK] tired of the bickering in the car. ,were,Ungrammatical,PL,8.915260863
+1B,57,The kid who hid the toy definitely [MASK] in a lot of trouble.,was,Grammatical,SG,0.662070626
+1B,57,The kid who hid the toys definitely [MASK] in a lot of trouble.,was,Grammatical,PL,0.605284298
+1B,57,The kid who hid the toy definitely [MASK] in a lot of trouble.,were,Ungrammatical,SG,6.986232604
+1B,57,The kid who hid the toys definitely [MASK] in a lot of trouble.,were,Ungrammatical,PL,6.898496234
+1B,58,The policeman who patrolled the neighborhood evidently [MASK] mentioned in the newspaper.,was,Grammatical,SG,1.060422733
+1B,58,The policeman who patrolled the neighborhoods evidently [MASK] mentioned in the newspaper.,was,Grammatical,PL,1.926790798
+1B,58,The policeman who patrolled the neighborhood evidently [MASK] mentioned in the newspaper.,were,Ungrammatical,SG,6.152652948
+1B,58,The policeman who patrolled the neighborhoods evidently [MASK] mentioned in the newspaper.,were,Ungrammatical,PL,5.562450032
+1B,59,The goat who ate the can evidently [MASK] seen on the side of the road.,was,Grammatical,SG,0.190709817
+1B,59,The goat who ate the cans evidently [MASK] seen on the side of the road.,was,Grammatical,PL,0.204355886
+1B,59,The goat who ate the can evidently [MASK] seen on the side of the road.,were,Ungrammatical,SG,4.917440186
+1B,59,The goat who ate the cans evidently [MASK] seen on the side of the road.,were,Ungrammatical,PL,4.633818177
+1B,60,The scientist who prepared the experiment suddenly [MASK] scared about all the consequences.,was,Grammatical,SG,4.116431293
+1B,60,The scientist who prepared the experiments suddenly [MASK] scared about all the consequences.,was,Grammatical,PL,3.721868399
+1B,60,The scientist who prepared the experiment suddenly [MASK] scared about all the consequences.,were,Ungrammatical,SG,10.14366724
+1B,60,The scientist who prepared the experiments suddenly [MASK] scared about all the consequences.,were,Ungrammatical,PL,9.86674776
+1B,61,The student who wrote the professor likely [MASK] concerned about her low grade. ,was,Grammatical,SG,0.102350488
+1B,61,The student who wrote the professors likely [MASK] concerned about her low grade. ,was,Grammatical,PL,0.103399774
+1B,61,The student who wrote the professor likely [MASK] concerned about her low grade. ,were,Ungrammatical,SG,5.625307283
+1B,61,The student who wrote the professors likely [MASK] concerned about her low grade. ,were,Ungrammatical,PL,3.709109846
+1B,62,The journalist who read the report apparently [MASK] investigated for fraudulent investigative journalism.,was,Grammatical,SG,0.043650862
+1B,62,The journalist who read the reports apparently [MASK] investigated for fraudulent investigative journalism.,was,Grammatical,PL,0.047333194
+1B,62,The journalist who read the report apparently [MASK] investigated for fraudulent investigative journalism.,were,Ungrammatical,SG,6.717180537
+1B,62,The journalist who read the reports apparently [MASK] investigated for fraudulent investigative journalism.,were,Ungrammatical,PL,5.798722684
+1B,63,The boy who walked the dog probably [MASK] scared about being bitten. ,was,Grammatical,SG,0.391313954
+1B,63,The boy who walked the dogs probably [MASK] scared about being bitten. ,was,Grammatical,PL,0.321311756
+1B,63,The boy who walked the dog probably [MASK] scared about being bitten. ,were,Ungrammatical,SG,6.380884446
+1B,63,The boy who walked the dogs probably [MASK] scared about being bitten. ,were,Ungrammatical,PL,6.235635521
+1B,64,The woman who walked the dog clearly [MASK] happy about the cross-country road trip. ,was,Grammatical,SG,0.372963988
+1B,64,The woman who walked the dogs clearly [MASK] happy about the cross-country road trip. ,was,Grammatical,PL,0.287205946
+1B,64,The woman who walked the dog clearly [MASK] happy about the cross-country road trip. ,were,Ungrammatical,SG,8.2820683
+1B,64,The woman who walked the dogs clearly [MASK] happy about the cross-country road trip. ,were,Ungrammatical,PL,8.131209652
+1B,65,The nurse who called the doctor unsurprisingly [MASK] excited about the good news. ,was,Grammatical,SG,0.910122297
+1B,65,The nurse who called the doctors unsurprisingly [MASK] excited about the good news. ,was,Grammatical,PL,0.628293256
+1B,65,The nurse who called the doctor unsurprisingly [MASK] excited about the good news. ,were,Ungrammatical,SG,7.824166728
+1B,65,The nurse who called the doctors unsurprisingly [MASK] excited about the good news. ,were,Ungrammatical,PL,7.237870524
+1B,66,The director who called the assistant suddenly [MASK] intrigued by the secret report. ,was,Grammatical,SG,3.085615423
+1B,66,The director who called the assistants suddenly [MASK] intrigued by the secret report. ,was,Grammatical,PL,3.136285758
+1B,66,The director who called the assistant suddenly [MASK] intrigued by the secret report. ,were,Ungrammatical,SG,9.39489096
+1B,66,The director who called the assistants suddenly [MASK] intrigued by the secret report. ,were,Ungrammatical,PL,9.183024893
+1B,67,The artist who painted the house certainly [MASK] impressed with the stunning view. ,was,Grammatical,SG,0.245277913
+1B,67,The artist who painted the houses certainly [MASK] impressed with the stunning view. ,was,Grammatical,PL,0.19272582
+1B,67,The artist who painted the house certainly [MASK] impressed with the stunning view. ,were,Ungrammatical,SG,6.911643487
+1B,67,The artist who painted the houses certainly [MASK] impressed with the stunning view. ,were,Ungrammatical,PL,6.506636335
+1B,68,The director who called the actor certainly [MASK] surprised about the exciting news. ,was,Grammatical,SG,1.400948015
+1B,68,The director who called the actors certainly [MASK] surprised about the exciting news. ,was,Grammatical,PL,1.397253783
+1B,68,The director who called the actor certainly [MASK] surprised about the exciting news. ,were,Ungrammatical,SG,7.275700039
+1B,68,The director who called the actors certainly [MASK] surprised about the exciting news. ,were,Ungrammatical,PL,6.344940977
+1B,69,The thief who stole the stash obviously [MASK] scared of being caught red-handed. ,was,Grammatical,SG,0.104461202
+1B,69,The thief who stole the stashes obviously [MASK] scared of being caught red-handed. ,was,Grammatical,PL,0.119522402
+1B,69,The thief who stole the stash obviously [MASK] scared of being caught red-handed. ,were,Ungrammatical,SG,7.515212939
+1B,69,The thief who stole the stashes obviously [MASK] scared of being caught red-handed. ,were,Ungrammatical,PL,7.198314087
+1B,70,The author who read the book apparently [MASK] disappointed with the surprise ending. ,was,Grammatical,SG,0.100736584
+1B,70,The author who read the books apparently [MASK] disappointed with the surprise ending. ,was,Grammatical,PL,0.092499381
+1B,70,The author who read the book apparently [MASK] disappointed with the surprise ending. ,were,Ungrammatical,SG,5.59072017
+1B,70,The author who read the books apparently [MASK] disappointed with the surprise ending. ,were,Ungrammatical,PL,5.405636396
+1B,71,The solider who fought the terrorist likely [MASK] surrounded by a team of insurgents. ,was,Grammatical,SG,0.190226822
+1B,71,The solider who fought the terrorists likely [MASK] surrounded by a team of insurgents. ,was,Grammatical,PL,0.203068572
+1B,71,The solider who fought the terrorist likely [MASK] surrounded by a team of insurgents. ,were,Ungrammatical,SG,5.305583745
+1B,71,The solider who fought the terrorists likely [MASK] surrounded by a team of insurgents. ,were,Ungrammatical,PL,4.674864708
+1B,72,The millionaire who drove the car allegedly [MASK] pulled over for drunk driving. ,was,Grammatical,SG,0.311911565
+1B,72,The millionaire who drove the cars allegedly [MASK] pulled over for drunk driving. ,was,Grammatical,PL,0.470872929
+1B,72,The millionaire who drove the car allegedly [MASK] pulled over for drunk driving. ,were,Ungrammatical,SG,6.466661989
+1B,72,The millionaire who drove the cars allegedly [MASK] pulled over for drunk driving. ,were,Ungrammatical,PL,3.689170937
+1B,73,The librarian who read the book certainly [MASK] surprised by the abrupt conclusion.,was,Grammatical,SG,0.838701337
+1B,73,The librarian who read the books certainly [MASK] surprised by the abrupt conclusion.,was,Grammatical,PL,0.917593248
+1B,73,The librarian who read the book certainly [MASK] surprised by the abrupt conclusion.,were,Ungrammatical,SG,8.063437516
+1B,73,The librarian who read the books certainly [MASK] surprised by the abrupt conclusion.,were,Ungrammatical,PL,8.063379483
+1B,74,The chef who prepared the meal evidently [MASK] unhappy about the quality of the ingredients. ,was,Grammatical,SG,0.093798199
+1B,74,The chef who prepared the meals evidently [MASK] unhappy about the quality of the ingredients. ,was,Grammatical,PL,0.072784826
+1B,74,The chef who prepared the meal evidently [MASK] unhappy about the quality of the ingredients. ,were,Ungrammatical,SG,7.603086985
+1B,74,The chef who prepared the meals evidently [MASK] unhappy about the quality of the ingredients. ,were,Ungrammatical,PL,7.415122537
+1B,75,The gardener who pruned the hedge financially [MASK] unable to buy more plants. ,was,Grammatical,SG,0.051348251
+1B,75,The gardener who pruned the hedges financially [MASK] unable to buy more plants. ,was,Grammatical,PL,0.043558687
+1B,75,The gardener who pruned the hedge financially [MASK] unable to buy more plants. ,were,Ungrammatical,SG,7.094761387
+1B,75,The gardener who pruned the hedges financially [MASK] unable to buy more plants. ,were,Ungrammatical,PL,6.750180877
+1B,76,The athlete who kicked the referee obviously [MASK] disappointed about the bad call. ,was,Grammatical,SG,0.705969807
+1B,76,The athlete who kicked the referees obviously [MASK] disappointed about the bad call. ,was,Grammatical,PL,0.575761954
+1B,76,The athlete who kicked the referee obviously [MASK] disappointed about the bad call. ,were,Ungrammatical,SG,6.77609537
+1B,76,The athlete who kicked the referees obviously [MASK] disappointed about the bad call. ,were,Ungrammatical,PL,5.729120375
+1B,77,The artist who painted the garden apparently [MASK] isolated from society for a long time. ,was,Grammatical,SG,2.309884229
+1B,77,The artist who painted the gardens apparently [MASK] isolated from society for a long time. ,was,Grammatical,PL,2.18427
+1B,77,The artist who painted the garden apparently [MASK] isolated from society for a long time. ,were,Ungrammatical,SG,7.821073734
+1B,77,The artist who painted the gardens apparently [MASK] isolated from society for a long time. ,were,Ungrammatical,PL,6.938130621
+1B,78,The teacher who called the student obviously [MASK] upset about the low grades. ,was,Grammatical,SG,0.124847438
+1B,78,The teacher who called the students obviously [MASK] upset about the low grades. ,was,Grammatical,PL,0.122758452
+1B,78,The teacher who called the student obviously [MASK] upset about the low grades. ,were,Ungrammatical,SG,6.425922922
+1B,78,The teacher who called the students obviously [MASK] upset about the low grades. ,were,Ungrammatical,PL,5.556379817
+1B,79,The chef who cooked the onion obviously [MASK] growing quite upset about the smell. ,was,Grammatical,SG,0.028596306
+1B,79,The chef who cooked the onions obviously [MASK] growing quite upset about the smell. ,was,Grammatical,PL,0.022065433
+1B,79,The chef who cooked the onion obviously [MASK] growing quite upset about the smell. ,were,Ungrammatical,SG,7.792473222
+1B,79,The chef who cooked the onions obviously [MASK] growing quite upset about the smell. ,were,Ungrammatical,PL,7.572641648
+1B,80,The host who sat the guest certainly [MASK] impressed with all of the colorful decorations.,was,Grammatical,SG,0.508261605
+1B,80,The host who sat the guests certainly [MASK] impressed with all of the colorful decorations.,was,Grammatical,PL,0.497395509
+1B,80,The host who sat the guest certainly [MASK] impressed with all of the colorful decorations.,were,Ungrammatical,SG,6.374929286
+1B,80,The host who sat the guests certainly [MASK] impressed with all of the colorful decorations.,were,Ungrammatical,PL,5.494120547
+1B,81,The stewardess who sat the passenger certainly [MASK] very pleased with the long flight. ,was,Grammatical,SG,2.604975204
+1B,81,The stewardess who sat the passengers certainly [MASK] very pleased with the long flight. ,was,Grammatical,PL,2.104306415
+1B,81,The stewardess who sat the passenger certainly [MASK] very pleased with the long flight. ,were,Ungrammatical,SG,8.31134654
+1B,81,The stewardess who sat the passengers certainly [MASK] very pleased with the long flight. ,were,Ungrammatical,PL,7.181313685
+1B,82,The driver who crossed the bridge luckily [MASK] very eager to return home. ,was,Grammatical,SG,0.323455367
+1B,82,The driver who crossed the bridges luckily [MASK] very eager to return home. ,was,Grammatical,PL,0.326456284
+1B,82,The driver who crossed the bridge luckily [MASK] very eager to return home. ,were,Ungrammatical,SG,7.792097527
+1B,82,The driver who crossed the bridges luckily [MASK] very eager to return home. ,were,Ungrammatical,PL,7.67491549
+1B,83,The professor who wrote the test certainly [MASK] mistaken about the final question. ,was,Grammatical,SG,0.14241912
+1B,83,The professor who wrote the tests certainly [MASK] mistaken about the final question. ,was,Grammatical,PL,0.159217929
+1B,83,The professor who wrote the test certainly [MASK] mistaken about the final question. ,were,Ungrammatical,SG,6.715616357
+1B,83,The professor who wrote the tests certainly [MASK] mistaken about the final question. ,were,Ungrammatical,PL,6.578761203
+1B,84,The journalist who wrote the article obviously [MASK] unhappy about all the criticism.,was,Grammatical,SG,0.231610049
+1B,84,The journalist who wrote the articles obviously [MASK] unhappy about all the criticism.,was,Grammatical,PL,0.203885028
+1B,84,The journalist who wrote the article obviously [MASK] unhappy about all the criticism.,were,Ungrammatical,SG,6.994930075
+1B,84,The journalist who wrote the articles obviously [MASK] unhappy about all the criticism.,were,Ungrammatical,PL,6.575275309
+1B,85,The robber who broke the safe apparently [MASK] hiding from the police on the other side of town.,was,Grammatical,SG,0.026499174
+1B,85,The robber who broke the safes apparently [MASK] hiding from the police on the other side of town.,was,Grammatical,PL,0.026883233
+1B,85,The robber who broke the safe apparently [MASK] hiding from the police on the other side of town.,were,Ungrammatical,SG,5.966232562
+1B,85,The robber who broke the safes apparently [MASK] hiding from the police on the other side of town.,were,Ungrammatical,PL,4.980434448
+1B,86,The dog that chewed the bone probably [MASK] pretty lonely the other night. ,was,Grammatical,SG,2.157620682
+1B,86,The dog that chewed the bones probably [MASK] pretty lonely the other night. ,was,Grammatical,PL,2.047864821
+1B,86,The dog that chewed the bone probably [MASK] pretty lonely the other night. ,were,Ungrammatical,SG,6.386537819
+1B,86,The dog that chewed the bones probably [MASK] pretty lonely the other night. ,were,Ungrammatical,PL,6.241273798
+1B,87,The coach who trained the athlete definitely [MASK] prepared for the championship game.,was,Grammatical,SG,1.039378396
+1B,87,The coach who trained the athletes definitely [MASK] prepared for the championship game.,was,Grammatical,PL,1.052435285
+1B,87,The coach who trained the athlete definitely [MASK] prepared for the championship game.,were,Ungrammatical,SG,5.91764142
+1B,87,The coach who trained the athletes definitely [MASK] prepared for the championship game.,were,Ungrammatical,PL,5.151175895
+1B,88,The child who walked the puppy clearly [MASK] happy to be outside in the sunny weather. ,was,Grammatical,SG,0.143541718
+1B,88,The child who walked the puppies clearly [MASK] happy to be outside in the sunny weather. ,was,Grammatical,PL,0.090182963
+1B,88,The child who walked the puppy clearly [MASK] happy to be outside in the sunny weather. ,were,Ungrammatical,SG,7.31816609
+1B,88,The child who walked the puppies clearly [MASK] happy to be outside in the sunny weather. ,were,Ungrammatical,PL,6.810123175
+1B,89,The nurse who called the doctor clearly [MASK] nervous about the stressful situation.,was,Grammatical,SG,0.510535776
+1B,89,The nurse who called the doctors clearly [MASK] nervous about the stressful situation.,was,Grammatical,PL,0.456329134
+1B,89,The nurse who called the doctor clearly [MASK] nervous about the stressful situation.,were,Ungrammatical,SG,7.993525092
+1B,89,The nurse who called the doctors clearly [MASK] nervous about the stressful situation.,were,Ungrammatical,PL,7.411166906
+1B,90,The boy who walked the dog suddenly [MASK] scared about the loud noises coming from a nearby building. ,was,Grammatical,SG,4.24527323
+1B,90,The boy who walked the dogs suddenly [MASK] scared about the loud noises coming from a nearby building. ,was,Grammatical,PL,4.284065597
+1B,90,The boy who walked the dog suddenly [MASK] scared about the loud noises coming from a nearby building. ,were,Ungrammatical,SG,10.42834917
+1B,90,The boy who walked the dogs suddenly [MASK] scared about the loud noises coming from a nearby building. ,were,Ungrammatical,PL,10.30787264
+1B,91,The athlete who ran the race unsurprisingly [MASK] upset about losing the championship.,was,Grammatical,SG,0.444285688
+1B,91,The athlete who ran the races unsurprisingly [MASK] upset about losing the championship.,was,Grammatical,PL,0.345148951
+1B,91,The athlete who ran the race unsurprisingly [MASK] upset about losing the championship.,were,Ungrammatical,SG,7.096382021
+1B,91,The athlete who ran the races unsurprisingly [MASK] upset about losing the championship.,were,Ungrammatical,PL,6.774565154
+1B,92,The pilot who flew the plane definitely [MASK] scared about the approaching storm.,was,Grammatical,SG,2.076297951
+1B,92,The pilot who flew the planes definitely [MASK] scared about the approaching storm.,was,Grammatical,PL,1.862428573
+1B,92,The pilot who flew the plane definitely [MASK] scared about the approaching storm.,were,Ungrammatical,SG,9.102244523
+1B,92,The pilot who flew the planes definitely [MASK] scared about the approaching storm.,were,Ungrammatical,PL,8.64066106
+1B,93,The child who drew the picture apparently [MASK] rather talented at drawing complex shapes. ,was,Grammatical,SG,0.086285552
+1B,93,The child who drew the pictures apparently [MASK] rather talented at drawing complex shapes. ,was,Grammatical,PL,0.06227822
+1B,93,The child who drew the picture apparently [MASK] rather talented at drawing complex shapes. ,were,Ungrammatical,SG,6.802334758
+1B,93,The child who drew the pictures apparently [MASK] rather talented at drawing complex shapes. ,were,Ungrammatical,PL,6.61450236
+1B,94,The researcher who wrote the article clearly [MASK] quite happy with the reviews. ,was,Grammatical,SG,0.183270647
+1B,94,The researcher who wrote the articles clearly [MASK] quite happy with the reviews. ,was,Grammatical,PL,0.203601869
+1B,94,The researcher who wrote the article clearly [MASK] quite happy with the reviews. ,were,Ungrammatical,SG,7.207368052
+1B,94,The researcher who wrote the articles clearly [MASK] quite happy with the reviews. ,were,Ungrammatical,PL,6.723729077
+1B,95,The child who climbed the tree naturally [MASK] upset about breaking his arm after falling. ,was,Grammatical,SG,0.733555336
+1B,95,The child who climbed the trees naturally [MASK] upset about breaking his arm after falling. ,was,Grammatical,PL,0.510271409
+1B,95,The child who climbed the tree naturally [MASK] upset about breaking his arm after falling. ,were,Ungrammatical,SG,7.629623862
+1B,95,The child who climbed the trees naturally [MASK] upset about breaking his arm after falling. ,were,Ungrammatical,PL,7.061728921
+1B,96,The actor who read the script apparently [MASK] interested in auditioning for the lead role. ,was,Grammatical,SG,0.114233761
+1B,96,The actor who read the scripts apparently [MASK] interested in auditioning for the lead role. ,was,Grammatical,PL,0.102011927
+1B,96,The actor who read the script apparently [MASK] interested in auditioning for the lead role. ,were,Ungrammatical,SG,5.626517019
+1B,96,The actor who read the scripts apparently [MASK] interested in auditioning for the lead role. ,were,Ungrammatical,PL,5.409958217
+1B,97,The dancer who learned the move clearly [MASK] the best on the stage. ,was,Grammatical,SG,0.344903168
+1B,97,The dancer who learned the moves clearly [MASK] the best on the stage. ,was,Grammatical,PL,0.326640302
+1B,97,The dancer who learned the move clearly [MASK] the best on the stage. ,were,Ungrammatical,SG,6.68661616
+1B,97,The dancer who learned the moves clearly [MASK] the best on the stage. ,were,Ungrammatical,PL,5.902658231
+1B,98,The reporter who met the candidate definitely [MASK] nervous about the upcoming debate.,was,Grammatical,SG,2.712430946
+1B,98,The reporter who met the candidates definitely [MASK] nervous about the upcoming debate.,was,Grammatical,PL,2.567499169
+1B,98,The reporter who met the candidate definitely [MASK] nervous about the upcoming debate.,were,Ungrammatical,SG,8.816862998
+1B,98,The reporter who met the candidates definitely [MASK] nervous about the upcoming debate.,were,Ungrammatical,PL,8.027132995
+1B,99,The fan who met the musician certainly [MASK] displeased with the horrible performance. ,was,Grammatical,SG,0.719907106
+1B,99,The fan who met the musicians certainly [MASK] displeased with the horrible performance. ,was,Grammatical,PL,0.58713422
+1B,99,The fan who met the musician certainly [MASK] displeased with the horrible performance. ,were,Ungrammatical,SG,6.74683507
+1B,99,The fan who met the musicians certainly [MASK] displeased with the horrible performance. ,were,Ungrammatical,PL,6.135895592
+1B,100,The journalist who met the diplomat undoubtedly [MASK] confused about the current political situation.,was,Grammatical,SG,0.69410138
+1B,100,The journalist who met the diplomats undoubtedly [MASK] confused about the current political situation.,was,Grammatical,PL,0.812613102
+1B,100,The journalist who met the diplomat undoubtedly [MASK] confused about the current political situation.,were,Ungrammatical,SG,6.867492643
+1B,100,The journalist who met the diplomats undoubtedly [MASK] confused about the current political situation.,were,Ungrammatical,PL,6.013840219

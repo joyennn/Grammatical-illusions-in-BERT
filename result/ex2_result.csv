@@ -1,0 +1,633 @@
+Ex,No,Item,Reflexive,Grammaticality,Attractor,Surprisal
+2A,1,The photographer that the famous actor praised depicted [MASK] as a strict person.,himself,Grammatical,SG,3.42773929
+2A,1,The photographer that the famous actors praised depicted [MASK] as a strict person.,himself,Grammatical,PL,4.198061502
+2A,1,The photographer that the famous actor praised depicted [MASK] as a strict person.,themselves,Ungrammatical,SG,8.198549373
+2A,1,The photographer that the famous actors praised depicted [MASK] as a strict person.,themselves,Ungrammatical,PL,7.853187673
+2A,2,The factory worker that the influential senator talked about inspired [MASK] to be a better person.,himself,Grammatical,SG,7.407591832
+2A,2,The factory worker that the influential senators talked about inspired [MASK] to be a better person.,himself,Grammatical,PL,7.486530605
+2A,2,The factory worker that the influential senator talked about inspired [MASK] to be a better person.,themselves,Ungrammatical,SG,10.57391182
+2A,2,The factory worker that the influential senators talked about inspired [MASK] to be a better person.,themselves,Ungrammatical,PL,8.499598145
+2A,3,The bank robber that the trustworthy officer talked about criticized [MASK] for the noticeable error.,himself,Grammatical,SG,3.428588565
+2A,3,The bank robber that the trustworthy officers talked about criticized [MASK] for the noticeable error.,himself,Grammatical,PL,3.49904207
+2A,3,The bank robber that the trustworthy officer talked about criticized [MASK] for the noticeable error.,themselves,Ungrammatical,SG,7.014660522
+2A,3,The bank robber that the trustworthy officers talked about criticized [MASK] for the noticeable error.,themselves,Ungrammatical,PL,5.059415795
+2A,4,The photographer that the talented director introduced described [MASK] as a mean person.,himself,Grammatical,SG,3.416105866
+2A,4,The photographer that the talented directors introduced described [MASK] as a mean person.,himself,Grammatical,PL,3.592953857
+2A,4,The photographer that the talented director introduced described [MASK] as a mean person.,themselves,Ungrammatical,SG,6.826580551
+2A,4,The photographer that the talented directors introduced described [MASK] as a mean person.,themselves,Ungrammatical,PL,6.305033936
+2A,5,The influential speaker that the democratic senator introduced distinguished [MASK] as an honorable person.,himself,Grammatical,SG,1.988934093
+2A,5,The influential speaker that the democratic senators introduced distinguished [MASK] as an honorable person.,himself,Grammatical,PL,1.767726898
+2A,5,The influential speaker that the democratic senator introduced distinguished [MASK] as an honorable person.,themselves,Ungrammatical,SG,6.49818404
+2A,5,The influential speaker that the democratic senators introduced distinguished [MASK] as an honorable person.,themselves,Ungrammatical,PL,4.397997886
+2A,6,The journalist that the city official talked about characterized [MASK] as a helpful person.,himself,Grammatical,SG,4.652216235
+2A,6,The journalist that the city officials talked about characterized [MASK] as a helpful person.,himself,Grammatical,PL,4.948419535
+2A,6,The journalist that the city official talked about characterized [MASK] as a helpful person.,themselves,Ungrammatical,SG,8.510409589
+2A,6,The journalist that the city officials talked about characterized [MASK] as a helpful person.,themselves,Ungrammatical,PL,7.663354139
+2A,7,The dishonest lawyer that the witness pointed out misrepresented [MASK] in the murder trial.,himself,Grammatical,SG,0.353027813
+2A,7,The dishonest lawyer that the witnesses pointed out misrepresented [MASK] in the murder trial.,himself,Grammatical,PL,0.557984971
+2A,7,The dishonest lawyer that the witness pointed out misrepresented [MASK] in the murder trial.,themselves,Ungrammatical,SG,5.540597405
+2A,7,The dishonest lawyer that the witnesses pointed out misrepresented [MASK] in the murder trial.,themselves,Ungrammatical,PL,3.280140587
+2A,8,The film director that the aspiring actor worried about would portray [MASK] as a dumb person.,himself,Grammatical,SG,1.877387261
+2A,8,The film director that the aspiring actors worried about would portray [MASK] as a dumb person.,himself,Grammatical,PL,3.436299383
+2A,8,The film director that the aspiring actor worried about would portray [MASK] as a dumb person.,themselves,Ungrammatical,SG,5.491729418
+2A,8,The film director that the aspiring actors worried about would portray [MASK] as a dumb person.,themselves,Ungrammatical,PL,5.405546265
+2A,9,The new clerk that the skilled executive talked about described [MASK] as a hard worker.,himself,Grammatical,SG,3.678439579
+2A,9,The new clerk that the skilled executives talked about described [MASK] as a hard worker.,himself,Grammatical,PL,3.854693129
+2A,9,The new clerk that the skilled executive talked about described [MASK] as a hard worker.,themselves,Ungrammatical,SG,6.941364386
+2A,9,The new clerk that the skilled executives talked about described [MASK] as a hard worker.,themselves,Ungrammatical,PL,6.442648575
+2A,10,The stock broker that the wealthy banker praised cast [MASK] in a negative light.,himself,Grammatical,SG,4.001715035
+2A,10,The stock broker that the wealthy bankers praised cast [MASK] in a negative light.,himself,Grammatical,PL,3.832692283
+2A,10,The stock broker that the wealthy banker praised cast [MASK] in a negative light.,themselves,Ungrammatical,SG,7.195830638
+2A,10,The stock broker that the wealthy bankers praised cast [MASK] in a negative light.,themselves,Ungrammatical,PL,5.422793528
+2A,11,The photographer that the actor talked about depicted [MASK] as a strong person.,himself,Grammatical,SG,2.620392651
+2A,11,The photographer that the actors talked about depicted [MASK] as a strong person.,himself,Grammatical,PL,4.35678195
+2A,11,The photographer that the actor talked about depicted [MASK] as a strong person.,themselves,Ungrammatical,SG,6.914302643
+2A,11,The photographer that the actors talked about depicted [MASK] as a strong person.,themselves,Ungrammatical,PL,6.027750353
+2A,12,The correspondent that the brave soldier thought of portrayed [MASK] as a great leader.,himself,Grammatical,SG,2.680702228
+2A,12,The correspondent that the brave soldiers thought of portrayed [MASK] as a great leader.,himself,Grammatical,PL,4.655456198
+2A,12,The correspondent that the brave soldier thought of portrayed [MASK] as a great leader.,themselves,Ungrammatical,SG,7.473815538
+2A,12,The correspondent that the brave soldiers thought of portrayed [MASK] as a great leader.,themselves,Ungrammatical,PL,7.881780235
+2A,13,The attractive speaker that the talented actor mentioned praised [MASK] for a great job.,himself,Grammatical,SG,5.911122133
+2A,13,The attractive speaker that the talented actors mentioned praised [MASK] for a great job.,himself,Grammatical,PL,6.666972515
+2A,13,The attractive speaker that the talented actor mentioned praised [MASK] for a great job.,themselves,Ungrammatical,SG,9.140720493
+2A,13,The attractive speaker that the talented actors mentioned praised [MASK] for a great job.,themselves,Ungrammatical,PL,6.503614734
+2A,14,The witness that the security guard talked about identified [MASK] as a potential suspect.,himself,Grammatical,SG,3.171827065
+2A,14,The witness that the security guards talked about identified [MASK] as a potential suspect.,himself,Grammatical,PL,3.596781134
+2A,14,The witness that the security guard talked about identified [MASK] as a potential suspect.,themselves,Ungrammatical,SG,7.278270972
+2A,14,The witness that the security guards talked about identified [MASK] as a potential suspect.,themselves,Ungrammatical,PL,6.994130959
+2A,15,The singer that the band manager liked inspired [MASK] to write a new song.,himself,Grammatical,SG,8.22145488
+2A,15,The singer that the band managers liked inspired [MASK] to write a new song.,himself,Grammatical,PL,8.568062364
+2A,15,The singer that the band manager liked inspired [MASK] to write a new song.,themselves,Ungrammatical,SG,8.230650658
+2A,15,The singer that the band managers liked inspired [MASK] to write a new song.,themselves,Ungrammatical,PL,7.797892846
+2A,16,The jail warden that the strict judge talked about convinced [MASK] that the testimony was false.,himself,Grammatical,SG,5.366818474
+2A,16,The jail warden that the strict judges talked about convinced [MASK] that the testimony was false.,himself,Grammatical,PL,6.126378372
+2A,16,The jail warden that the strict judge talked about convinced [MASK] that the testimony was false.,themselves,Ungrammatical,SG,7.795106969
+2A,16,The jail warden that the strict judges talked about convinced [MASK] that the testimony was false.,themselves,Ungrammatical,PL,6.74116926
+2A,17,The officer that the radical protester mentioned prevented [MASK] from joining the unsafe protest.,himself,Grammatical,SG,5.864840079
+2A,17,The officer that the radical protesters mentioned prevented [MASK] from joining the unsafe protest.,himself,Grammatical,PL,6.759424479
+2A,17,The officer that the radical protester mentioned prevented [MASK] from joining the unsafe protest.,themselves,Ungrammatical,SG,7.385028644
+2A,17,The officer that the radical protesters mentioned prevented [MASK] from joining the unsafe protest.,themselves,Ungrammatical,PL,5.583141112
+2A,18,The outspoken senator that the corrupt official talked about should appoint [MASK] as the new county commissioner.,himself,Grammatical,SG,2.428067655
+2A,18,The outspoken senator that the corrupt officials talked about should appoint [MASK] as the new county commissioner.,himself,Grammatical,PL,3.212627268
+2A,18,The outspoken senator that the corrupt official talked about should appoint [MASK] as the new county commissioner.,themselves,Ungrammatical,SG,6.658482154
+2A,18,The outspoken senator that the corrupt officials talked about should appoint [MASK] as the new county commissioner.,themselves,Ungrammatical,PL,6.034822695
+2A,19,The mischievous schoolboy that the gullible principal liked tricked [MASK] into believing that the story was true.,himself,Grammatical,SG,3.790103311
+2A,19,The mischievous schoolboy that the gullible principals liked tricked [MASK] into believing that the story was true.,himself,Grammatical,PL,4.169183539
+2A,19,The mischievous schoolboy that the gullible principal liked tricked [MASK] into believing that the story was true.,themselves,Ungrammatical,SG,8.197443921
+2A,19,The mischievous schoolboy that the gullible principals liked tricked [MASK] into believing that the story was true.,themselves,Ungrammatical,PL,6.24338981
+2A,20,The persuasive lawyer that the innocent manager talked about defended [MASK] in the court case.,himself,Grammatical,SG,2.665764483
+2A,20,The persuasive lawyer that the innocent managers talked about defended [MASK] in the court case.,himself,Grammatical,PL,2.580411699
+2A,20,The persuasive lawyer that the innocent manager talked about defended [MASK] in the court case.,themselves,Ungrammatical,SG,6.050699988
+2A,20,The persuasive lawyer that the innocent managers talked about defended [MASK] in the court case.,themselves,Ungrammatical,PL,3.955709335
+2A,21,The patient that the flustered doctor talked about considered [MASK] to be very attractive.,himself,Grammatical,SG,2.0382465
+2A,21,The patient that the flustered doctors talked about considered [MASK] to be very attractive.,himself,Grammatical,PL,2.486846998
+2A,21,The patient that the flustered doctor talked about considered [MASK] to be very attractive.,themselves,Ungrammatical,SG,5.551591294
+2A,21,The patient that the flustered doctors talked about considered [MASK] to be very attractive.,themselves,Ungrammatical,PL,5.249163736
+2A,22,The outspoken chef that the clumsy waiter mentioned that criticized [MASK] for the horrible mistake.,himself,Grammatical,SG,4.13215103
+2A,22,The outspoken chef that the clumsy waiters mentioned that criticized [MASK] for the horrible mistake.,himself,Grammatical,PL,4.372484704
+2A,22,The outspoken chef that the clumsy waiter mentioned that criticized [MASK] for the horrible mistake.,themselves,Ungrammatical,SG,7.131349646
+2A,22,The outspoken chef that the clumsy waiters mentioned that criticized [MASK] for the horrible mistake.,themselves,Ungrammatical,PL,5.220738445
+2A,23,The devout priest that the professor talked about that forgave [MASK] for the secret affair.,himself,Grammatical,SG,3.593129457
+2A,23,The devout priest that the professors talked about that forgave [MASK] for the secret affair.,himself,Grammatical,PL,3.509406632
+2A,23,The devout priest that the professor talked about that forgave [MASK] for the secret affair.,themselves,Ungrammatical,SG,6.262035683
+2A,23,The devout priest that the professors talked about that forgave [MASK] for the secret affair.,themselves,Ungrammatical,PL,5.421125989
+2A,24,The dishonest gardener that the polite mail carrier worried about would blame [MASK] for the accident in the driveway.,himself,Grammatical,SG,2.856852335
+2A,24,The dishonest gardener that the polite mail carriers worried about would blame [MASK] for the accident in the driveway.,himself,Grammatical,PL,3.366888167
+2A,24,The dishonest gardener that the polite mail carrier worried about would blame [MASK] for the accident in the driveway.,themselves,Ungrammatical,SG,5.936362037
+2A,24,The dishonest gardener that the polite mail carriers worried about would blame [MASK] for the accident in the driveway.,themselves,Ungrammatical,PL,4.803618382
+2A,25,The noisy colleague that the pool boy talked about distracted [MASK] from the important task.,himself,Grammatical,SG,6.076886346
+2A,25,The noisy colleague that the pool boys talked about distracted [MASK] from the important task.,himself,Grammatical,PL,7.307806661
+2A,25,The noisy colleague that the pool boy talked about distracted [MASK] from the important task.,themselves,Ungrammatical,SG,8.99575748
+2A,25,The noisy colleague that the pool boys talked about distracted [MASK] from the important task.,themselves,Ungrammatical,PL,7.97000753
+2A,26,The successful executive that the handsome reporter mentioned characterized [MASK] as a greedy entrepreneur.,himself,Grammatical,SG,4.441944862
+2A,26,The successful executive that the handsome reporters mentioned characterized [MASK] as a greedy entrepreneur.,himself,Grammatical,PL,4.53131851
+2A,26,The successful executive that the handsome reporter mentioned characterized [MASK] as a greedy entrepreneur.,themselves,Ungrammatical,SG,8.642744351
+2A,26,The successful executive that the handsome reporters mentioned characterized [MASK] as a greedy entrepreneur.,themselves,Ungrammatical,PL,8.135461143
+2A,27,The cautious sergeant that the undercover officer talked about recorded [MASK] talking about the secret plot.,himself,Grammatical,SG,2.691954577
+2A,27,The cautious sergeant that the undercover officers talked about recorded [MASK] talking about the secret plot.,himself,Grammatical,PL,3.41620321
+2A,27,The cautious sergeant that the undercover officer talked about recorded [MASK] talking about the secret plot.,themselves,Ungrammatical,SG,4.45703312
+2A,27,The cautious sergeant that the undercover officers talked about recorded [MASK] talking about the secret plot.,themselves,Ungrammatical,PL,3.02727283
+2A,28,The football player that the frat boy talked about complimented [MASK] on the new dress.,himself,Grammatical,SG,6.432978763
+2A,28,The football player that the frat boys talked about complimented [MASK] on the new dress.,himself,Grammatical,PL,6.904980745
+2A,28,The football player that the frat boy talked about complimented [MASK] on the new dress.,themselves,Ungrammatical,SG,9.484145296
+2A,28,The football player that the frat boys talked about complimented [MASK] on the new dress.,themselves,Ungrammatical,PL,9.088100294
+2A,29,The rugged hiker that the member found taught [MASK] how to build a fire.,himself,Grammatical,SG,7.009281392
+2A,29,The rugged hiker that the members found taught [MASK] how to build a fire.,himself,Grammatical,PL,7.656270096
+2A,29,The rugged hiker that the member found taught [MASK] how to build a fire.,themselves,Ungrammatical,SG,7.366287899
+2A,29,The rugged hiker that the members found taught [MASK] how to build a fire.,themselves,Ungrammatical,PL,7.672182144
+2A,30,The record producer that the hip rapper talked about photographed [MASK] on the large stage.,himself,Grammatical,SG,2.613997411
+2A,30,The record producer that the hip rappers talked about photographed [MASK] on the large stage.,himself,Grammatical,PL,2.550194063
+2A,30,The record producer that the hip rapper talked about photographed [MASK] on the large stage.,themselves,Ungrammatical,SG,4.263099169
+2A,30,The record producer that the hip rappers talked about photographed [MASK] on the large stage.,themselves,Ungrammatical,PL,3.292301503
+2A,31,The professor that the brave officer reported nominated [MASK] for the prestigious award.,himself,Grammatical,SG,4.769455483
+2A,31,The professor that the brave officers reported nominated [MASK] for the prestigious award.,himself,Grammatical,PL,5.636371175
+2A,31,The professor that the brave officer reported nominated [MASK] for the prestigious award.,themselves,Ungrammatical,SG,9.2443703
+2A,31,The professor that the brave officers reported nominated [MASK] for the prestigious award.,themselves,Ungrammatical,PL,6.427420608
+2A,32,The basketball coach that the teenage boy talked about that motivated [MASK] to win the championship.,himself,Grammatical,SG,7.004649655
+2A,32,The basketball coach that the teenage boys talked about that motivated [MASK] to win the championship.,himself,Grammatical,PL,8.92878661
+2A,32,The basketball coach that the teenage boy talked about that motivated [MASK] to win the championship.,themselves,Ungrammatical,SG,9.355287379
+2A,32,The basketball coach that the teenage boys talked about that motivated [MASK] to win the championship.,themselves,Ungrammatical,PL,8.076565746
+2A,33,The mean bully that the shy boy talked about embarrassed [MASK] in the school cafeteria.,himself,Grammatical,SG,4.327444141
+2A,33,The mean bully that the shy boys talked about embarrassed [MASK] in the school cafeteria.,himself,Grammatical,PL,5.322774697
+2A,33,The mean bully that the shy boy talked about embarrassed [MASK] in the school cafeteria.,themselves,Ungrammatical,SG,7.275562626
+2A,33,The mean bully that the shy boys talked about embarrassed [MASK] in the school cafeteria.,themselves,Ungrammatical,PL,4.919944607
+2A,34,The busy waiter that the customer complained didn't notice [MASK] standing by the table.,himself,Grammatical,SG,6.751377916
+2A,34,The busy waiter that the customers complained didn't notice [MASK] standing by the table.,himself,Grammatical,PL,6.813614377
+2A,34,The busy waiter that the customer complained didn't notice [MASK] standing by the table.,themselves,Ungrammatical,SG,9.763767238
+2A,34,The busy waiter that the customers complained didn't notice [MASK] standing by the table.,themselves,Ungrammatical,PL,9.452285895
+2A,35,The guest that the friendly chef met gave [MASK] an extra large tip for the excellent meal.,himself,Grammatical,SG,7.358109992
+2A,35,The guest that the friendly chefs met gave [MASK] an extra large tip for the excellent meal.,himself,Grammatical,PL,7.911617304
+2A,35,The guest that the friendly chef met gave [MASK] an extra large tip for the excellent meal.,themselves,Ungrammatical,SG,8.54221347
+2A,35,The guest that the friendly chefs met gave [MASK] an extra large tip for the excellent meal.,themselves,Ungrammatical,PL,6.861880782
+2A,36,The teenage boy that the suspect talked about revealed [MASK] as the real criminal.,himself,Grammatical,SG,0.028657437
+2A,36,The teenage boy that the suspects talked about revealed [MASK] as the real criminal.,himself,Grammatical,PL,0.043868574
+2A,36,The teenage boy that the suspect talked about revealed [MASK] as the real criminal.,themselves,Ungrammatical,SG,6.29768094
+2A,36,The teenage boy that the suspects talked about revealed [MASK] as the real criminal.,themselves,Ungrammatical,PL,5.281827067
+2A,37,The patient that the doctor treated accidently hurt [MASK] while playing sports in the park.,himself,Grammatical,SG,0.378688722
+2A,37,The patient that the doctors treated accidently hurt [MASK] while playing sports in the park.,himself,Grammatical,PL,0.481751584
+2A,37,The patient that the doctor treated accidently hurt [MASK] while playing sports in the park.,themselves,Ungrammatical,SG,7.0752639
+2A,37,The patient that the doctors treated accidently hurt [MASK] while playing sports in the park.,themselves,Ungrammatical,PL,6.519835555
+2A,38,The witness that the lawyer suspected recently defended [MASK] against the false accusations.,himself,Grammatical,SG,0.531005552
+2A,38,The witness that the lawyers suspected recently defended [MASK] against the false accusations.,himself,Grammatical,PL,0.55833037
+2A,38,The witness that the lawyer suspected recently defended [MASK] against the false accusations.,themselves,Ungrammatical,SG,5.160979839
+2A,38,The witness that the lawyers suspected recently defended [MASK] against the false accusations.,themselves,Ungrammatical,PL,3.530704414
+2A,39,The father that the son loved often blamed [MASK] for the recent accident.,himself,Grammatical,SG,1.089503966
+2A,39,The father that the sons loved often blamed [MASK] for the recent accident.,himself,Grammatical,PL,1.536351989
+2A,39,The father that the son loved often blamed [MASK] for the recent accident.,themselves,Ungrammatical,SG,6.372517792
+2A,39,The father that the sons loved often blamed [MASK] for the recent accident.,themselves,Ungrammatical,PL,3.393889227
+2A,40,The priest that the boy respected recently motivated [MASK] to learn more about water crisis in Africa.,himself,Grammatical,SG,7.774659865
+2A,40,The priest that the boys respected recently motivated [MASK] to learn more about water crisis in Africa.,himself,Grammatical,PL,9.776422948
+2A,40,The priest that the boy respected recently motivated [MASK] to learn more about water crisis in Africa.,themselves,Ungrammatical,SG,10.73715762
+2A,40,The priest that the boys respected recently motivated [MASK] to learn more about water crisis in Africa.,themselves,Ungrammatical,PL,7.765364691
+2A,41,The employee that the executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,himself,Grammatical,SG,3.499727752
+2A,41,The employee that the executives recommended eagerly introduced [MASK] to the celebrity at the charity event. ,himself,Grammatical,PL,3.949458405
+2A,41,The employee that the executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,themselves,Ungrammatical,SG,5.403056329
+2A,41,The employee that the executives recommended eagerly introduced [MASK] to the celebrity at the charity event. ,themselves,Ungrammatical,PL,4.916506514
+2A,42,The student that the teacher praised recently taught [MASK] how to read Latin using a smartphone app.,himself,Grammatical,SG,5.21032581
+2A,42,The student that the teachers praised recently taught [MASK] how to read Latin using a smartphone app.,himself,Grammatical,PL,5.061851091
+2A,42,The student that the teacher praised recently taught [MASK] how to read Latin using a smartphone app.,themselves,Ungrammatical,SG,8.138366517
+2A,42,The student that the teachers praised recently taught [MASK] how to read Latin using a smartphone app.,themselves,Ungrammatical,PL,7.119890398
+2A,43,The actor that the fan admired proudly praised [MASK] for the terrific movie.,himself,Grammatical,SG,3.841303952
+2A,43,The actor that the fans admired proudly praised [MASK] for the terrific movie.,himself,Grammatical,PL,3.934365612
+2A,43,The actor that the fan admired proudly praised [MASK] for the terrific movie.,themselves,Ungrammatical,SG,7.392754642
+2A,43,The actor that the fans admired proudly praised [MASK] for the terrific movie.,themselves,Ungrammatical,PL,7.099367442
+2A,44,The waiter that the chef hired repeatedly reminded [MASK] about the outstanding orders.,himself,Grammatical,SG,6.32413585
+2A,44,The waiter that the chefs hired repeatedly reminded [MASK] about the outstanding orders.,himself,Grammatical,PL,6.762920165
+2A,44,The waiter that the chef hired repeatedly reminded [MASK] about the outstanding orders.,themselves,Ungrammatical,SG,8.830396107
+2A,44,The waiter that the chefs hired repeatedly reminded [MASK] about the outstanding orders.,themselves,Ungrammatical,PL,8.354158132
+2A,45,The football player that the fan loved secretly blamed [MASK] for losing the difficult competition.,himself,Grammatical,SG,2.080855631
+2A,45,The football player that the fans loved secretly blamed [MASK] for losing the difficult competition.,himself,Grammatical,PL,2.056312503
+2A,45,The football player that the fan loved secretly blamed [MASK] for losing the difficult competition.,themselves,Ungrammatical,SG,5.567721723
+2A,45,The football player that the fans loved secretly blamed [MASK] for losing the difficult competition.,themselves,Ungrammatical,PL,4.58931497
+2A,46,The clerk that the boss adored proudly introduced [MASK] to the wealthy client.,himself,Grammatical,SG,3.78569232
+2A,46,The clerk that the bosses adored proudly introduced [MASK] to the wealthy client.,himself,Grammatical,PL,3.608677601
+2A,46,The clerk that the boss adored proudly introduced [MASK] to the wealthy client.,themselves,Ungrammatical,SG,6.264718643
+2A,46,The clerk that the bosses adored proudly introduced [MASK] to the wealthy client.,themselves,Ungrammatical,PL,5.768121464
+2A,47,The applicant that the colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,himself,Grammatical,SG,2.601903954
+2A,47,The applicant that the colleagues recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,himself,Grammatical,PL,3.47029578
+2A,47,The applicant that the colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,themselves,Ungrammatical,SG,5.056006471
+2A,47,The applicant that the colleagues recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,themselves,Ungrammatical,PL,3.842031733
+2A,48,The audience that the tenorist invited quietly amused [MASK] during the boring recital.,himself,Grammatical,SG,3.112969103
+2A,48,The audience that the tenorists invited quietly amused [MASK] during the boring recital.,himself,Grammatical,PL,3.496460727
+2A,48,The audience that the tenorist invited quietly amused [MASK] during the boring recital.,themselves,Ungrammatical,SG,4.036220144
+2A,48,The audience that the tenorists invited quietly amused [MASK] during the boring recital.,themselves,Ungrammatical,PL,2.640563337
+2A,49,The officer that the armed criminal attacked courageously defended [MASK].,himself,Grammatical,SG,0.042223547
+2A,49,The officer that the armed criminals attacked courageously defended [MASK].,himself,Grammatical,PL,0.038353936
+2A,49,The officer that the armed criminal attacked courageously defended [MASK].,themselves,Ungrammatical,SG,6.31165076
+2A,49,The officer that the armed criminals attacked courageously defended [MASK].,themselves,Ungrammatical,PL,5.262415029
+2A,50,The senator that the supporter upheld often reminded [MASK] about the promises made on the campaign trail.,himself,Grammatical,SG,6.304425887
+2A,50,The senator that the supporters upheld often reminded [MASK] about the promises made on the campaign trail.,himself,Grammatical,PL,7.145331403
+2A,50,The senator that the supporter upheld often reminded [MASK] about the promises made on the campaign trail.,themselves,Ungrammatical,SG,6.963535985
+2A,50,The senator that the supporters upheld often reminded [MASK] about the promises made on the campaign trail.,themselves,Ungrammatical,PL,5.615001695
+2A,51,The actor that the writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,himself,Grammatical,SG,1.84135805
+2A,51,The actor that the writers cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,himself,Grammatical,PL,2.957899101
+2A,51,The actor that the writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,themselves,Ungrammatical,SG,4.435968255
+2A,51,The actor that the writers cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,themselves,Ungrammatical,PL,2.838373155
+2A,52,The senator that the environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,himself,Grammatical,SG,3.609674081
+2A,52,The senator that the environmentalists voted for often doubted [MASK] after making a controversial decision about birth control.,himself,Grammatical,PL,4.315337187
+2A,52,The senator that the environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,themselves,Ungrammatical,SG,6.080712407
+2A,52,The senator that the environmentalists voted for often doubted [MASK] after making a controversial decision about birth control.,themselves,Ungrammatical,PL,4.487928324
+2A,53,The priest that the volunteer prayed with often doubted [MASK] for the movement. ,himself,Grammatical,SG,3.94976057
+2A,53,The priest that the volunteers prayed with often doubted [MASK] for the movement. ,himself,Grammatical,PL,5.18519718
+2A,53,The priest that the volunteer prayed with often doubted [MASK] for the movement. ,themselves,Ungrammatical,SG,6.332684724
+2A,53,The priest that the volunteers prayed with often doubted [MASK] for the movement. ,themselves,Ungrammatical,PL,6.172330791
+2A,54,The actor that the kid liked intentionally portrayed [MASK] as a kind person during the TV interview. ,himself,Grammatical,SG,1.423838041
+2A,54,The actor that the kids liked intentionally portrayed [MASK] as a kind person during the TV interview. ,himself,Grammatical,PL,1.677825716
+2A,54,The actor that the kid liked intentionally portrayed [MASK] as a kind person during the TV interview. ,themselves,Ungrammatical,SG,5.73073753
+2A,54,The actor that the kids liked intentionally portrayed [MASK] as a kind person during the TV interview. ,themselves,Ungrammatical,PL,4.204996405
+2A,55,The researcher that the professor scout proudly praised [MASK] for a job well done.,himself,Grammatical,SG,4.446134927
+2A,55,The researcher that the professors scout proudly praised [MASK] for a job well done.,himself,Grammatical,PL,4.846760634
+2A,55,The researcher that the professor scout proudly praised [MASK] for a job well done.,themselves,Ungrammatical,SG,8.118825189
+2A,55,The researcher that the professors scout proudly praised [MASK] for a job well done.,themselves,Ungrammatical,PL,7.776037042
+2A,56,The passenger that the pilots scared injured [MASK] quite badly during the journey.,himself,Grammatical,SG,0.856303254
+2A,56,The passenger that the pilot scared injured [MASK] quite badly during the journey.,himself,Grammatical,PL,0.403005828
+2A,56,The passenger that the pilots scared injured [MASK] quite badly during the journey.,themselves,Ungrammatical,SG,4.150032051
+2A,56,The passenger that the pilot scared injured [MASK] quite badly during the journey.,themselves,Ungrammatical,PL,6.077790984
+2A,57,The pedestrian that the firefighter saved had cut [MASK] on a piece of broken glass.,himself,Grammatical,SG,1.357082519
+2A,57,The pedestrian that the firefighters saved had cut [MASK] on a piece of broken glass.,himself,Grammatical,PL,2.207118998
+2A,57,The pedestrian that the firefighter saved had cut [MASK] on a piece of broken glass.,themselves,Ungrammatical,SG,6.697045462
+2A,57,The pedestrian that the firefighters saved had cut [MASK] on a piece of broken glass.,themselves,Ungrammatical,PL,6.226292251
+2A,58,The patient that the surgeon treated had pricked [MASK] with a used syringe needle.,himself,Grammatical,SG,2.100649605
+2A,58,The patient that the surgeons treated had pricked [MASK] with a used syringe needle.,himself,Grammatical,PL,2.208713769
+2A,58,The patient that the surgeon treated had pricked [MASK] with a used syringe needle.,themselves,Ungrammatical,SG,6.308889271
+2A,58,The patient that the surgeons treated had pricked [MASK] with a used syringe needle.,themselves,Ungrammatical,PL,5.378307993
+2A,59,The colleague that the undertaker worked with whispered to [MASK] all the time with a grimace.,himself,Grammatical,SG,4.586450034
+2A,59,The colleague that the undertakers worked with whispered to [MASK] all the time with a grimace.,himself,Grammatical,PL,4.739881905
+2A,59,The colleague that the undertaker worked with whispered to [MASK] all the time with a grimace.,themselves,Ungrammatical,SG,7.062666814
+2A,59,The colleague that the undertakers worked with whispered to [MASK] all the time with a grimace.,themselves,Ungrammatical,PL,5.850394617
+2A,60,The footballer that the coach talked to had taught [MASK] to paint the lines on the pitch.,himself,Grammatical,SG,4.677830828
+2A,60,The footballer that the coaches talked to had taught [MASK] to paint the lines on the pitch.,himself,Grammatical,PL,4.709699863
+2A,60,The footballer that the coach talked to had taught [MASK] to paint the lines on the pitch.,themselves,Ungrammatical,SG,8.924719192
+2A,60,The footballer that the coaches talked to had taught [MASK] to paint the lines on the pitch.,themselves,Ungrammatical,PL,7.727111366
+2A,61,The porter that the passenger met had upset [MASK] quite a lot about all the luggage.,himself,Grammatical,SG,6.115287027
+2A,61,The porter that the passengers met had upset [MASK] quite a lot about all the luggage.,himself,Grammatical,PL,5.749958462
+2A,61,The porter that the passenger met had upset [MASK] quite a lot about all the luggage.,themselves,Ungrammatical,SG,9.28039728
+2A,61,The porter that the passengers met had upset [MASK] quite a lot about all the luggage.,themselves,Ungrammatical,PL,7.250678848
+2A,62,The judge that the victim impressed disciplined [MASK] very carefully all the time.,himself,Grammatical,SG,4.140129436
+2A,62,The judge that the victims impressed disciplined [MASK] very carefully all the time.,himself,Grammatical,PL,4.976220656
+2A,62,The judge that the victim impressed disciplined [MASK] very carefully all the time.,themselves,Ungrammatical,SG,7.493373542
+2A,62,The judge that the victims impressed disciplined [MASK] very carefully all the time.,themselves,Ungrammatical,PL,6.693561718
+2A,63,The engineer that the boss visited convinced [MASK] that the valve was faulty.,himself,Grammatical,SG,5.15698348
+2A,63,The engineer that the bosses visited convinced [MASK] that the valve was faulty.,himself,Grammatical,PL,5.471881303
+2A,63,The engineer that the boss visited convinced [MASK] that the valve was faulty.,themselves,Ungrammatical,SG,7.789125142
+2A,63,The engineer that the bosses visited convinced [MASK] that the valve was faulty.,themselves,Ungrammatical,PL,6.924141312
+2A,64,The bricklayer that the director annoyed lied about [MASK] damaging the tools in the shed.,himself,Grammatical,SG,6.479896058
+2A,64,The bricklayer that the directors annoyed lied about [MASK] damaging the tools in the shed.,himself,Grammatical,PL,6.857494738
+2A,64,The bricklayer that the director annoyed lied about [MASK] damaging the tools in the shed.,themselves,Ungrammatical,SG,9.07128364
+2A,64,The bricklayer that the directors annoyed lied about [MASK] damaging the tools in the shed.,themselves,Ungrammatical,PL,8.313053366
+2A,65,The electrician that the colleague called on owed [MASK] another attempt to solve the problem.,himself,Grammatical,SG,5.744361479
+2A,65,The electrician that the colleagues called on owed [MASK] another attempt to solve the problem.,himself,Grammatical,PL,6.002609976
+2A,65,The electrician that the colleague called on owed [MASK] another attempt to solve the problem.,themselves,Ungrammatical,SG,9.429798328
+2A,65,The electrician that the colleagues called on owed [MASK] another attempt to solve the problem.,themselves,Ungrammatical,PL,7.808062173
+2A,66,The paratrooper that the soldier drank with had awarded [MASK] the top prize in the pub quiz.,himself,Grammatical,SG,4.838188561
+2A,66,The paratrooper that the soldiers drank with had awarded [MASK] the top prize in the pub quiz.,himself,Grammatical,PL,4.700384591
+2A,66,The paratrooper that the soldier drank with had awarded [MASK] the top prize in the pub quiz.,themselves,Ungrammatical,SG,7.192490568
+2A,66,The paratrooper that the soldiers drank with had awarded [MASK] the top prize in the pub quiz.,themselves,Ungrammatical,PL,5.840343224
+2A,67,The farmer that the villager spoke to had paid for [MASK] to join the local fox hunt.,himself,Grammatical,SG,6.512548592
+2A,67,The farmer that the villagers spoke to had paid for [MASK] to join the local fox hunt.,himself,Grammatical,PL,7.058878405
+2A,67,The farmer that the villager spoke to had paid for [MASK] to join the local fox hunt.,themselves,Ungrammatical,SG,9.710902012
+2A,67,The farmer that the villagers spoke to had paid for [MASK] to join the local fox hunt.,themselves,Ungrammatical,PL,7.736729651
+2A,68,The nurse that the journalist interviewed criticized [MASK] for being late for the appointment.,himself,Grammatical,SG,6.157159656
+2A,68,The nurse that the journalists interviewed criticized [MASK] for being late for the appointment.,himself,Grammatical,PL,5.715584022
+2A,68,The nurse that the journalist interviewed criticized [MASK] for being late for the appointment.,themselves,Ungrammatical,SG,8.868117345
+2A,68,The nurse that the journalists interviewed criticized [MASK] for being late for the appointment.,themselves,Ungrammatical,PL,7.715823223
+2A,69,The receptionist that the guest phoned almost killed [MASK] in early May for no reason.,himself,Grammatical,SG,6.051878401
+2A,69,The receptionist that the guests phoned almost killed [MASK] in early May for no reason.,himself,Grammatical,PL,6.219339911
+2A,69,The receptionist that the guest phoned almost killed [MASK] in early May for no reason.,themselves,Ungrammatical,SG,8.737995196
+2A,69,The receptionist that the guests phoned almost killed [MASK] in early May for no reason.,themselves,Ungrammatical,PL,7.219686916
+2A,70,The secretary that the boss praised had treated [MASK] to several cakes with pink icing.,himself,Grammatical,SG,5.345882802
+2A,70,The secretary that the bosses praised had treated [MASK] to several cakes with pink icing.,himself,Grammatical,PL,5.0624242
+2A,70,The secretary that the boss praised had treated [MASK] to several cakes with pink icing.,themselves,Ungrammatical,SG,7.483999448
+2A,70,The secretary that the bosses praised had treated [MASK] to several cakes with pink icing.,themselves,Ungrammatical,PL,6.505849938
+2A,71,The ballet dancer that the director invited introduced [MASK] to all the stars from Hollywood.,himself,Grammatical,SG,5.697827968
+2A,71,The ballet dancer that the directors invited introduced [MASK] to all the stars from Hollywood.,himself,Grammatical,PL,6.196486753
+2A,71,The ballet dancer that the director invited introduced [MASK] to all the stars from Hollywood.,themselves,Ungrammatical,SG,8.215126706
+2A,71,The ballet dancer that the directors invited introduced [MASK] to all the stars from Hollywood.,themselves,Ungrammatical,PL,7.686351787
+2A,72,The cook that the babysitter cheated would blame [MASK] for the children¡¯s bad diet.,himself,Grammatical,SG,3.417408057
+2A,72,The cook that the babysitters cheated would blame [MASK] for the children¡¯s bad diet.,himself,Grammatical,PL,3.932392078
+2A,72,The cook that the babysitter cheated would blame [MASK] for the children¡¯s bad diet.,themselves,Ungrammatical,SG,4.000350176
+2A,72,The cook that the babysitters cheated would blame [MASK] for the children¡¯s bad diet.,themselves,Ungrammatical,PL,3.013531186
+2A,73,The beautician that the client mistrusted disliked [MASK] quite a lot.,himself,Grammatical,SG,6.034570146
+2A,73,The beautician that the clients mistrusted disliked [MASK] quite a lot.,himself,Grammatical,PL,6.100109399
+2A,73,The beautician that the client mistrusted disliked [MASK] quite a lot.,themselves,Ungrammatical,SG,9.621194189
+2A,73,The beautician that the clients mistrusted disliked [MASK] quite a lot.,themselves,Ungrammatical,PL,9.106768278
+2A,74,The dressmaker that the employer employed familiarised [MASK] with all the modern styles.,himself,Grammatical,SG,1.588104543
+2A,74,The dressmaker that the employers employed familiarised [MASK] with all the modern styles.,himself,Grammatical,PL,3.521958635
+2A,74,The dressmaker that the employer employed familiarised [MASK] with all the modern styles.,themselves,Ungrammatical,SG,1.705058411
+2A,74,The dressmaker that the employers employed familiarised [MASK] with all the modern styles.,themselves,Ungrammatical,PL,1.166158095
+2A,75,The spy that the executive scared had cut [MASK] with a rusty razor blade.,himself,Grammatical,SG,3.185126244
+2A,75,The spy that the executives scared had cut [MASK] with a rusty razor blade.,himself,Grammatical,PL,3.011996717
+2A,75,The spy that the executive scared had cut [MASK] with a rusty razor blade.,themselves,Ungrammatical,SG,8.134241292
+2A,75,The spy that the executives scared had cut [MASK] with a rusty razor blade.,themselves,Ungrammatical,PL,6.795914656
+2A,76,The spectator that the cheerleader stood near had made a fool of [MASK] in front of the players.,himself,Grammatical,SG,1.233514853
+2A,76,The spectator that the cheerleaders stood near had made a fool of [MASK] in front of the players.,himself,Grammatical,PL,1.01181771
+2A,76,The spectator that the cheerleader stood near had made a fool of [MASK] in front of the players.,themselves,Ungrammatical,SG,4.805314124
+2A,76,The spectator that the cheerleaders stood near had made a fool of [MASK] in front of the players.,themselves,Ungrammatical,PL,2.234699082
+2A,77,The cleaner that the tenant liked was proud of [MASK] and really liked doing the job.,himself,Grammatical,SG,1.495519418
+2A,77,The cleaner that the tenants liked was proud of [MASK] and really liked doing the job.,himself,Grammatical,PL,1.46598241
+2A,77,The cleaner that the tenant liked was proud of [MASK] and really liked doing the job.,themselves,Ungrammatical,SG,4.696847754
+2A,77,The cleaner that the tenants liked was proud of [MASK] and really liked doing the job.,themselves,Ungrammatical,PL,3.69811442
+2A,78,The worker that the colleague helped was comfortable with [MASK] in the large remote house.,himself,Grammatical,SG,5.765493005
+2A,78,The worker that the colleagues helped was comfortable with [MASK] in the large remote house.,himself,Grammatical,PL,5.622655473
+2A,78,The worker that the colleague helped was comfortable with [MASK] in the large remote house.,themselves,Ungrammatical,SG,7.738351471
+2A,78,The worker that the colleagues helped was comfortable with [MASK] in the large remote house.,themselves,Ungrammatical,PL,6.925286383
+2A,79,The typist that the lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,himself,Grammatical,SG,3.29049802
+2A,79,The typist that the lawyers insulted didn¡¯t trust [MASK] very much with the new photocopier.,himself,Grammatical,PL,3.582546351
+2A,79,The typist that the lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,themselves,Ungrammatical,SG,6.183325517
+2A,79,The typist that the lawyers insulted didn¡¯t trust [MASK] very much with the new photocopier.,themselves,Ungrammatical,PL,5.105212805
+2B,1,The male photographer that the famous actor praised depicted [MASK] as a strict person.,himself,Grammatical,masculine,2.803324837
+2B,1,The male photographer that the famous actress praised depicted [MASK] as a strict person.,himself,Grammatical,feminine,3.195700573
+2B,1,The male photographer that the famous actor praised depicted [MASK] as a strict person.,herself,Ungrammatical,masculine,4.357699487
+2B,1,The male photographer that the famous actress praised depicted [MASK] as a strict person.,herself,Ungrammatical,feminine,3.555873734
+2B,2,The male factory worker that the male senator talked about inspired [MASK] to be a better person.,himself,Grammatical,masculine,7.233979783
+2B,2,The male factory worker that the female senator talked about inspired [MASK] to be a better person.,himself,Grammatical,feminine,8.066245829
+2B,2,The male factory worker that the male senator talked about inspired [MASK] to be a better person.,herself,Ungrammatical,masculine,7.857437933
+2B,2,The male factory worker that the female senator talked about inspired [MASK] to be a better person.,herself,Ungrammatical,feminine,7.286277453
+2B,3,The male bank robber that the male trustworthy officer talked about criticized [MASK] for the noticeable error.,himself,Grammatical,masculine,3.353685285
+2B,3,The male bank robber that the female trustworthy officer talked about criticized [MASK] for the noticeable error.,himself,Grammatical,feminine,4.169100821
+2B,3,The male bank robber that the male trustworthy officer talked about criticized [MASK] for the noticeable error.,herself,Ungrammatical,masculine,6.202102097
+2B,3,The male bank robber that the female trustworthy officer talked about criticized [MASK] for the noticeable error.,herself,Ungrammatical,feminine,5.474823517
+2B,4,The male photographer that the male talented director introduced described [MASK] as a mean person.,himself,Grammatical,masculine,2.87944761
+2B,4,The male photographer that the female talented director introduced described [MASK] as a mean person.,himself,Grammatical,feminine,3.037980569
+2B,4,The male photographer that the male talented director introduced described [MASK] as a mean person.,herself,Ungrammatical,masculine,3.426656781
+2B,4,The male photographer that the female talented director introduced described [MASK] as a mean person.,herself,Ungrammatical,feminine,3.207110939
+2B,5,The male influential speaker that the male democratic senator introduced distinguished [MASK] as an honorable person.,himself,Grammatical,masculine,1.720205315
+2B,5,The male influential speaker that the female democratic senator introduced distinguished [MASK] as an honorable person.,himself,Grammatical,feminine,2.284112767
+2B,5,The male influential speaker that the male democratic senator introduced distinguished [MASK] as an honorable person.,herself,Ungrammatical,masculine,3.348230321
+2B,5,The male influential speaker that the female democratic senator introduced distinguished [MASK] as an honorable person.,herself,Ungrammatical,feminine,2.003584756
+2B,6,The male journalist that the male city official talked about characterized [MASK] as a helpful person.,himself,Grammatical,masculine,3.521950803
+2B,6,The male journalist that the female city official talked about characterized [MASK] as a helpful person.,himself,Grammatical,feminine,4.383857531
+2B,6,The male journalist that the male city official talked about characterized [MASK] as a helpful person.,herself,Ungrammatical,masculine,3.987492716
+2B,6,The male journalist that the female city official talked about characterized [MASK] as a helpful person.,herself,Ungrammatical,feminine,3.621820158
+2B,7,The male dishonest lawyer that the male witness pointed out misrepresented [MASK] in the murder trial.,himself,Grammatical,masculine,0.649162298
+2B,7,The male dishonest lawyer that the female witness pointed out misrepresented [MASK] in the murder trial.,himself,Grammatical,feminine,0.957981199
+2B,7,The male dishonest lawyer that the male witness pointed out misrepresented [MASK] in the murder trial.,herself,Ungrammatical,masculine,2.989396097
+2B,7,The male dishonest lawyer that the female witness pointed out misrepresented [MASK] in the murder trial.,herself,Ungrammatical,feminine,1.720315033
+2B,8,The male film director that the aspiring actor worried about would portray [MASK] as a dumb person.,himself,Grammatical,masculine,1.482740207
+2B,8,The male film director that the aspiring actress worried about would portray [MASK] as a dumb person.,himself,Grammatical,feminine,2.844322002
+2B,8,The male film director that the aspiring actor worried about would portray [MASK] as a dumb person.,herself,Ungrammatical,masculine,4.162532734
+2B,8,The male film director that the aspiring actress worried about would portray [MASK] as a dumb person.,herself,Ungrammatical,feminine,2.663675088
+2B,9,The male clerk that the male executive talked about described [MASK] as a hard worker.,himself,Grammatical,masculine,2.894140318
+2B,9,The male clerk that the female executive talked about described [MASK] as a hard worker.,himself,Grammatical,feminine,3.233245345
+2B,9,The male clerk that the male executive talked about described [MASK] as a hard worker.,herself,Ungrammatical,masculine,3.499814485
+2B,9,The male clerk that the female executive talked about described [MASK] as a hard worker.,herself,Ungrammatical,feminine,3.052543015
+2B,10,The male stock broker that the male banker praised cast [MASK] in a negative light.,himself,Grammatical,masculine,2.863231445
+2B,10,The male stock broker that the female banker praised cast [MASK] in a negative light.,himself,Grammatical,feminine,3.154667147
+2B,10,The male stock broker that the male banker praised cast [MASK] in a negative light.,herself,Ungrammatical,masculine,4.520693163
+2B,10,The male stock broker that the female banker praised cast [MASK] in a negative light.,herself,Ungrammatical,feminine,3.885341429
+2B,11,The male photographer that the actor talked about depicted [MASK] as a strong person.,himself,Grammatical,masculine,2.053124572
+2B,11,The male photographer that the actress talked about depicted [MASK] as a strong person.,himself,Grammatical,feminine,3.185722232
+2B,11,The male photographer that the actor talked about depicted [MASK] as a strong person.,herself,Ungrammatical,masculine,3.783368353
+2B,11,The male photographer that the actress talked about depicted [MASK] as a strong person.,herself,Ungrammatical,feminine,2.589241926
+2B,12,The male correspondent that the male soldier thought of portrayed [MASK] as a great leader.,himself,Grammatical,masculine,2.168006102
+2B,12,The male correspondent that the female soldier thought of portrayed [MASK] as a great leader.,himself,Grammatical,feminine,2.58421603
+2B,12,The male correspondent that the male soldier thought of portrayed [MASK] as a great leader.,herself,Ungrammatical,masculine,5.740605937
+2B,12,The male correspondent that the female soldier thought of portrayed [MASK] as a great leader.,herself,Ungrammatical,feminine,3.656214664
+2B,13,The male speaker that the talented actor mentioned praised [MASK] for a great job.,himself,Grammatical,masculine,5.499812064
+2B,13,The male speaker that the talented actress mentioned praised [MASK] for a great job.,himself,Grammatical,feminine,6.335355676
+2B,13,The male speaker that the talented actor mentioned praised [MASK] for a great job.,herself,Ungrammatical,masculine,7.233661023
+2B,13,The male speaker that the talented actress mentioned praised [MASK] for a great job.,herself,Ungrammatical,feminine,5.773961531
+2B,14,The male witness that the male security guard talked about identified [MASK] as a potential suspect.,himself,Grammatical,masculine,1.740854486
+2B,14,The male witness that the female security guard talked about identified [MASK] as a potential suspect.,himself,Grammatical,feminine,1.891956829
+2B,14,The male witness that the male security guard talked about identified [MASK] as a potential suspect.,herself,Ungrammatical,masculine,4.479518181
+2B,14,The male witness that the female security guard talked about identified [MASK] as a potential suspect.,herself,Ungrammatical,feminine,3.160548682
+2B,15,The male singer that the male manager liked inspired [MASK] to write a new song.,himself,Grammatical,masculine,7.965298779
+2B,15,The male singer that the female manager liked inspired [MASK] to write a new song.,himself,Grammatical,feminine,8.530161301
+2B,15,The male singer that the male manager liked inspired [MASK] to write a new song.,herself,Ungrammatical,masculine,8.243659785
+2B,15,The male singer that the female manager liked inspired [MASK] to write a new song.,herself,Ungrammatical,feminine,8.07409212
+2B,16,The male jail warden that the male judge talked about convinced [MASK] that the testimony was false.,himself,Grammatical,masculine,5.142488184
+2B,16,The male jail warden that the female judge talked about convinced [MASK] that the testimony was false.,himself,Grammatical,feminine,5.707226247
+2B,16,The male jail warden that the male judge talked about convinced [MASK] that the testimony was false.,herself,Ungrammatical,masculine,7.866929489
+2B,16,The male jail warden that the female judge talked about convinced [MASK] that the testimony was false.,herself,Ungrammatical,feminine,6.43285453
+2B,17,The male officer that the male protester mentioned prevented [MASK] from joining the unsafe protest.,himself,Grammatical,masculine,5.3377178
+2B,17,The male officer that the female protester mentioned prevented [MASK] from joining the unsafe protest.,himself,Grammatical,feminine,5.625654964
+2B,17,The male officer that the male protester mentioned prevented [MASK] from joining the unsafe protest.,herself,Ungrammatical,masculine,6.498857722
+2B,17,The male officer that the female protester mentioned prevented [MASK] from joining the unsafe protest.,herself,Ungrammatical,feminine,6.382189464
+2B,18,The male senator that the male official talked about should appoint [MASK] as the new county commissioner.,himself,Grammatical,masculine,3.164557837
+2B,18,The male senator that the female official talked about should appoint [MASK] as the new county commissioner.,himself,Grammatical,feminine,3.117661264
+2B,18,The male senator that the male official talked about should appoint [MASK] as the new county commissioner.,herself,Ungrammatical,masculine,4.966607008
+2B,18,The male senator that the female official talked about should appoint [MASK] as the new county commissioner.,herself,Ungrammatical,feminine,3.873141516
+2B,19,The mischievous schoolboy that the male principal liked tricked [MASK] into believing that the story was true.,himself,Grammatical,masculine,4.234174242
+2B,19,The mischievous schoolboy that the female principal liked tricked [MASK] into believing that the story was true.,himself,Grammatical,feminine,4.96725168
+2B,19,The mischievous schoolboy that the male principal liked tricked [MASK] into believing that the story was true.,herself,Ungrammatical,masculine,7.323619397
+2B,19,The mischievous schoolboy that the female principal liked tricked [MASK] into believing that the story was true.,herself,Ungrammatical,feminine,6.47881117
+2B,20,The male lawyer that the male manager talked about defended [MASK] in the court case.,himself,Grammatical,masculine,2.987926995
+2B,20,The male lawyer that the female manager talked about defended [MASK] in the court case.,himself,Grammatical,feminine,3.203321338
+2B,20,The male lawyer that the male manager talked about defended [MASK] in the court case.,herself,Ungrammatical,masculine,4.105851768
+2B,20,The male lawyer that the female manager talked about defended [MASK] in the court case.,herself,Ungrammatical,feminine,3.516870023
+2B,21,The male patient that the male doctor talked about considered [MASK] to be very attractive.,himself,Grammatical,masculine,2.163608468
+2B,21,The male patient that the female doctor talked about considered [MASK] to be very attractive.,himself,Grammatical,feminine,2.351001064
+2B,21,The male patient that the male doctor talked about considered [MASK] to be very attractive.,herself,Ungrammatical,masculine,2.371922322
+2B,21,The male patient that the female doctor talked about considered [MASK] to be very attractive.,herself,Ungrammatical,feminine,2.257335008
+2B,22,The male chef that the clumsy waiter mentioned that criticized [MASK] for the horrible mistake.,himself,Grammatical,masculine,4.1840964
+2B,22,The male chef that the clumsy waitress mentioned that criticized [MASK] for the horrible mistake.,himself,Grammatical,feminine,4.9078865
+2B,22,The male chef that the clumsy waiter mentioned that criticized [MASK] for the horrible mistake.,herself,Ungrammatical,masculine,5.99917901
+2B,22,The male chef that the clumsy waitress mentioned that criticized [MASK] for the horrible mistake.,herself,Ungrammatical,feminine,5.386799878
+2B,23,The male priest that the male professor talked about that forgave [MASK] for the secret affair.,himself,Grammatical,masculine,3.740902911
+2B,23,The male priest that the female professor talked about that forgave [MASK] for the secret affair.,himself,Grammatical,feminine,3.984244765
+2B,23,The male priest that the male professor talked about that forgave [MASK] for the secret affair.,herself,Ungrammatical,masculine,5.905498952
+2B,23,The male priest that the female professor talked about that forgave [MASK] for the secret affair.,herself,Ungrammatical,feminine,5.211738539
+2B,24,The male gardener that the male mail carrier worried about would blame [MASK] for the accident in the driveway.,himself,Grammatical,masculine,2.831465126
+2B,24,The male gardener that the female mail carrier worried about would blame [MASK] for the accident in the driveway.,himself,Grammatical,feminine,2.961607097
+2B,24,The male gardener that the male mail carrier worried about would blame [MASK] for the accident in the driveway.,herself,Ungrammatical,masculine,4.540679277
+2B,24,The male gardener that the female mail carrier worried about would blame [MASK] for the accident in the driveway.,herself,Ungrammatical,feminine,4.076282554
+2B,25,The male colleague that the pool boy talked about distracted [MASK] from the important task.,himself,Grammatical,masculine,5.095409323
+2B,25,The male colleague that the pool girl talked about distracted [MASK] from the important task.,himself,Grammatical,feminine,5.626188236
+2B,25,The male colleague that the pool boy talked about distracted [MASK] from the important task.,herself,Ungrammatical,masculine,6.626512933
+2B,25,The male colleague that the pool girl talked about distracted [MASK] from the important task.,herself,Ungrammatical,feminine,5.905395979
+2B,26,The male executive that the male reporter mentioned characterized [MASK] as a greedy entrepreneur.,himself,Grammatical,masculine,3.08296924
+2B,26,The male executive that the female reporter mentioned characterized [MASK] as a greedy entrepreneur.,himself,Grammatical,feminine,3.23215209
+2B,26,The male executive that the male reporter mentioned characterized [MASK] as a greedy entrepreneur.,herself,Ungrammatical,masculine,5.171381962
+2B,26,The male executive that the female reporter mentioned characterized [MASK] as a greedy entrepreneur.,herself,Ungrammatical,feminine,5.087531616
+2B,27,The male sergeant that the male officer talked about recorded [MASK] talking about the secret plot.,himself,Grammatical,masculine,2.965509371
+2B,27,The male sergeant that the female officer talked about recorded [MASK] talking about the secret plot.,himself,Grammatical,feminine,3.261546142
+2B,27,The male sergeant that the male officer talked about recorded [MASK] talking about the secret plot.,herself,Ungrammatical,masculine,5.739404649
+2B,27,The male sergeant that the female officer talked about recorded [MASK] talking about the secret plot.,herself,Ungrammatical,feminine,4.575016078
+2B,28,The male football player that the frat boy talked about complimented [MASK] on the new dress.,himself,Grammatical,masculine,5.947982914
+2B,28,The male football player that the frat girl talked about complimented [MASK] on the new dress.,himself,Grammatical,feminine,6.343615008
+2B,28,The male football player that the frat boy talked about complimented [MASK] on the new dress.,herself,Ungrammatical,masculine,6.359664501
+2B,28,The male football player that the frat girl talked about complimented [MASK] on the new dress.,herself,Ungrammatical,feminine,6.000974102
+2B,29,The male hiker that the male member found taught [MASK] how to build a fire.,himself,Grammatical,masculine,5.862698033
+2B,29,The male hiker that the female member found taught [MASK] how to build a fire.,himself,Grammatical,feminine,6.455921548
+2B,29,The male hiker that the male member found taught [MASK] how to build a fire.,herself,Ungrammatical,masculine,8.996606488
+2B,29,The male hiker that the female member found taught [MASK] how to build a fire.,herself,Ungrammatical,feminine,7.805520826
+2B,30,The male record producer that the male rapper talked about photographed [MASK] on the large stage.,himself,Grammatical,masculine,1.795351783
+2B,30,The male record producer that the female rapper talked about photographed [MASK] on the large stage.,himself,Grammatical,feminine,2.231260352
+2B,30,The male record producer that the male rapper talked about photographed [MASK] on the large stage.,herself,Ungrammatical,masculine,4.431015891
+2B,30,The male record producer that the female rapper talked about photographed [MASK] on the large stage.,herself,Ungrammatical,feminine,3.623665807
+2B,31,The male professor that the male officer reported nominated [MASK] for the prestigious award.,himself,Grammatical,masculine,3.487174365
+2B,31,The male professor that the female officer reported nominated [MASK] for the prestigious award.,himself,Grammatical,feminine,3.694241208
+2B,31,The male professor that the male officer reported nominated [MASK] for the prestigious award.,herself,Ungrammatical,masculine,5.757163806
+2B,31,The male professor that the female officer reported nominated [MASK] for the prestigious award.,herself,Ungrammatical,feminine,4.883965724
+2B,32,The male basketball coach that the teenage boy talked about that motivated [MASK] to win the championship.,himself,Grammatical,masculine,6.900581934
+2B,32,The male basketball coach that the teenage girl talked about that motivated [MASK] to win the championship.,himself,Grammatical,feminine,8.567768802
+2B,32,The male basketball coach that the teenage boy talked about that motivated [MASK] to win the championship.,herself,Ungrammatical,masculine,11.06823756
+2B,32,The male basketball coach that the teenage girl talked about that motivated [MASK] to win the championship.,herself,Ungrammatical,feminine,8.10202567
+2B,33,The male bully that the shy boy talked about embarrassed [MASK] in the school cafeteria.,himself,Grammatical,masculine,4.004452406
+2B,33,The male bully that the shy girl talked about embarrassed [MASK] in the school cafeteria.,himself,Grammatical,feminine,4.857442571
+2B,33,The male bully that the shy boy talked about embarrassed [MASK] in the school cafeteria.,herself,Ungrammatical,masculine,7.442961801
+2B,33,The male bully that the shy girl talked about embarrassed [MASK] in the school cafeteria.,herself,Ungrammatical,feminine,5.434784042
+2B,34,The busy waiter that the male customer complained didn't notice [MASK] standing by the table.,himself,Grammatical,masculine,6.6534277
+2B,34,The busy waiter that the female customer complained didn't notice [MASK] standing by the table.,himself,Grammatical,feminine,7.1728308
+2B,34,The busy waiter that the male customer complained didn't notice [MASK] standing by the table.,herself,Ungrammatical,masculine,8.685699011
+2B,34,The busy waiter that the female customer complained didn't notice [MASK] standing by the table.,herself,Ungrammatical,feminine,8.108526344
+2B,35,The male guest that the male chef met gave [MASK] an extra large tip for the excellent meal.,himself,Grammatical,masculine,7.014723915
+2B,35,The male guest that the female chef met gave [MASK] an extra large tip for the excellent meal.,himself,Grammatical,feminine,7.407878349
+2B,35,The male guest that the male chef met gave [MASK] an extra large tip for the excellent meal.,herself,Ungrammatical,masculine,8.544755447
+2B,35,The male guest that the female chef met gave [MASK] an extra large tip for the excellent meal.,herself,Ungrammatical,feminine,7.827814328
+2B,36,The teenage boy that the male suspect talked about revealed [MASK] as the real criminal.,himself,Grammatical,masculine,0.02438045
+2B,36,The teenage boy that the female suspect talked about revealed [MASK] as the real criminal.,himself,Grammatical,feminine,0.048911981
+2B,36,The teenage boy that the male suspect talked about revealed [MASK] as the real criminal.,herself,Ungrammatical,masculine,5.913512467
+2B,36,The teenage boy that the female suspect talked about revealed [MASK] as the real criminal.,herself,Ungrammatical,feminine,3.89269442
+2B,37,The male patient that the male doctor treated accidently hurt [MASK] while playing sports in the park.,himself,Grammatical,masculine,0.449011842
+2B,37,The male patient that the female doctor treated accidently hurt [MASK] while playing sports in the park.,himself,Grammatical,feminine,0.505621978
+2B,37,The male patient that the male doctor treated accidently hurt [MASK] while playing sports in the park.,herself,Ungrammatical,masculine,3.351222055
+2B,37,The male patient that the female doctor treated accidently hurt [MASK] while playing sports in the park.,herself,Ungrammatical,feminine,2.638323827
+2B,38,The male witness that the male lawyer suspected recently defended [MASK] against the false accusations.,himself,Grammatical,masculine,0.369705798
+2B,38,The male witness that the female lawyer suspected recently defended [MASK] against the false accusations.,himself,Grammatical,feminine,0.443306006
+2B,38,The male witness that the male lawyer suspected recently defended [MASK] against the false accusations.,herself,Ungrammatical,masculine,2.71194519
+2B,38,The male witness that the female lawyer suspected recently defended [MASK] against the false accusations.,herself,Ungrammatical,feminine,2.082215322
+2B,39,The father that the son loved often blamed [MASK] for the recent accident.,himself,Grammatical,masculine,1.089503966
+2B,39,The father that the daughter loved often blamed [MASK] for the recent accident.,himself,Grammatical,feminine,2.186569258
+2B,39,The father that the son loved often blamed [MASK] for the recent accident.,herself,Ungrammatical,masculine,7.612354688
+2B,39,The father that the daughter loved often blamed [MASK] for the recent accident.,herself,Ungrammatical,feminine,3.933811184
+2B,40,The male priest that the boy respected recently motivated [MASK] to learn more about water crisis in Africa.,himself,Grammatical,masculine,7.643592703
+2B,40,The male priest that the girl respected recently motivated [MASK] to learn more about water crisis in Africa.,himself,Grammatical,feminine,10.27082618
+2B,40,The male priest that the boy respected recently motivated [MASK] to learn more about water crisis in Africa.,herself,Ungrammatical,masculine,11.6384731
+2B,40,The male priest that the girl respected recently motivated [MASK] to learn more about water crisis in Africa.,herself,Ungrammatical,feminine,8.737495603
+2B,41,The male employee that the male executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,himself,Grammatical,masculine,3.003816311
+2B,41,The male employee that the female executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,himself,Grammatical,feminine,3.198954331
+2B,41,The male employee that the male executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,herself,Ungrammatical,masculine,3.933121438
+2B,41,The male employee that the female executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,herself,Ungrammatical,feminine,3.766609927
+2B,42,The male student that the male teacher praised recently taught [MASK] how to read Latin using a smartphone app.,himself,Grammatical,masculine,5.774719275
+2B,42,The male student that the female teacher praised recently taught [MASK] how to read Latin using a smartphone app.,himself,Grammatical,feminine,5.856227739
+2B,42,The male student that the male teacher praised recently taught [MASK] how to read Latin using a smartphone app.,herself,Ungrammatical,masculine,6.53761379
+2B,42,The male student that the female teacher praised recently taught [MASK] how to read Latin using a smartphone app.,herself,Ungrammatical,feminine,6.128779388
+2B,43,The actor that the male fan admired proudly praised [MASK] for the terrific movie.,himself,Grammatical,masculine,3.82649183
+2B,43,The actor that the female fan admired proudly praised [MASK] for the terrific movie.,himself,Grammatical,feminine,4.411326092
+2B,43,The actor that the male fan admired proudly praised [MASK] for the terrific movie.,herself,Ungrammatical,masculine,6.103005874
+2B,43,The actor that the female fan admired proudly praised [MASK] for the terrific movie.,herself,Ungrammatical,feminine,4.972762776
+2B,44,The waiter that the male chef hired repeatedly reminded [MASK] about the outstanding orders.,himself,Grammatical,masculine,6.119025437
+2B,44,The waiter that the female chef hired repeatedly reminded [MASK] about the outstanding orders.,himself,Grammatical,feminine,6.677048361
+2B,44,The waiter that the male chef hired repeatedly reminded [MASK] about the outstanding orders.,herself,Ungrammatical,masculine,7.216853311
+2B,44,The waiter that the female chef hired repeatedly reminded [MASK] about the outstanding orders.,herself,Ungrammatical,feminine,6.738802597
+2B,45,The male player that the male fan loved secretly blamed [MASK] for losing the difficult competition.,himself,Grammatical,masculine,2.187758214
+2B,45,The male player that the female fan loved secretly blamed [MASK] for losing the difficult competition.,himself,Grammatical,feminine,2.200069076
+2B,45,The male player that the male fan loved secretly blamed [MASK] for losing the difficult competition.,herself,Ungrammatical,masculine,3.60361451
+2B,45,The male player that the female fan loved secretly blamed [MASK] for losing the difficult competition.,herself,Ungrammatical,feminine,3.536677465
+2B,46,The male clerk that the male boss adored proudly introduced [MASK] to the wealthy client.,himself,Grammatical,masculine,3.041431471
+2B,46,The male clerk that the female boss adored proudly introduced [MASK] to the wealthy client.,himself,Grammatical,feminine,3.144151904
+2B,46,The male clerk that the male boss adored proudly introduced [MASK] to the wealthy client.,herself,Ungrammatical,masculine,3.955601358
+2B,46,The male clerk that the female boss adored proudly introduced [MASK] to the wealthy client.,herself,Ungrammatical,feminine,3.581092515
+2B,47,The male applicant that the male colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,himself,Grammatical,masculine,2.351036628
+2B,47,The male applicant that the female colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,himself,Grammatical,feminine,2.539662649
+2B,47,The male applicant that the male colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,herself,Ungrammatical,masculine,3.778798587
+2B,47,The male applicant that the female colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,herself,Ungrammatical,feminine,3.630241658
+2B,48,The male audience that the male sopranist invited quietly amused [MASK] during the boring recital.,himself,Grammatical,masculine,3.27797922
+2B,48,The male audience that the female sopranist invited quietly amused [MASK] during the boring recital.,himself,Grammatical,feminine,3.677498901
+2B,48,The male audience that the male sopranist invited quietly amused [MASK] during the boring recital.,herself,Ungrammatical,masculine,3.862779492
+2B,48,The male audience that the female sopranist invited quietly amused [MASK] during the boring recital.,herself,Ungrammatical,feminine,3.256165519
+2B,49,The male officer that the male criminal attacked courageously defended [MASK].,himself,Grammatical,masculine,0.0835131
+2B,49,The male officer that the female criminal attacked courageously defended [MASK].,himself,Grammatical,feminine,0.128133993
+2B,49,The male officer that the male criminal attacked courageously defended [MASK].,herself,Ungrammatical,masculine,3.469420264
+2B,49,The male officer that the female criminal attacked courageously defended [MASK].,herself,Ungrammatical,feminine,2.753239936
+2B,50,The male senator that the male supporter upheld often reminded [MASK] about the promises made on the campaign trail.,himself,Grammatical,masculine,6.413015777
+2B,50,The male senator that the female supporter upheld often reminded [MASK] about the promises made on the campaign trail.,himself,Grammatical,feminine,6.736584231
+2B,50,The male senator that the male supporter upheld often reminded [MASK] about the promises made on the campaign trail.,herself,Ungrammatical,masculine,8.378725616
+2B,50,The male senator that the female supporter upheld often reminded [MASK] about the promises made on the campaign trail.,herself,Ungrammatical,feminine,7.600435261
+2B,51,The actor that the male writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,himself,Grammatical,masculine,1.800469858
+2B,51,The actor that the female writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,himself,Grammatical,feminine,2.745970105
+2B,51,The actor that the male writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,herself,Ungrammatical,masculine,4.845749825
+2B,51,The actor that the female writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,herself,Ungrammatical,feminine,3.143463025
+2B,52,The male senator that the male environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,himself,Grammatical,masculine,3.542430134
+2B,52,The male senator that the female environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,himself,Grammatical,feminine,4.240431034
+2B,52,The male senator that the male environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,herself,Ungrammatical,masculine,5.521852273
+2B,52,The male senator that the female environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,herself,Ungrammatical,feminine,4.8879125
+2B,53,The male priest that the male volunteer prayed with often doubted [MASK] for the movement. ,himself,Grammatical,masculine,4.272376464
+2B,53,The male priest that the female volunteer prayed with often doubted [MASK] for the movement. ,himself,Grammatical,feminine,4.598552859
+2B,53,The male priest that the male volunteer prayed with often doubted [MASK] for the movement. ,herself,Ungrammatical,masculine,7.933455887
+2B,53,The male priest that the female volunteer prayed with often doubted [MASK] for the movement. ,herself,Ungrammatical,feminine,7.366735646
+2B,54,The actor that the male child liked intentionally portrayed [MASK] as a kind person during the TV interview. ,himself,Grammatical,masculine,1.449398539
+2B,54,The actor that the female child liked intentionally portrayed [MASK] as a kind person during the TV interview. ,himself,Grammatical,feminine,1.743648932
+2B,54,The actor that the male child liked intentionally portrayed [MASK] as a kind person during the TV interview. ,herself,Ungrammatical,masculine,2.911915328
+2B,54,The actor that the female child liked intentionally portrayed [MASK] as a kind person during the TV interview. ,herself,Ungrammatical,feminine,2.152160114
+2B,55,The male researcher that the male professor scout proudly praised [MASK] for a job well done.,himself,Grammatical,masculine,4.576778106
+2B,55,The male researcher that the female professor scout proudly praised [MASK] for a job well done.,himself,Grammatical,feminine,4.92655788
+2B,55,The male researcher that the male professor scout proudly praised [MASK] for a job well done.,herself,Ungrammatical,masculine,6.869603177
+2B,55,The male researcher that the female professor scout proudly praised [MASK] for a job well done.,herself,Ungrammatical,feminine,6.332962865
+2B,56,The male passenger that the male pilot scared injured [MASK] quite badly during the journey.,himself,Grammatical,masculine,0.36082086
+2B,56,The male passenger that the female pilot scared injured [MASK] quite badly during the journey.,himself,Grammatical,feminine,0.502783947
+2B,56,The male passenger that the male pilot scared injured [MASK] quite badly during the journey.,herself,Ungrammatical,masculine,2.490690346
+2B,56,The male passenger that the female pilot scared injured [MASK] quite badly during the journey.,herself,Ungrammatical,feminine,1.950278623
+2B,57,The male pedestrian that the male firefighter saved had cut [MASK] on a piece of broken glass.,himself,Grammatical,masculine,0.494461555
+2B,57,The male pedestrian that the female firefighter saved had cut [MASK] on a piece of broken glass.,himself,Grammatical,feminine,0.473467456
+2B,57,The male pedestrian that the male firefighter saved had cut [MASK] on a piece of broken glass.,herself,Ungrammatical,masculine,2.800751207
+2B,57,The male pedestrian that the female firefighter saved had cut [MASK] on a piece of broken glass.,herself,Ungrammatical,feminine,2.743321064
+2B,58,The male patient that the male surgeon treated had pricked [MASK] with a used syringe needle.,himself,Grammatical,masculine,2.255008206
+2B,58,The male patient that the female surgeon treated had pricked [MASK] with a used syringe needle.,himself,Grammatical,feminine,2.218165934
+2B,58,The male patient that the male surgeon treated had pricked [MASK] with a used syringe needle.,herself,Ungrammatical,masculine,4.792097602
+2B,58,The male patient that the female surgeon treated had pricked [MASK] with a used syringe needle.,herself,Ungrammatical,feminine,4.239788665
+2B,59,The male colleague that the male undertaker worked with whispered to [MASK] all the time with a grimace.,himself,Grammatical,masculine,3.348534142
+2B,59,The male colleague that the female undertaker worked with whispered to [MASK] all the time with a grimace.,himself,Grammatical,feminine,3.580108982
+2B,59,The male colleague that the male undertaker worked with whispered to [MASK] all the time with a grimace.,herself,Ungrammatical,masculine,4.182762708
+2B,59,The male colleague that the female undertaker worked with whispered to [MASK] all the time with a grimace.,herself,Ungrammatical,feminine,3.658263702
+2B,60,The male footballer that the male coach talked to had taught [MASK] to paint the lines on the pitch.,himself,Grammatical,masculine,4.929077854
+2B,60,The male footballer that the female coach talked to had taught [MASK] to paint the lines on the pitch.,himself,Grammatical,feminine,5.118304656
+2B,60,The male footballer that the male coach talked to had taught [MASK] to paint the lines on the pitch.,herself,Ungrammatical,masculine,6.944140629
+2B,60,The male footballer that the female coach talked to had taught [MASK] to paint the lines on the pitch.,herself,Ungrammatical,feminine,6.127893917
+2B,61,The male porter that the male passenger met had upset [MASK] quite a lot about all the luggage.,himself,Grammatical,masculine,5.795495412
+2B,61,The male porter that the female passenger met had upset [MASK] quite a lot about all the luggage.,himself,Grammatical,feminine,6.152445735
+2B,61,The male porter that the male passenger met had upset [MASK] quite a lot about all the luggage.,herself,Ungrammatical,masculine,8.23479742
+2B,61,The male porter that the female passenger met had upset [MASK] quite a lot about all the luggage.,herself,Ungrammatical,feminine,7.59995622
+2B,62,The male judge that the male victim impressed disciplined [MASK] very carefully all the time.,himself,Grammatical,masculine,4.111747626
+2B,62,The male judge that the female victim impressed disciplined [MASK] very carefully all the time.,himself,Grammatical,feminine,4.042600397
+2B,62,The male judge that the male victim impressed disciplined [MASK] very carefully all the time.,herself,Ungrammatical,masculine,7.056071745
+2B,62,The male judge that the female victim impressed disciplined [MASK] very carefully all the time.,herself,Ungrammatical,feminine,6.41668479
+2B,63,The male engineer that the male boss visited convinced [MASK] that the valve was faulty.,himself,Grammatical,masculine,4.731978492
+2B,63,The male engineer that the female boss visited convinced [MASK] that the valve was faulty.,himself,Grammatical,feminine,5.28235437
+2B,63,The male engineer that the male boss visited convinced [MASK] that the valve was faulty.,herself,Ungrammatical,masculine,7.92662386
+2B,63,The male engineer that the female boss visited convinced [MASK] that the valve was faulty.,herself,Ungrammatical,feminine,6.8811575
+2B,64,The male bricklayer that the male director annoyed lied about [MASK] damaging the tools in the shed.,himself,Grammatical,masculine,6.509946765
+2B,64,The male bricklayer that the female director annoyed lied about [MASK] damaging the tools in the shed.,himself,Grammatical,feminine,6.723842492
+2B,64,The male bricklayer that the male director annoyed lied about [MASK] damaging the tools in the shed.,herself,Ungrammatical,masculine,8.416019867
+2B,64,The male bricklayer that the female director annoyed lied about [MASK] damaging the tools in the shed.,herself,Ungrammatical,feminine,8.102699155
+2B,65,The male electrician that the male colleague called on owed [MASK] another attempt to solve the problem.,himself,Grammatical,masculine,5.793169736
+2B,65,The male electrician that the female colleague called on owed [MASK] another attempt to solve the problem.,himself,Grammatical,feminine,6.057099431
+2B,65,The male electrician that the male colleague called on owed [MASK] another attempt to solve the problem.,herself,Ungrammatical,masculine,7.916614008
+2B,65,The male electrician that the female colleague called on owed [MASK] another attempt to solve the problem.,herself,Ungrammatical,feminine,7.572920502
+2B,66,The male paratrooper that the male soldier drank with had awarded [MASK] the top prize in the pub quiz.,himself,Grammatical,masculine,4.454351873
+2B,66,The male paratrooper that the female soldier drank with had awarded [MASK] the top prize in the pub quiz.,himself,Grammatical,feminine,4.700516706
+2B,66,The male paratrooper that the male soldier drank with had awarded [MASK] the top prize in the pub quiz.,herself,Ungrammatical,masculine,7.058912958
+2B,66,The male paratrooper that the female soldier drank with had awarded [MASK] the top prize in the pub quiz.,herself,Ungrammatical,feminine,6.236964319
+2B,67,The male farmer that the male villager spoke to had paid for [MASK] to join the local fox hunt.,himself,Grammatical,masculine,6.281925787
+2B,67,The male farmer that the female villager spoke to had paid for [MASK] to join the local fox hunt.,himself,Grammatical,feminine,7.315059931
+2B,67,The male farmer that the male villager spoke to had paid for [MASK] to join the local fox hunt.,herself,Ungrammatical,masculine,8.318253132
+2B,67,The male farmer that the female villager spoke to had paid for [MASK] to join the local fox hunt.,herself,Ungrammatical,feminine,7.51773429
+2B,68,The male nurse that the male journalist interviewed criticized [MASK] for being late for the appointment.,himself,Grammatical,masculine,5.64132055
+2B,68,The male nurse that the female journalist interviewed criticized [MASK] for being late for the appointment.,himself,Grammatical,feminine,5.935014484
+2B,68,The male nurse that the male journalist interviewed criticized [MASK] for being late for the appointment.,herself,Ungrammatical,masculine,6.122484976
+2B,68,The male nurse that the female journalist interviewed criticized [MASK] for being late for the appointment.,herself,Ungrammatical,feminine,5.791661885
+2B,69,The male receptionist that the male guest phoned almost killed [MASK] in early May for no reason.,himself,Grammatical,masculine,4.55342322
+2B,69,The male receptionist that the female guest phoned almost killed [MASK] in early May for no reason.,himself,Grammatical,feminine,4.503991399
+2B,69,The male receptionist that the male guest phoned almost killed [MASK] in early May for no reason.,herself,Ungrammatical,masculine,5.345443023
+2B,69,The male receptionist that the female guest phoned almost killed [MASK] in early May for no reason.,herself,Ungrammatical,feminine,4.947158459
+2B,70,The male secretary that the male boss praised had treated [MASK] to several cakes with pink icing.,himself,Grammatical,masculine,5.282702979
+2B,70,The male secretary that the female boss praised had treated [MASK] to several cakes with pink icing.,himself,Grammatical,feminine,5.075123942
+2B,70,The male secretary that the male boss praised had treated [MASK] to several cakes with pink icing.,herself,Ungrammatical,masculine,5.221110766
+2B,70,The male secretary that the female boss praised had treated [MASK] to several cakes with pink icing.,herself,Ungrammatical,feminine,5.011696512
+2B,71,The male ballet dancer that the male director invited introduced [MASK] to all the stars from Hollywood.,himself,Grammatical,masculine,4.781670886
+2B,71,The male ballet dancer that the female director invited introduced [MASK] to all the stars from Hollywood.,himself,Grammatical,feminine,5.46478456
+2B,71,The male ballet dancer that the male director invited introduced [MASK] to all the stars from Hollywood.,herself,Ungrammatical,masculine,6.11875996
+2B,71,The male ballet dancer that the female director invited introduced [MASK] to all the stars from Hollywood.,herself,Ungrammatical,feminine,5.680688833
+2B,72,The male cook that the male babysitter cheated would blame [MASK] for the children¡¯s bad diet.,himself,Grammatical,masculine,2.688574638
+2B,72,The male cook that the female babysitter cheated would blame [MASK] for the children¡¯s bad diet.,himself,Grammatical,feminine,2.823273104
+2B,72,The male cook that the male babysitter cheated would blame [MASK] for the children¡¯s bad diet.,herself,Ungrammatical,masculine,3.480644551
+2B,72,The male cook that the female babysitter cheated would blame [MASK] for the children¡¯s bad diet.,herself,Ungrammatical,feminine,3.296966008
+2B,73,The male beautician that the male client mistrusted disliked [MASK] quite a lot.,himself,Grammatical,masculine,6.142344931
+2B,73,The male beautician that the female client mistrusted disliked [MASK] quite a lot.,himself,Grammatical,feminine,6.292784992
+2B,73,The male beautician that the male client mistrusted disliked [MASK] quite a lot.,herself,Ungrammatical,masculine,7.596278931
+2B,73,The male beautician that the female client mistrusted disliked [MASK] quite a lot.,herself,Ungrammatical,feminine,7.590510305
+2B,74,The male dressmaker that the male employer employed familiarised [MASK] with all the modern styles.,himself,Grammatical,masculine,1.267244344
+2B,74,The male dressmaker that the female employer employed familiarised [MASK] with all the modern styles.,himself,Grammatical,feminine,2.232295753
+2B,74,The male dressmaker that the male employer employed familiarised [MASK] with all the modern styles.,herself,Ungrammatical,masculine,3.177954624
+2B,74,The male dressmaker that the female employer employed familiarised [MASK] with all the modern styles.,herself,Ungrammatical,feminine,2.018185384
+2B,75,The male spy that the male executive scared had cut [MASK] with a rusty razor blade.,himself,Grammatical,masculine,2.389644806
+2B,75,The male spy that the female executive scared had cut [MASK] with a rusty razor blade.,himself,Grammatical,feminine,2.128800846
+2B,75,The male spy that the male executive scared had cut [MASK] with a rusty razor blade.,herself,Ungrammatical,masculine,4.040804035
+2B,75,The male spy that the female executive scared had cut [MASK] with a rusty razor blade.,herself,Ungrammatical,feminine,3.467143524
+2B,76,The male spectator that the male referee stood near had made a fool of [MASK] in front of the players.,himself,Grammatical,masculine,0.116534254
+2B,76,The male spectator that the female referee stood near had made a fool of [MASK] in front of the players.,himself,Grammatical,feminine,0.642933503
+2B,76,The male spectator that the male referee stood near had made a fool of [MASK] in front of the players.,herself,Ungrammatical,masculine,2.728063546
+2B,76,The male spectator that the female referee stood near had made a fool of [MASK] in front of the players.,herself,Ungrammatical,feminine,0.888875676
+2B,77,The male cleaner that the male tenant liked was proud of [MASK] and really liked doing the job.,himself,Grammatical,masculine,1.384397558
+2B,77,The male cleaner that the female tenant liked was proud of [MASK] and really liked doing the job.,himself,Grammatical,feminine,1.766506721
+2B,77,The male cleaner that the male tenant liked was proud of [MASK] and really liked doing the job.,herself,Ungrammatical,masculine,3.995838206
+2B,77,The male cleaner that the female tenant liked was proud of [MASK] and really liked doing the job.,herself,Ungrammatical,feminine,3.228678304
+2B,78,The male worker that the male colleague helped was comfortable with [MASK] in the large remote house.,himself,Grammatical,masculine,5.538922826
+2B,78,The male worker that the female colleague helped was comfortable with [MASK] in the large remote house.,himself,Grammatical,feminine,5.943356714
+2B,78,The male worker that the male colleague helped was comfortable with [MASK] in the large remote house.,herself,Ungrammatical,masculine,7.441282385
+2B,78,The male worker that the female colleague helped was comfortable with [MASK] in the large remote house.,herself,Ungrammatical,feminine,7.330855593
+2B,79,The male typist that the male lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,himself,Grammatical,masculine,2.636547327
+2B,79,The male typist that the female lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,himself,Grammatical,feminine,3.106437208
+2B,79,The male typist that the male lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,herself,Ungrammatical,masculine,5.081162677
+2B,79,The male typist that the female lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,herself,Ungrammatical,feminine,4.665359329

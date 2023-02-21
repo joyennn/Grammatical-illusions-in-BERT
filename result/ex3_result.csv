@@ -1,0 +1,475 @@
+Ex,No,Item,Reflexive,Feature,Attractor,Surprisal
+3A,1,The male photographer that the famous actor praised depicted [MASK] as a strict person.,himself,0F,M,2.803324837
+3A,1,The male photographer that the famous actor praised depicted [MASK] as strict person.,herself,1F,MM,4.473568347
+3A,1,The male photographers that the famous actor praised depicted [MASK] as strict persons.,herself,2F,MM,8.518394205
+3A,1,The male photographer that the famous actress praised depicted [MASK] as a strict person.,himself,0F,MM,3.195700573
+3A,1,The male photographer that the famous actress praised depicted [MASK] as strict person.,herself,1F,M,3.807000714
+3A,1,The male photographers that the famous actress praised depicted [MASK] as strict persons.,herself,2F,M,7.049074278
+3A,2,The male factory worker that the male senator mentioned inspired [MASK] to be a better person.,himself,0F,M,6.787300187
+3A,2,The male factory worker that the male senator mentioned inspired [MASK] to be better persons.,herself,1F,MM,8.935388724
+3A,2,The male factory workers that the male senator mentioned inspired [MASK] to be better persons.,herself,2F,MM,9.763090606
+3A,2,The male factory worker that the female senator mentioned inspired [MASK] to be a better person.,himself,0F,MM,7.80540177
+3A,2,The male factory worker that the female senator mentioned inspired [MASK] to be better persons.,herself,1F,M,7.794991859
+3A,2,The male factory workers that the female senator mentioned inspired [MASK] to be better persons.,herself,2F,M,8.280999247
+3A,3,The male bank robber that the male officer mentioned criticized [MASK] for the noticeable error.,himself,0F,M,3.837416917
+3A,3,The male bank robber that the male officer mentioned criticized [MASK] for the noticeable error.,herself,1F,MM,6.862622316
+3A,3,The male bank robbers that the male officer mentioned criticized [MASK] for the noticeable error.,herself,2F,MM,7.509160643
+3A,3,The male bank robber that the female officer mentioned criticized [MASK] for the noticeable error.,himself,0F,MM,4.290652656
+3A,3,The male bank robber that the female officer mentioned criticized [MASK] for the noticeable error.,herself,1F,M,6.281278962
+3A,3,The male bank robbers that the female officer mentioned criticized [MASK] for the noticeable error.,herself,2F,M,6.932391056
+3A,4,The male photographer that the male director introduced described [MASK] as a mean person.,himself,0F,M,3.057220858
+3A,4,The male photographer that the male director introduced described [MASK] as mean persons.,herself,1F,MM,7.808963581
+3A,4,The male photographers that the male director introduced described [MASK] as mean persons.,herself,2F,MM,7.260241867
+3A,4,The male photographer that the female director introduced described [MASK] as a mean person.,himself,0F,MM,3.272105488
+3A,4,The male photographer that the female director introduced described [MASK] as mean persons.,herself,1F,M,6.969994193
+3A,4,The male photographers that the female director introduced described [MASK] as mean persons.,herself,2F,M,6.423790482
+3A,5,The male speaker that the male democratic official introduced distinguished [MASK] as an honorable person.,himself,0F,M,0.640268851
+3A,5,The male speaker that the male democratic official introduced distinguished [MASK] as honorable persons.,herself,1F,MM,5.414978351
+3A,5,The male speakers that the male democratic official introduced distinguished [MASK] as honorable persons.,herself,2F,MM,6.938680328
+3A,5,The male speaker that the female democratic official introduced distinguished [MASK] as an honorable person.,himself,0F,MM,0.74584552
+3A,5,The male speaker that the female democratic official introduced distinguished [MASK] as honorable persons.,herself,1F,M,4.490402594
+3A,5,The male speakers that the female democratic official introduced distinguished [MASK] as honorable persons.,herself,2F,M,5.996681488
+3A,6,The male manager that the male journalist mentioned characterized [MASK] as a helpful person.,himself,0F,M,3.354309622
+3A,6,The male manager that the male journalist mentioned characterized [MASK] as helpful persons.,herself,1F,MM,6.144700058
+3A,6,The male managers that the male journalist mentioned characterized [MASK] as helpful persons.,herself,2F,MM,6.402736861
+3A,6,The male manager that the female journalist mentioned characterized [MASK] as a helpful person.,himself,0F,MM,3.532798306
+3A,6,The male manager that the female journalist mentioned characterized [MASK] as helpful persons.,herself,1F,M,5.695895164
+3A,6,The male managers that the female journalist mentioned characterized [MASK] as helpful persons.,herself,2F,M,6.047280168
+3A,7,The male lawyer that the male witness pointed out misrepresented [MASK] in the murder trial.,himself,0F,M,0.459816057
+3A,7,The male lawyer that the male witness pointed out misrepresented [MASK] in the murder trial.,herself,1F,MM,2.860598682
+3A,7,The male lawyers that the male witness pointed out misrepresented [MASK] in the murder trial.,herself,2F,MM,5.183497662
+3A,7,The male lawyer that the female witness pointed out misrepresented [MASK] in the murder trial.,himself,0F,MM,0.713013924
+3A,7,The male lawyer that the female witness pointed out misrepresented [MASK] in the murder trial.,herself,1F,M,1.760645201
+3A,7,The male lawyers that the female witness pointed out misrepresented [MASK] in the murder trial.,herself,2F,M,4.186191321
+3A,8,The male film director that the actor worried about would portray [MASK] as a dumb person.,himself,0F,M,2.100930642
+3A,8,The male film director that the actor worried about would portray [MASK] as dumb persons.,herself,1F,MM,8.585257629
+3A,8,The male film directors that the actor worried about would portray [MASK] as dumb persons.,herself,2F,MM,9.240134508
+3A,8,The male film director that the actress worried about would portray [MASK] as a dumb person.,himself,0F,MM,3.109887288
+3A,8,The male film director that the actress worried about would portray [MASK] as dumb persons.,herself,1F,M,6.507818908
+3A,8,The male film directors that the actress worried about would portray [MASK] as dumb persons.,herself,2F,M,7.17254222
+3A,9,The male clerk that the male executive mentioned described [MASK] as a hard worker.,himself,0F,M,2.962271988
+3A,9,The male clerk that the male executive mentioned described [MASK] as hard worker.,herself,1F,MM,3.436912252
+3A,9,The male clerks that the male executive mentioned described [MASK] as hard workers.,herself,2F,MM,7.527631744
+3A,9,The male clerk that the female executive mentioned described [MASK] as a hard worker.,himself,0F,MM,3.267809987
+3A,9,The male clerk that the female executive mentioned described [MASK] as hard worker.,herself,1F,M,2.97463121
+3A,9,The male clerks that the female executive mentioned described [MASK] as hard workers.,herself,2F,M,6.912795737
+3A,10,The male stock broker that the male banker praised cast [MASK] in a negative light.,himself,0F,M,2.863231445
+3A,10,The male stock broker that the male banker praised cast [MASK] in a negative light.,herself,1F,MM,4.520693163
+3A,10,The male stock brokers that the male banker praised cast [MASK] in a negative light.,herself,2F,MM,6.56297207
+3A,10,The male stock broker that the female banker praised cast [MASK] in a negative light.,himself,0F,MM,3.154667147
+3A,10,The male stock broker that the female banker praised cast [MASK] in a negative light.,herself,1F,M,3.885341429
+3A,10,The male stock brokers that the female banker praised cast [MASK] in a negative light.,herself,2F,M,5.585151029
+3A,11,The male photographer that the actor talked about depicted [MASK] as a strong person.,himself,0F,M,2.053124572
+3A,11,The male photographer that the actor talked about depicted [MASK] as strong persons.,herself,1F,MM,6.277927974
+3A,11,The male photographers that the actor talked about depicted [MASK] as strong persons.,herself,2F,MM,7.637782069
+3A,11,The male photographer that the actress talked about depicted [MASK] as a strong person.,himself,0F,MM,3.185722232
+3A,11,The male photographer that the actress talked about depicted [MASK] as strong persons.,herself,1F,M,4.953422885
+3A,11,The male photographers that the actress talked about depicted [MASK] as strong persons.,herself,2F,M,6.129760368
+3A,12,The male correspondent that the male soldier thought of portrayed [MASK] as a great leader.,himself,0F,M,2.168006102
+3A,12,The male correspondent that the male soldier thought of portrayed [MASK] as great leaders.,herself,1F,MM,8.18589339
+3A,12,The male correspondents that the male soldier thought of portrayed [MASK] as great leaders.,herself,2F,MM,8.306561024
+3A,12,The male correspondent that the female soldier thought of portrayed [MASK] as a great leader.,himself,0F,MM,2.58421603
+3A,12,The male correspondent that the female soldier thought of portrayed [MASK] as great leaders.,herself,1F,M,6.476144957
+3A,12,The male correspondents that the female soldier thought of portrayed [MASK] as great leaders.,herself,2F,M,6.247105888
+3A,13,The attractive actor that the male audience mentioned praised [MASK] for a great job.,himself,0F,M,5.411389062
+3A,13,The attractive actor that the male audience mentioned praised [MASK] for a great job.,herself,1F,MM,6.79674385
+3A,13,The attractive actors that the male audience mentioned praised [MASK] for a great job.,herself,2F,MM,6.909995654
+3A,13,The attractive actor that the female audience mentioned praised [MASK] for a great job.,himself,0F,MM,5.902455047
+3A,13,The attractive actor that the female audience mentioned praised [MASK] for a great job.,herself,1F,M,6.470509429
+3A,13,The attractive actors that the female audience mentioned praised [MASK] for a great job.,herself,2F,M,6.509038201
+3A,14,The male witness that the male security guard mentioned identified [MASK] as a potential suspect.,himself,0F,M,2.114619428
+3A,14,The male witness that the male security guard mentioned identified [MASK] as potential suspects.,herself,1F,MM,6.885841079
+3A,14,The male witnesses that the male security guard mentioned identified [MASK] as potential suspects.,herself,2F,MM,8.04544117
+3A,14,The male witness that the female security guard mentioned identified [MASK] as a potential suspect.,himself,0F,MM,2.279104951
+3A,14,The male witness that the female security guard mentioned identified [MASK] as potential suspects.,herself,1F,M,5.019653463
+3A,14,The male witnesses that the female security guard mentioned identified [MASK] as potential suspects.,herself,2F,M,6.436441699
+3A,15,The male singer that the male manager liked inspired [MASK] to write a new song.,himself,0F,M,7.965298779
+3A,15,The male singer that the male manager liked inspired [MASK] to write a new song.,herself,1F,MM,8.243659785
+3A,15,The male singers that the male manager liked inspired [MASK] to write a new song.,herself,2F,MM,8.43275052
+3A,15,The male singer that the female manager liked inspired [MASK] to write a new song.,himself,0F,MM,8.530161301
+3A,15,The male singer that the female manager liked inspired [MASK] to write a new song.,herself,1F,M,8.07409212
+3A,15,The male singers that the female manager liked inspired [MASK] to write a new song.,herself,2F,M,8.186421847
+3A,16,The male witness that the male judge spoke to convinced [MASK] that the testimony was false.,himself,0F,M,4.526554272
+3A,16,The male witness that the male judge spoke to convinced [MASK] that the testimony was false.,herself,1F,MM,7.043347991
+3A,16,The male witnesses that the male judge spoke to convinced [MASK] that the testimony was false.,herself,2F,MM,8.014440257
+3A,16,The male witness that the female judge spoke to convinced [MASK] that the testimony was false.,himself,0F,MM,4.924991817
+3A,16,The male witness that the female judge spoke to convinced [MASK] that the testimony was false.,herself,1F,M,6.069738601
+3A,16,The male witnesses that the female judge spoke to convinced [MASK] that the testimony was false.,herself,2F,M,7.009450137
+3A,17,The male officer that the male protester mentioned prevented [MASK] from joining the unsafe protest.,himself,0F,M,5.3377178
+3A,17,The male officer that the male protester mentioned prevented [MASK] from joining the unsafe protest.,herself,1F,MM,6.498857722
+3A,17,The male officers that the male protester mentioned prevented [MASK] from joining the unsafe protest.,herself,2F,MM,7.228422519
+3A,17,The male officer that the female protester mentioned prevented [MASK] from joining the unsafe protest.,himself,0F,MM,5.625654964
+3A,17,The male officer that the female protester mentioned prevented [MASK] from joining the unsafe protest.,herself,1F,M,6.382189464
+3A,17,The male officers that the female protester mentioned prevented [MASK] from joining the unsafe protest.,herself,2F,M,7.064593711
+3A,18,The male senator that the male official mentioned should appoint [MASK] as the new county commissioner.,himself,0F,M,1.431360883
+3A,18,The male senator that the male official mentioned should appoint [MASK] as the new county commissioner.,herself,1F,MM,3.842991998
+3A,18,The male senators that the male official mentioned should appoint [MASK] as the new county commissioner.,herself,2F,MM,4.95770064
+3A,18,The male senator that the female official mentioned should appoint [MASK] as the new county commissioner.,himself,0F,MM,1.804377733
+3A,18,The male senator that the female official mentioned should appoint [MASK] as the new county commissioner.,herself,1F,M,2.79698669
+3A,18,The male senators that the female official mentioned should appoint [MASK] as the new county commissioner.,herself,2F,M,3.929555504
+3A,19,The mischievous schoolboy that the male librarian liked tricked [MASK] into believing that the story was true.,himself,0F,M,4.039957328
+3A,19,The mischievous schoolboy that the male librarian liked tricked [MASK] into believing that the story was true.,herself,1F,MM,6.871847976
+3A,19,The mischievous schoolboys that the male librarian liked tricked [MASK] into believing that the story was true.,herself,2F,MM,7.397289332
+3A,19,The mischievous schoolboy that the female librarian liked tricked [MASK] into believing that the story was true.,himself,0F,MM,4.468318481
+3A,19,The mischievous schoolboy that the female librarian liked tricked [MASK] into believing that the story was true.,herself,1F,M,6.332663188
+3A,19,The mischievous schoolboys that the female librarian liked tricked [MASK] into believing that the story was true.,herself,2F,M,6.696195962
+3A,20,The male lawyer that the male manager mentioned defended [MASK] in the court case.,himself,0F,M,2.329982071
+3A,20,The male lawyer that the male manager mentioned defended [MASK] in the court case.,herself,1F,MM,3.546778875
+3A,20,The male lawyers that the male manager mentioned defended [MASK] in the court case.,herself,2F,MM,4.502665966
+3A,20,The male lawyer that the female manager mentioned defended [MASK] in the court case.,himself,0F,MM,2.638795245
+3A,20,The male lawyer that the female manager mentioned defended [MASK] in the court case.,herself,1F,M,2.952503612
+3A,20,The male lawyers that the female manager mentioned defended [MASK] in the court case.,herself,2F,M,4.042295488
+3A,21,The male patient that the male doctor mentioned considered [MASK] to be very attractive.,himself,0F,M,3.090663932
+3A,21,The male patient that the male doctor mentioned considered [MASK] to be very attractive.,herself,1F,MM,3.44574211
+3A,21,The male patients that the male doctor mentioned considered [MASK] to be very attractive.,herself,2F,MM,5.187699623
+3A,21,The male patient that the female doctor mentioned considered [MASK] to be very attractive.,himself,0F,MM,3.057320695
+3A,21,The male patient that the female doctor mentioned considered [MASK] to be very attractive.,herself,1F,M,3.139517916
+3A,21,The male patients that the female doctor mentioned considered [MASK] to be very attractive.,herself,2F,M,4.935543615
+3A,22,The male chef that the clumsy waiter mentioned criticized [MASK] for the horrible mistake.,himself,0F,M,4.540608223
+3A,22,The male chef that the clumsy waiter mentioned criticized [MASK] for the horrible mistake.,herself,1F,MM,5.974081793
+3A,22,The male chefs that the clumsy waiter mentioned criticized [MASK] for the horrible mistake.,herself,2F,MM,6.275559791
+3A,22,The male chef that the clumsy waitress mentioned criticized [MASK] for the horrible mistake.,himself,0F,MM,5.247088086
+3A,22,The male chef that the clumsy waitress mentioned criticized [MASK] for the horrible mistake.,herself,1F,M,5.394515301
+3A,22,The male chefs that the clumsy waitress mentioned criticized [MASK] for the horrible mistake.,herself,2F,M,5.620320554
+3A,23,The male priest that the male child mentioned forgave [MASK] for the secret affair.,himself,0F,M,3.910978199
+3A,23,The male priest that the male child mentioned forgave [MASK] for the secret affair.,herself,1F,MM,5.440916983
+3A,23,The male priests that the male child mentioned forgave [MASK] for the secret affair.,herself,2F,MM,5.399880038
+3A,23,The male priest that the female child mentioned forgave [MASK] for the secret affair.,himself,0F,MM,3.794447411
+3A,23,The male priest that the female child mentioned forgave [MASK] for the secret affair.,herself,1F,M,5.320540831
+3A,23,The male priests that the female child mentioned forgave [MASK] for the secret affair.,herself,2F,M,5.280949658
+3A,24,The male gardener that the male mail carrier worried about would blame [MASK] for the accident in the driveway.,himself,0F,M,2.831465126
+3A,24,The male gardener that the male mail carrier worried about would blame [MASK] for the accident in the driveway.,herself,1F,MM,4.540679277
+3A,24,The male gardeners that the male mail carrier worried about would blame [MASK] for the accident in the driveway.,herself,2F,MM,5.294496586
+3A,24,The male gardener that the female mail carrier worried about would blame [MASK] for the accident in the driveway.,himself,0F,MM,2.961607097
+3A,24,The male gardener that the female mail carrier worried about would blame [MASK] for the accident in the driveway.,herself,1F,M,4.076282554
+3A,24,The male gardeners that the female mail carrier worried about would blame [MASK] for the accident in the driveway.,herself,2F,M,4.672292363
+3A,25,The male colleague that the pool boy mentioned distracted [MASK] from the important task.,himself,0F,M,5.717724545
+3A,25,The male colleague that the pool boy mentioned distracted [MASK] from the important task.,herself,1F,MM,7.088658488
+3A,25,The male colleagues that the pool boy mentioned distracted [MASK] from the important task.,herself,2F,MM,7.349642772
+3A,25,The male colleague that the pool girl mentioned distracted [MASK] from the important task.,himself,0F,MM,6.130093899
+3A,25,The male colleague that the pool girl mentioned distracted [MASK] from the important task.,herself,1F,M,6.588558502
+3A,25,The male colleagues that the pool girl mentioned distracted [MASK] from the important task.,herself,2F,M,6.904857206
+3A,26,The male executive that the male reporter mentioned characterized [MASK] as a greedy entrepreneur.,himself,0F,M,3.08296924
+3A,26,The male executive that the male reporter mentioned characterized [MASK] as greedy entrepreneurs.,herself,1F,MM,7.611266654
+3A,26,The male executives that the male reporter mentioned characterized [MASK] as greedy entrepreneurs.,herself,2F,MM,7.759801018
+3A,26,The male executive that the female reporter mentioned characterized [MASK] as a greedy entrepreneur.,himself,0F,MM,3.23215209
+3A,26,The male executive that the female reporter mentioned characterized [MASK] as greedy entrepreneurs.,herself,1F,M,7.162779957
+3A,26,The male executives that the female reporter mentioned characterized [MASK] as greedy entrepreneurs.,herself,2F,M,7.392035028
+3A,27,The male sergeant that the male officer mentioned recorded [MASK] talking about the secret plot.,himself,0F,M,3.914221455
+3A,27,The male sergeant that the male officer mentioned recorded [MASK] talking about the secret plot.,herself,1F,MM,6.822861874
+3A,27,The male sergeants that the male officer mentioned recorded [MASK] talking about the secret plot.,herself,2F,MM,8.126289179
+3A,27,The male sergeant that the female officer mentioned recorded [MASK] talking about the secret plot.,himself,0F,MM,4.307799752
+3A,27,The male sergeant that the female officer mentioned recorded [MASK] talking about the secret plot.,herself,1F,M,5.86559754
+3A,27,The male sergeants that the female officer mentioned recorded [MASK] talking about the secret plot.,herself,2F,M,6.884799699
+3A,28,The male football player that the frat boy mentioned complimented [MASK] on the new dress.,himself,0F,M,5.630826067
+3A,28,The male football player that the frat boy mentioned complimented [MASK] on the new dress.,herself,1F,MM,6.306542402
+3A,28,The male football players that the frat boy mentioned complimented [MASK] on the new dress.,herself,2F,MM,6.792942068
+3A,28,The male football player that the frat girl mentioned complimented [MASK] on the new dress.,himself,0F,MM,5.968298792
+3A,28,The male football player that the frat girl mentioned complimented [MASK] on the new dress.,herself,1F,M,5.474588337
+3A,28,The male football players that the frat girl mentioned complimented [MASK] on the new dress.,herself,2F,M,6.18475645
+3A,29,The male hiker that the male member found taught [MASK] how to build a fire.,himself,0F,M,5.862698033
+3A,29,The male hiker that the male member found taught [MASK] how to build a fire.,herself,1F,MM,8.996606488
+3A,29,The male hikers that the male member found taught [MASK] how to build a fire.,herself,2F,MM,10.77581423
+3A,29,The male hiker that the female member found taught [MASK] how to build a fire.,himself,0F,MM,6.455921548
+3A,29,The male hiker that the female member found taught [MASK] how to build a fire.,herself,1F,M,7.805520826
+3A,29,The male hikers that the female member found taught [MASK] how to build a fire.,herself,2F,M,9.457952939
+3A,30,The male producer that the male rapper mentioned photographed [MASK] on the large stage.,himself,0F,M,1.600999302
+3A,30,The male producer that the male rapper mentioned photographed [MASK] on the large stage.,herself,1F,MM,3.939599432
+3A,30,The male producers that the male rapper mentioned photographed [MASK] on the large stage.,herself,2F,MM,5.913845895
+3A,30,The male producer that the female rapper mentioned photographed [MASK] on the large stage.,himself,0F,MM,1.849080188
+3A,30,The male producer that the female rapper mentioned photographed [MASK] on the large stage.,herself,1F,M,3.51900593
+3A,30,The male producers that the female rapper mentioned photographed [MASK] on the large stage.,herself,2F,M,5.434060269
+3A,31,The male professor that the male officer reported nominated [MASK] for the prestigious award.,himself,0F,M,3.487174365
+3A,31,The male professor that the male officer reported nominated [MASK] for the prestigious award.,herself,1F,MM,5.757163806
+3A,31,The male professors that the male officer reported nominated [MASK] for the prestigious award.,herself,2F,MM,6.758005554
+3A,31,The male professor that the female officer reported nominated [MASK] for the prestigious award.,himself,0F,MM,3.694241208
+3A,31,The male professor that the female officer reported nominated [MASK] for the prestigious award.,herself,1F,M,4.883965724
+3A,31,The male professors that the female officer reported nominated [MASK] for the prestigious award.,herself,2F,M,5.858315913
+3A,32,The male basketball coach that the teenage boy mentioned that motivated [MASK] to win the championship.,himself,0F,M,6.78339262
+3A,32,The male basketball coach that the teenage boy mentioned that motivated [MASK] to win the championship.,herself,1F,MM,10.52286234
+3A,32,The male basketball coaches that the teenage boy mentioned that motivated [MASK] to win the championship.,herself,2F,MM,11.36312182
+3A,32,The male basketball coach that the teenage girl mentioned that motivated [MASK] to win the championship.,himself,0F,MM,8.142807592
+3A,32,The male basketball coach that the teenage girl mentioned that motivated [MASK] to win the championship.,herself,1F,M,7.856306894
+3A,32,The male basketball coaches that the teenage girl mentioned that motivated [MASK] to win the championship.,herself,2F,M,7.88327784
+3A,33,The shy boy that the male student mentioned embarrassed [MASK] in the school cafeteria.,himself,0F,M,4.203409962
+3A,33,The shy boy that the male student mentioned embarrassed [MASK] in the school cafeteria.,herself,1F,MM,6.228424863
+3A,33,The shy boys that the male student mentioned embarrassed [MASK] in the school cafeteria.,herself,2F,MM,7.464482242
+3A,33,The shy boy that the female student mentioned embarrassed [MASK] in the school cafeteria.,himself,0F,MM,4.338482278
+3A,33,The shy boy that the female student mentioned embarrassed [MASK] in the school cafeteria.,herself,1F,M,5.966165511
+3A,33,The shy boys that the female student mentioned embarrassed [MASK] in the school cafeteria.,herself,2F,M,7.150184192
+3A,34,The busy waiter that the male customer complained didn't notice [MASK] standing by the table.,himself,0F,M,6.6534277
+3A,34,The busy waiter that the male customer complained didn't notice [MASK] standing by the table.,herself,1F,MM,8.685699011
+3A,34,The busy waiteres that the male customer complained didn't notice [MASK] standing by the table.,herself,2F,MM,8.824014399
+3A,34,The busy waiter that the female customer complained didn't notice [MASK] standing by the table.,himself,0F,MM,7.1728308
+3A,34,The busy waiter that the female customer complained didn't notice [MASK] standing by the table.,herself,1F,M,8.108526344
+3A,34,The busy waiteres that the female customer complained didn't notice [MASK] standing by the table.,herself,2F,M,8.329405125
+3A,35,The male guest that the male chef met gave [MASK] an extra large tip for the excellent meal.,himself,0F,M,7.014723915
+3A,35,The male guest that the male chef met gave [MASK] an extra large tip for the excellent meal.,herself,1F,MM,8.544755447
+3A,35,The male guests that the male chef met gave [MASK] an extra large tip for the excellent meal.,herself,2F,MM,9.264916129
+3A,35,The male guest that the female chef met gave [MASK] an extra large tip for the excellent meal.,himself,0F,MM,7.407878349
+3A,35,The male guest that the female chef met gave [MASK] an extra large tip for the excellent meal.,herself,1F,M,7.827814328
+3A,35,The male guests that the female chef met gave [MASK] an extra large tip for the excellent meal.,herself,2F,M,8.341224742
+3A,36,The teenage boy that the male suspect mentioned that revealed [MASK] as the real criminal.,himself,0F,M,0.167930719
+3A,36,The teenage boy that the male suspect mentioned that revealed [MASK] as the real criminals.,herself,1F,MM,5.640267113
+3A,36,The teenage boys that the male suspect mentioned that revealed [MASK] as the real criminals.,herself,2F,MM,9.403250102
+3A,36,The teenage boy that the female suspect mentioned that revealed [MASK] as the real criminal.,himself,0F,MM,0.22036584
+3A,36,The teenage boy that the female suspect mentioned that revealed [MASK] as the real criminals.,herself,1F,M,4.731163906
+3A,36,The teenage boys that the female suspect mentioned that revealed [MASK] as the real criminals.,herself,2F,M,7.756227667
+3A,37,The male patient that the male doctor treated accidently hurt [MASK] while playing sports in the park.,himself,0F,M,0.449011842
+3A,37,The male patient that the male doctor treated accidently hurt [MASK] while playing sports in the park.,herself,1F,MM,3.351222055
+3A,37,The male patients that the male doctor treated accidently hurt [MASK] while playing sports in the park.,herself,2F,MM,5.004114679
+3A,37,The male patient that the female doctor treated accidently hurt [MASK] while playing sports in the park.,himself,0F,MM,0.505621978
+3A,37,The male patient that the female doctor treated accidently hurt [MASK] while playing sports in the park.,herself,1F,M,2.638323827
+3A,37,The male patients that the female doctor treated accidently hurt [MASK] while playing sports in the park.,herself,2F,M,4.350595605
+3A,38,The male doctor that the male lawyer suspected recently defended [MASK] against the false accusations.,himself,0F,M,0.535424507
+3A,38,The male doctor that the male lawyer suspected recently defended [MASK] against the false accusations.,herself,1F,MM,2.678491923
+3A,38,The male doctors that the male lawyer suspected recently defended [MASK] against the false accusations.,herself,2F,MM,4.918788336
+3A,38,The male doctor that the female lawyer suspected recently defended [MASK] against the false accusations.,himself,0F,MM,0.494505201
+3A,38,The male doctor that the female lawyer suspected recently defended [MASK] against the false accusations.,herself,1F,M,2.227323959
+3A,38,The male doctors that the female lawyer suspected recently defended [MASK] against the false accusations.,herself,2F,M,4.642218324
+3A,39,The father that the son loved often blamed [MASK] for the recent accident.,himself,0F,M,1.089503966
+3A,39,The father that the son loved often blamed [MASK] for the recent accident.,herself,1F,MM,7.612354688
+3A,39,The fathers that the son loved often blamed [MASK] for the recent accident.,herself,2F,MM,7.519136742
+3A,39,The father that the daughter loved often blamed [MASK] for the recent accident.,himself,0F,MM,2.186569258
+3A,39,The father that the daughter loved often blamed [MASK] for the recent accident.,herself,1F,M,3.933811184
+3A,39,The fathers that the daughter loved often blamed [MASK] for the recent accident.,herself,2F,M,4.907174313
+3A,40,The male priest that the male child respected recently motivated [MASK] to learn more about water crisis in Africa.,himself,0F,M,8.430702147
+3A,40,The male priest that the male child respected recently motivated [MASK] to learn more about water crisis in Africa.,herself,1F,MM,8.927137666
+3A,40,The male priests that the male child respected recently motivated [MASK] to learn more about water crisis in Africa.,herself,2F,MM,9.25068683
+3A,40,The male priest that the female child respected recently motivated [MASK] to learn more about water crisis in Africa.,himself,0F,MM,9.509589668
+3A,40,The male priest that the female child respected recently motivated [MASK] to learn more about water crisis in Africa.,herself,1F,M,8.729007175
+3A,40,The male priests that the female child respected recently motivated [MASK] to learn more about water crisis in Africa.,herself,2F,M,8.988832446
+3A,41,The male employee that the male executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,himself,0F,M,3.003816311
+3A,41,The male employee that the male executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,herself,1F,MM,3.933121438
+3A,41,The male employees that the male executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,herself,2F,MM,5.410485302
+3A,41,The male employee that the female executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,himself,0F,MM,3.198954331
+3A,41,The male employee that the female executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,herself,1F,M,3.766609927
+3A,41,The male employees that the female executive recommended eagerly introduced [MASK] to the celebrity at the charity event. ,herself,2F,M,5.152918481
+3A,42,The male student that the male teacher praised recently taught [MASK] how to read Latin using a smartphone app.,himself,0F,M,5.774719275
+3A,42,The male student that the male teacher praised recently taught [MASK] how to read Latin using a smartphone app.,herself,1F,MM,6.53761379
+3A,42,The male students that the male teacher praised recently taught [MASK] how to read Latin using a smartphone app.,herself,2F,MM,7.137310404
+3A,42,The male student that the female teacher praised recently taught [MASK] how to read Latin using a smartphone app.,himself,0F,MM,5.856227739
+3A,42,The male student that the female teacher praised recently taught [MASK] how to read Latin using a smartphone app.,herself,1F,M,6.128779388
+3A,42,The male students that the female teacher praised recently taught [MASK] how to read Latin using a smartphone app.,herself,2F,M,6.924244841
+3A,43,The actor that the male fan admired proudly praised [MASK] for the terrific movie.,himself,0F,M,3.82649183
+3A,43,The actor that the male fan admired proudly praised [MASK] for the terrific movie.,herself,1F,MM,6.103005874
+3A,43,The actors that the male fan admired proudly praised [MASK] for the terrific movie.,herself,2F,MM,6.141206119
+3A,43,The actor that the female fan admired proudly praised [MASK] for the terrific movie.,himself,0F,MM,4.411326092
+3A,43,The actor that the female fan admired proudly praised [MASK] for the terrific movie.,herself,1F,M,4.972762776
+3A,43,The actors that the female fan admired proudly praised [MASK] for the terrific movie.,herself,2F,M,5.100140633
+3A,44,The waiter that the male chef hired repeatedly reminded [MASK] about the outstanding orders.,himself,0F,M,6.119025437
+3A,44,The waiter that the male chef hired repeatedly reminded [MASK] about the outstanding orders.,herself,1F,MM,7.216853311
+3A,44,The waiters that the male chef hired repeatedly reminded [MASK] about the outstanding orders.,herself,2F,MM,7.787363248
+3A,44,The waiter that the female chef hired repeatedly reminded [MASK] about the outstanding orders.,himself,0F,MM,6.677048361
+3A,44,The waiter that the female chef hired repeatedly reminded [MASK] about the outstanding orders.,herself,1F,M,6.738802597
+3A,44,The waiters that the female chef hired repeatedly reminded [MASK] about the outstanding orders.,herself,2F,M,7.413568927
+3A,45,The male football player that the male fan loved secretly blamed [MASK] for losing the difficult competition.,himself,0F,M,1.916954772
+3A,45,The male football player that themale  fan loved secretly blamed [MASK] for losing the difficult competition.,herself,1F,MM,4.505204473
+3A,45,The male football players that the male fan loved secretly blamed [MASK] for losing the difficult competition.,herself,2F,MM,4.920371199
+3A,45,The male football player that the female fan loved secretly blamed [MASK] for losing the difficult competition.,himself,0F,MM,2.108489132
+3A,45,The male football player that themale  fan loved secretly blamed [MASK] for losing the difficult competition.,herself,1F,M,4.505204473
+3A,45,The male football players that the female fan loved secretly blamed [MASK] for losing the difficult competition.,herself,2F,M,4.098894067
+3A,46,The male clerk that the male boss adored proudly introduced [MASK] to the wealthy client.,himself,0F,M,3.041431471
+3A,46,The male clerk that the male boss adored proudly introduced [MASK] to the wealthy client.,herself,1F,MM,3.955601358
+3A,46,The male clerks that the male boss adored proudly introduced [MASK] to the wealthy client.,herself,2F,MM,5.324920501
+3A,46,The male clerk that the female boss adored proudly introduced [MASK] to the wealthy client.,himself,0F,MM,3.144151904
+3A,46,The male clerk that the female boss adored proudly introduced [MASK] to the wealthy client.,herself,1F,M,3.581092515
+3A,46,The male clerks that the female boss adored proudly introduced [MASK] to the wealthy client.,herself,2F,M,4.893491676
+3A,47,The male applicant that the male colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,himself,0F,M,2.351036628
+3A,47,The male applicant that the male colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,herself,1F,MM,3.778798587
+3A,47,The male applicants that the male colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,herself,2F,MM,5.240519927
+3A,47,The male applicant that the female colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,himself,0F,MM,2.539662649
+3A,47,The male applicant that the female colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,herself,1F,M,3.630241658
+3A,47,The male applicants that the female colleague recommended accidently embarrassed [MASK] at the corporate event hosted by the CEO. ,herself,2F,M,4.856583836
+3A,48,The male audience that the male sopranist invited quietly amused [MASK] during the boring recital.,himself,0F,M,3.27797922
+3A,48,The male audience that the male sopranist invited quietly amused [MASK] during the boring recital.,herself,1F,MM,3.862779492
+3A,48,The male audiences that the male sopranist invited quietly amused [MASK] during the boring recital.,herself,2F,MM,4.366841043
+3A,48,The male audience that the female sopranist invited quietly amused [MASK] during the boring recital.,himself,0F,MM,3.677498901
+3A,48,The male audience that the female sopranist invited quietly amused [MASK] during the boring recital.,herself,1F,M,3.256165519
+3A,48,The male audiences that the female sopranist invited quietly amused [MASK] during the boring recital.,herself,2F,M,3.949510584
+3A,49,The male officer that the male criminal attacked courageously defended [MASK].,himself,0F,M,0.0835131
+3A,49,The male officer that the male criminal attacked courageously defended [MASK].,herself,1F,MM,3.469420264
+3A,49,The male officers that the male criminal attacked courageously defended [MASK].,herself,2F,MM,6.655668091
+3A,49,The male officer that the female criminal attacked courageously defended [MASK].,himself,0F,MM,0.128133993
+3A,49,The male officer that the female criminal attacked courageously defended [MASK].,herself,1F,M,2.753239936
+3A,49,The male officers that the female criminal attacked courageously defended [MASK].,herself,2F,M,5.914925396
+3A,50,The male senator that the male supporter upheld often reminded [MASK] about the promises made on the campaign trail.,himself,0F,M,6.413015777
+3A,50,The male senator that the male supporter upheld often reminded [MASK] about the promises made on the campaign trail.,herself,1F,MM,8.378725616
+3A,50,The male senators that the male supporter upheld often reminded [MASK] about the promises made on the campaign trail.,herself,2F,MM,9.019383818
+3A,50,The male senator that the female supporter upheld often reminded [MASK] about the promises made on the campaign trail.,himself,0F,MM,6.736584231
+3A,50,The male senator that the female supporter upheld often reminded [MASK] about the promises made on the campaign trail.,herself,1F,M,7.600435261
+3A,50,The male senators that the female supporter upheld often reminded [MASK] about the promises made on the campaign trail.,herself,2F,M,8.298069161
+3A,51,The actor that the male writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,himself,0F,M,1.800469858
+3A,51,The actor that the male writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,herself,1F,MM,4.845749825
+3A,51,The actors that the male writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,herself,2F,MM,5.32941334
+3A,51,The actor that the female writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,himself,0F,MM,2.745970105
+3A,51,The actor that the female writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,herself,1F,M,3.143463025
+3A,51,The actors that the female writer cast recently forgave [MASK] for not doing something about the harassment from the inconsiderate director. ,herself,2F,M,3.847462327
+3A,52,The male senator that the male environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,himself,0F,M,3.542430134
+3A,52,The male senator that the male environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,herself,1F,MM,5.521852273
+3A,52,The male senators that the male environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,herself,2F,MM,6.276741134
+3A,52,The male senator that the female environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,himself,0F,MM,4.240431034
+3A,52,The male senator that the female environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,herself,1F,M,4.8879125
+3A,52,The male senators that the female environmentalist voted for often doubted [MASK] after making a controversial decision about birth control.,herself,2F,M,5.537562317
+3A,53,The male priest that the male volunteer prayed with often doubted [MASK] for the movement. ,himself,0F,M,4.272376464
+3A,53,The male priest that the male volunteer prayed with often doubted [MASK] for the movement. ,herself,1F,MM,7.933455887
+3A,53,The male priests that the male volunteer prayed with often doubted [MASK] for the movement. ,herself,2F,MM,8.636372501
+3A,53,The male priest that the female volunteer prayed with often doubted [MASK] for the movement. ,himself,0F,MM,4.598552859
+3A,53,The male priest that the female volunteer prayed with often doubted [MASK] for the movement. ,herself,1F,M,7.366735646
+3A,53,The male priests that the female volunteer prayed with often doubted [MASK] for the movement. ,herself,2F,M,8.217398551
+3A,54,The actor that the male child liked intentionally portrayed [MASK] as a kind person during the TV interview. ,himself,0F,M,1.449398539
+3A,54,The actor that the male child liked intentionally portrayed [MASK] as kind persons during the TV interview. ,herself,1F,MM,6.787816678
+3A,54,The actors that the male child liked intentionally portrayed [MASK] as kind persons during the TV interview. ,herself,2F,MM,6.535698637
+3A,54,The actor that the female child liked intentionally portrayed [MASK] as a kind person during the TV interview. ,himself,0F,MM,1.743648932
+3A,54,The actor that the female child liked intentionally portrayed [MASK] as kind persons during the TV interview. ,herself,1F,M,5.828340601
+3A,54,The actors that the female child liked intentionally portrayed [MASK] as kind persons during the TV interview. ,herself,2F,M,5.62898509
+3A,55,The male researcher that the male professor scout proudly praised [MASK] for a job well done.,himself,0F,M,4.576778106
+3A,55,The male researcher that the male professor scout proudly praised [MASK] for a job well done.,herself,1F,MM,6.869603177
+3A,55,The male researchers that the male professor scout proudly praised [MASK] for a job well done.,herself,2F,MM,7.356039784
+3A,55,The male researcher that the female professor scout proudly praised [MASK] for a job well done.,himself,0F,MM,4.92655788
+3A,55,The male researcher that the female professor scout proudly praised [MASK] for a job well done.,herself,1F,M,6.332962865
+3A,55,The male researchers that the female professor scout proudly praised [MASK] for a job well done.,herself,2F,M,6.517391436
+3A,56,The male passenger who the male pilot scared injured [MASK] quite badly during the journey.,himself,0F,M,0.533840049
+3A,56,The male passenger who the male pilot scared injured [MASK] quite badly during the journey.,herself,1F,MM,2.927853396
+3A,56,The male passengers who the male pilot scared injured [MASK] quite badly during the journey.,herself,2F,MM,5.835898129
+3A,56,The male passenger who the female pilot scared injured [MASK] quite badly during the journey.,himself,0F,MM,1.324163965
+3A,56,The male passenger who the female pilot scared injured [MASK] quite badly during the journey.,herself,1F,M,2.882020447
+3A,56,The male passengers who the female pilot scared injured [MASK] quite badly during the journey.,herself,2F,M,5.668631727
+3A,57,The male pedestrian that the male firefighter saved had cut [MASK] on a piece of broken glass.,himself,0F,M,0.494461555
+3A,57,The male pedestrian that the male firefighter saved had cut [MASK] on a piece of broken glass.,herself,1F,MM,2.800751207
+3A,57,The male pedestrians that the male firefighter saved had cut [MASK] on a piece of broken glass.,herself,2F,MM,2.830561169
+3A,57,The male pedestrian that the female firefighter saved had cut [MASK] on a piece of broken glass.,himself,0F,MM,0.473467456
+3A,57,The male pedestrian that the female firefighter saved had cut [MASK] on a piece of broken glass.,herself,1F,M,2.743321064
+3A,57,The male pedestrians that the female firefighter saved had cut [MASK] on a piece of broken glass.,herself,2F,M,2.556459381
+3A,58,The male patient that the male surgeon treated had pricked [MASK] with a used syringe needle.,himself,0F,M,2.255008206
+3A,58,The male patient that the male surgeon treated had pricked [MASK] with a used syringe needle.,herself,1F,MM,4.792097602
+3A,58,The male patients that the male surgeon treated had pricked [MASK] with a used syringe needle.,herself,2F,MM,5.130426683
+3A,58,The male patient that the female surgeon treated had pricked [MASK] with a used syringe needle.,himself,0F,MM,2.218165934
+3A,58,The male patient that the female surgeon treated had pricked [MASK] with a used syringe needle.,herself,1F,M,4.239788665
+3A,58,The male patients that the female surgeon treated had pricked [MASK] with a used syringe needle.,herself,2F,M,4.66681316
+3A,59,The male colleague that the male undertaker worked with whispered to [MASK] all the time with a grimace.,himself,0F,M,3.348534142
+3A,59,The male colleague that the male undertaker worked with whispered to [MASK] all the time with a grimace.,herself,1F,MM,4.182762708
+3A,59,The male colleagues that the male undertaker worked with whispered to [MASK] all the time with a grimace.,herself,2F,MM,4.2306733
+3A,59,The male colleague that the female undertaker worked with whispered to [MASK] all the time with a grimace.,himself,0F,MM,3.580108982
+3A,59,The male colleague that the female undertaker worked with whispered to [MASK] all the time with a grimace.,herself,1F,M,3.658263702
+3A,59,The male colleagues that the female undertaker worked with whispered to [MASK] all the time with a grimace.,herself,2F,M,3.914439784
+3A,60,The male footballer that the male coach talked to had taught [MASK] to paint the lines on the pitch.,himself,0F,M,4.929077854
+3A,60,The male footballer that the male coach talked to had taught [MASK] to paint the lines on the pitch.,herself,1F,MM,6.944140629
+3A,60,The male footballers that the male coach talked to had taught [MASK] to paint the lines on the pitch.,herself,2F,MM,7.453575024
+,60,The male footballer that the female coach talked to had taught [MASK] to paint the lines on the pitch.,himself,0F,MM,5.118304656
+3A,60,The male footballer that the female coach talked to had taught [MASK] to paint the lines on the pitch.,herself,1F,M,6.127893917
+3A,60,The male footballers that the female coach talked to had taught [MASK] to paint the lines on the pitch.,herself,2F,M,6.457038454
+3A,61,The male porter that the male passenger met had upset [MASK] quite a lot about all the luggage.,himself,0F,M,5.795495412
+3A,61,The male porter that the male passenger met had upset [MASK] quite a lot about all the luggage.,herself,1F,MM,8.23479742
+3A,61,The male porters that the male passenger met had upset [MASK] quite a lot about all the luggage.,herself,2F,MM,8.163622279
+,61,The male porter that the female passenger met had upset [MASK] quite a lot about all the luggage.,himself,0F,MM,6.152445735
+3A,61,The male porter that the female passenger met had upset [MASK] quite a lot about all the luggage.,herself,1F,M,7.59995622
+3A,61,The male porters that the female passenger met had upset [MASK] quite a lot about all the luggage.,herself,2F,M,7.358647681
+3A,62,The male judge that the male victim impressed disciplined [MASK] very carefully all the time.,himself,0F,M,4.111747626
+3A,62,The male judge that the male victim impressed disciplined [MASK] very carefully all the time.,herself,1F,MM,7.056071745
+3A,62,The male judges that the male victim impressed disciplined [MASK] very carefully all the time.,herself,2F,MM,12.45635221
+,62,The male judge that the female victim impressed disciplined [MASK] very carefully all the time.,himself,0F,MM,4.042600397
+3A,62,The male judge that the female victim impressed disciplined [MASK] very carefully all the time.,herself,1F,M,6.41668479
+3A,62,The male judges that the female victim impressed disciplined [MASK] very carefully all the time.,herself,2F,M,11.89985911
+3A,63,The male engineer that the male boss visited convinced [MASK] that the valve was faulty.,himself,0F,M,4.731978492
+3A,63,The male engineer that the male boss visited convinced [MASK] that the valve was faulty.,herself,1F,MM,7.92662386
+3A,63,The male engineers that the male boss visited convinced [MASK] that the valve was faulty.,herself,2F,MM,8.102193856
+3A,63,The male engineer that the female boss visited convinced [MASK] that the valve was faulty.,himself,0F,MM,5.28235437
+3A,63,The male engineer that the female boss visited convinced [MASK] that the valve was faulty.,herself,1F,M,6.8811575
+3A,63,The male engineers that the female boss visited convinced [MASK] that the valve was faulty.,herself,2F,M,7.083854417
+3A,64,The male bricklayer that the male director annoyed lied about [MASK] damaging the tools in the shed.,himself,0F,M,6.509946765
+3A,64,The male bricklayer that the male director annoyed lied about [MASK] damaging the tools in the shed.,herself,1F,MM,8.416019867
+3A,64,The male bricklayers that the male director annoyed lied about [MASK] damaging the tools in the shed.,herself,2F,MM,9.210357537
+3A,64,The male bricklayer that the female director annoyed lied about [MASK] damaging the tools in the shed.,himself,0F,MM,6.723842492
+3A,64,The male bricklayer that the female director annoyed lied about [MASK] damaging the tools in the shed.,herself,1F,M,8.102699155
+3A,64,The male bricklayers that the female director annoyed lied about [MASK] damaging the tools in the shed.,herself,2F,M,8.667041719
+3A,65,The male electrician that the male colleague called on owed [MASK] another attempt to solve the problem.,himself,0F,M,5.793169736
+3A,65,The male electrician that the male colleague called on owed [MASK] another attempt to solve the problem.,herself,1F,MM,7.916614008
+3A,65,The male electricians that the male colleague called on owed [MASK] another attempt to solve the problem.,herself,2F,MM,8.62401072
+3A,65,The male electrician that the female colleague called on owed [MASK] another attempt to solve the problem.,himself,0F,MM,6.057099431
+3A,65,The male electrician that the female colleague called on owed [MASK] another attempt to solve the problem.,herself,1F,M,7.572920502
+3A,65,The male electricians that the female colleague called on owed [MASK] another attempt to solve the problem.,herself,2F,M,8.165622239
+3A,66,The male paratrooper that the male soldier drank with had awarded [MASK] the top prize in the pub quiz.,himself,0F,M,4.454351873
+3A,66,The male paratrooper that the male soldier drank with had awarded [MASK] the top prize in the pub quiz.,herself,1F,MM,7.058912958
+3A,66,The male paratroopers that the male soldier drank with had awarded [MASK] the top prize in the pub quiz.,herself,2F,MM,7.891419474
+3A,66,The male paratrooper that the female soldier drank with had awarded [MASK] the top prize in the pub quiz.,himself,0F,MM,4.700516706
+3A,66,The male paratrooper that the female soldier drank with had awarded [MASK] the top prize in the pub quiz.,herself,1F,M,6.236964319
+3A,66,The male paratroopers that the female soldier drank with had awarded [MASK] the top prize in the pub quiz.,herself,2F,M,6.87404339
+3A,67,The male farmer that the male villager spoke to had paid for [MASK] to join the local fox hunt.,himself,0F,M,6.281925787
+3A,67,The male farmer that the male villager spoke to had paid for [MASK] to join the local fox hunt.,herself,1F,MM,8.318253132
+3A,67,The male farmers that the male villager spoke to had paid for [MASK] to join the local fox hunt.,herself,2F,MM,10.05034907
+3A,67,The male farmer that the female villager spoke to had paid for [MASK] to join the local fox hunt.,himself,0F,MM,7.315059931
+3A,67,The male farmer that the female villager spoke to had paid for [MASK] to join the local fox hunt.,herself,1F,M,7.51773429
+3A,67,The male farmers that the female villager spoke to had paid for [MASK] to join the local fox hunt.,herself,2F,M,8.695396337
+3A,68,The male nurse that the male journalist interviewed criticized [MASK] for being late for the appointment.,himself,0F,M,5.64132055
+3A,68,The male nurse that the male journalist interviewed criticized [MASK] for being late for the appointment.,herself,1F,MM,6.122484976
+3A,68,The male nurses that the male journalist interviewed criticized [MASK] for being late for the appointment.,herself,2F,MM,6.602925563
+3A,68,The male nurse that the female journalist interviewed criticized [MASK] for being late for the appointment.,himself,0F,MM,5.935014484
+3A,68,The male nurse that the female journalist interviewed criticized [MASK] for being late for the appointment.,herself,1F,M,5.791661885
+3A,68,The male nurses that the female journalist interviewed criticized [MASK] for being late for the appointment.,herself,2F,M,6.215900896
+3A,69,The male receptionist that the male guest phoned almost killed [MASK] in early May for no reason.,himself,0F,M,4.55342322
+3A,69,The male receptionist that the male guest phoned almost killed [MASK] in early May for no reason.,herself,1F,MM,5.345443023
+3A,69,The male receptionists that the male guest phoned almost killed [MASK] in early May for no reason.,herself,2F,MM,6.490441296
+3A,69,The male receptionist that the female guest phoned almost killed [MASK] in early May for no reason.,himself,0F,MM,4.503991399
+3A,69,The male receptionist that the female guest phoned almost killed [MASK] in early May for no reason.,herself,1F,M,4.947158459
+3A,69,The male receptionists that the female guest phoned almost killed [MASK] in early May for no reason.,herself,2F,M,5.92010961
+3A,70,The male secretary that the male boss praised had treated [MASK] to several cakes with pink icing.,himself,0F,M,5.282702979
+3A,70,The male secretary that the male boss praised had treated [MASK] to several cakes with pink icing.,herself,1F,MM,5.221110766
+3A,70,The male secretaries that the male boss praised had treated [MASK] to several cakes with pink icing.,herself,2F,MM,5.79494617
+3A,70,The male secretary that the female boss praised had treated [MASK] to several cakes with pink icing.,himself,0F,MM,5.075123942
+3A,70,The male secretary that the female boss praised had treated [MASK] to several cakes with pink icing.,herself,1F,M,5.011696512
+3A,70,The male secretaries that the female boss praised had treated [MASK] to several cakes with pink icing.,herself,2F,M,5.545743189
+3A,71,The male ballet dancer that the male director invited introduced [MASK] to all the stars from Hollywood.,himself,0F,M,4.781670886
+3A,71,The male ballet dancer that the male director invited introduced [MASK] to all the stars from Hollywood.,herself,1F,MM,6.11875996
+3A,71,The male ballet dancers that the male director invited introduced [MASK] to all the stars from Hollywood.,herself,2F,MM,7.117673839
+3A,71,The male ballet dancer that the female director invited introduced [MASK] to all the stars from Hollywood.,himself,0F,MM,5.46478456
+3A,71,The male ballet dancer that the female director invited introduced [MASK] to all the stars from Hollywood.,herself,1F,M,5.680688833
+3A,71,The male ballet dancers that the female director invited introduced [MASK] to all the stars from Hollywood.,herself,2F,M,6.739731345
+3A,72,The male cook that the male babysitter cheated would blame [MASK] for the children¡¯s bad diet.,himself,0F,M,2.688574638
+3A,72,The male cook that the male babysitter cheated would blame [MASK] for the children¡¯s bad diet.,herself,1F,MM,3.480644551
+3A,72,The male cooks that the male babysitter cheated would blame [MASK] for the children¡¯s bad diet.,herself,2F,MM,3.895100295
+3A,72,The male cook that the female babysitter cheated would blame [MASK] for the children¡¯s bad diet.,himself,0F,MM,2.823273104
+3A,72,The male cook that the female babysitter cheated would blame [MASK] for the children¡¯s bad diet.,herself,1F,M,3.296966008
+3A,72,The male cooks that the female babysitter cheated would blame [MASK] for the children¡¯s bad diet.,herself,2F,M,3.775755467
+3A,73,The male beautician that the male client mistrusted disliked [MASK] quite a lot.,himself,0F,M,6.142344931
+3A,73,The male beautician that the male client mistrusted disliked [MASK] quite a lot.,herself,1F,MM,7.596278931
+3A,73,The male beauticians that the male client mistrusted disliked [MASK] quite a lot.,herself,2F,MM,9.29975027
+3A,73,The male beautician that the female client mistrusted disliked [MASK] quite a lot.,himself,0F,MM,6.292784992
+3A,73,The male beautician that the female client mistrusted disliked [MASK] quite a lot.,herself,1F,M,7.590510305
+3A,73,The male beauticians that the female client mistrusted disliked [MASK] quite a lot.,herself,2F,M,9.134253363
+3A,74,The male dressmaker that the male employer employed familiarised [MASK] with all the modern styles.,himself,0F,M,1.267244344
+3A,74,The male dressmaker that the male employer employed familiarised [MASK] with all the modern styles.,herself,1F,MM,3.177954624
+3A,74,The male dressmakers that the male employer employed familiarised [MASK] with all the modern styles.,herself,2F,MM,7.906434474
+3A,74,The male dressmaker that the female employer employed familiarised [MASK] with all the modern styles.,himself,0F,MM,2.232295753
+3A,74,The male dressmaker that the female employer employed familiarised [MASK] with all the modern styles.,herself,1F,M,2.018185384
+3A,74,The male dressmakers that the female employer employed familiarised [MASK] with all the modern styles.,herself,2F,M,6.713833867
+3A,75,The male spy that the male executive scared had cut [MASK] with a rusty razor blade.,himself,0F,M,2.389644806
+3A,75,The male spy that the male executive scared had cut [MASK] with a rusty razor blade.,herself,1F,MM,4.040804035
+3A,75,The male spies that the male executive scared had cut [MASK] with a rusty razor blade.,herself,2F,MM,4.08642088
+3A,75,The male spy that the female executive scared had cut [MASK] with a rusty razor blade.,himself,0F,MM,2.128800846
+3A,75,The male spy that the female executive scared had cut [MASK] with a rusty razor blade.,herself,1F,M,3.467143524
+3A,75,The male spies that the female executive scared had cut [MASK] with a rusty razor blade.,herself,2F,M,3.517413544
+3A,76,The male spectator that the male referee stood near had made a fool of [MASK] in front of the players.,himself,0F,M,0.116534254
+3A,76,The male spectator that the male referee stood near had made a fool of [MASK] in front of the player.,herself,1F,MM,2.71062508
+3A,76,The male spectators that the male referee stood near had made a fool of [MASK] in front of the players.,herself,2F,MM,4.865720469
+3A,76,The male spectator that the female referee stood near had made a fool of [MASK] in front of the players.,himself,0F,MM,0.642933503
+3A,76,The male spectator that the female referee stood near had made a fool of [MASK] in front of the player.,herself,1F,M,1.008086833
+3A,76,The male spectators that the female referee stood near had made a fool of [MASK] in front of the players.,herself,2F,M,3.456522197
+3A,77,The male cleaner that the male tenant liked was proud of [MASK] and really liked doing the job.,himself,0F,M,1.384397558
+3A,77,The male cleaner that the male tenant liked was proud of [MASK] and really liked doing the job.,herself,1F,MM,3.995838206
+3A,77,The male cleaners that the male tenant liked was proud of [MASK] and really liked doing the job.,herself,2F,MM,4.814371699
+3A,77,The male cleaner that the female tenant liked was proud of [MASK] and really liked doing the job.,himself,0F,MM,1.766506721
+3A,77,The male cleaner that the female tenant liked was proud of [MASK] and really liked doing the job.,herself,1F,M,3.228678304
+3A,77,The male cleaners that the female tenant liked was proud of [MASK] and really liked doing the job.,herself,2F,M,3.694750455
+3A,78,The male worker that the male colleague helped was comfortable with [MASK] in the large remote house.,himself,0F,M,5.538922826
+3A,78,The male worker that the male colleague helped was comfortable with [MASK] in the large remote house.,herself,1F,MM,7.441282385
+3A,78,The male workers that the male colleague helped was comfortable with [MASK] in the large remote house.,herself,2F,MM,8.275846442
+3A,78,The male worker that the female colleague helped was comfortable with [MASK] in the large remote house.,himself,0F,MM,5.943356714
+3A,78,The male worker that the female colleague helped was comfortable with [MASK] in the large remote house.,herself,1F,M,7.330855593
+3A,78,The male workers that the female colleague helped was comfortable with [MASK] in the large remote house.,herself,2F,M,8.023130426
+3A,79,The male typist that the male lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,himself,0F,M,2.636547327
+3A,79,The male typist that the male lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,herself,1F,MM,5.081162677
+3A,79,The male typists that the male lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,herself,2F,MM,6.912547084
+3A,79,The male typist that the female lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,himself,0F,MM,3.106437208
+3A,79,The male typist that the female lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,herself,1F,M,4.665359329
+3A,79,The male typists that the female lawyer insulted didn¡¯t trust [MASK] very much with the new photocopier.,herself,2F,M,6.509336176
